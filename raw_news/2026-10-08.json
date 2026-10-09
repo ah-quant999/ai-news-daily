@@ -1,0 +1,332 @@
+{
+ "generated_at": "2026-10-09T21:49:53.102417+08:00",
+ "window": [
+  "2026-10-08T00:00:00+08:00",
+  "2026-10-09T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "TRAE终于把Code和Work合并了",
+   "link": "https://www.qbitai.com/2026/10/502426.html",
+   "summary": "大写的方便",
+   "published": "2026-10-09T17:19:57+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+   "link": "https://www.qbitai.com/2026/10/502422.html",
+   "summary": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
+   "published": "2026-10-09T16:53:08+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
+   "link": "https://www.qbitai.com/2026/10/502411.html",
+   "summary": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间",
+   "published": "2026-10-09T16:47:34+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "字节找到了DeepSeek时强时弱的原因",
+   "link": "https://www.qbitai.com/2026/10/502364.html",
+   "summary": "答不答得对，得看Token站位",
+   "published": "2026-10-09T15:11:55+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
+   "link": "https://www.qbitai.com/2026/10/502359.html",
+   "summary": "Google 研究成果首次登上《柳叶刀》主刊",
+   "published": "2026-10-09T14:28:55+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
+   "link": "https://www.qbitai.com/2026/10/502330.html",
+   "summary": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？",
+   "published": "2026-10-09T12:15:05+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+   "link": "https://www.qbitai.com/2026/10/502125.html",
+   "summary": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。",
+   "published": "2026-10-09T11:52:21+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
+   "link": "https://www.qbitai.com/2026/10/502114.html",
+   "summary": "江淮再度跌停",
+   "published": "2026-10-09T10:51:10+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+   "link": "https://www.qbitai.com/2026/10/502106.html",
+   "summary": "多Agent协同还能自我进化",
+   "published": "2026-10-09T10:37:22+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+   "link": "https://www.qbitai.com/2026/10/502096.html",
+   "summary": "让AI反复试错的“练兵场”来了",
+   "published": "2026-10-09T10:03:48+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+   "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+   "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
+   "published": "2026-10-08T23:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+   "link": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+   "summary": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
+   "published": "2026-10-08T22:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+   "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+   "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+   "published": "2026-10-08T22:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Google releases a new local-first Granola competitor",
+   "link": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+   "summary": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
+   "published": "2026-10-08T21:28:39+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+   "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+   "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+   "published": "2026-10-08T21:20:32+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+   "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+   "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+   "published": "2026-10-08T04:48:45+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+   "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+   "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+   "published": "2026-10-08T04:22:37+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+   "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+   "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+   "published": "2026-10-08T02:30:57+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+   "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+   "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+   "published": "2026-10-08T02:15:28+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+   "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+   "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+   "published": "2026-10-08T02:00:19+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+   "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
+   "summary": "Court filings reveal new details about Exxon's decades of internal climate deliberations.",
+   "published": "2026-10-08T22:04:42+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+   "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+   "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
+   "published": "2026-10-08T19:15:33+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+   "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+   "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
+   "published": "2026-10-08T08:00:24+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+   "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+   "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
+   "published": "2026-10-08T05:56:42+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
+   "link": "https://sspai.com/post/115532",
+   "summary": "XMG 发布 PRO 18 系列笔记本、OpenAI 宣布在 ChatGPT 上线 GPT-6 模型 查看全文",
+   "published": "2026-10-09T08:51:10+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：微软发布 Windows 相关新品、Google AI 新闻两则等",
+   "link": "https://sspai.com/post/115455",
+   "summary": "Anthropic 推出 Claude for Google Workspace、Reflection 发布首个开放权重模型 Beam 等。 查看全文",
+   "published": "2026-10-08T08:16:57+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "LocalMind: Pocket AI Assistant",
+   "link": "https://play.google.com/store/apps/details?id=com.pocketai.localmind&hl=en_US",
+   "summary": "",
+   "published": "2026-10-09T13:46:46Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI coding agents have a Mythical Man-Month problem",
+   "link": "https://www.youtube.com/watch?v=92dMxu3wcGI",
+   "summary": "",
+   "published": "2026-10-09T13:46:00Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Honjin, a macOS editor for running coding agents across many projects",
+   "link": "https://github.com/dhyeys54/honjin",
+   "summary": "",
+   "published": "2026-10-09T13:45:03Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Overzealous AI Guardrails Force Adult Users into Self-Censorship",
+   "link": "https://www.reddit.com/r/ChatGPTcomplaints/comments/1vjhxbl/stop_the_moral_policing_how_overzealous_ai/",
+   "summary": "",
+   "published": "2026-10-09T13:37:27Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "'I Was Certain, but I Was Wrong' (2000)",
+   "link": "https://www.nytimes.com/2000/06/18/opinion/i-was-certain-but-i-was-wrong.html",
+   "summary": "",
+   "published": "2026-10-09T13:33:16Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Ukraine expands drone strikes on data centres owned by Russia's Yandex",
+   "link": "https://www.reuters.com/world/europe/russias-yandex-says-second-data-centre-hit-by-drone-attack-2026-10-09/",
+   "summary": "",
+   "published": "2026-10-09T13:31:19Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "I Lost My Job to AI in China - Now What? [video]",
+   "link": "https://www.youtube.com/watch?v=eXyxQEkp58Y",
+   "summary": "",
+   "published": "2026-10-09T13:30:02Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "ALHR-A tree based sparse attention system that retains long context accuracy",
+   "link": "https://news.ycombinator.com/item?id=50020238",
+   "summary": "",
+   "published": "2026-10-09T13:27:33Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI Agents at Retail Brokerages",
+   "link": "https://www.condorcapital.com/digital-advice-report/reports/ai-agents-at-retail-brokerages-2q-2026/",
+   "summary": "",
+   "published": "2026-10-09T13:27:21Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Ask HN: What if no AIpocalypse, no AI bubble, what if it just keeps advancing?",
+   "link": "https://news.ycombinator.com/item?id=50020096",
+   "summary": "",
+   "published": "2026-10-09T13:18:05Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Patients are using AI to complain about their dentists",
+   "link": "https://www.toothlocal.com/reports/ai-reviews-2026/",
+   "summary": "",
+   "published": "2026-10-09T13:16:47Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Anthropic Usage Policy to prohibit \"abusive or cruel behavior\" toward Claude",
+   "link": "https://www.anthropic.com/legal/aup",
+   "summary": "",
+   "published": "2026-10-09T13:15:35Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "OpenAI withdraws 3 preprints after releasing 722 manuscripts",
+   "link": "https://retractionwatch.com/2026/10/08/openai-withdraws-preprints-722-manuscripts-unsolved-math-problems/",
+   "summary": "",
+   "published": "2026-10-09T13:06:37Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Defining Auth for Agents",
+   "link": "https://www.keycard.ai/blog/defining-auth-for-agents/",
+   "summary": "",
+   "published": "2026-10-09T13:06:32Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Opus 5.5 Took Fable's Job. Haiku 5.5 Proved Me Wrong",
+   "link": "https://thoughts.jock.pl/p/anthropic-5-5-lineup-opus-haiku-max-credits-2026",
+   "summary": "",
+   "published": "2026-10-09T13:04:47Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: FetchDue, chases overdue invoices from your own mailbox",
+   "link": "https://thecompound.tech",
+   "summary": "",
+   "published": "2026-10-09T13:04:38Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Why statutory laws fail against code: A critique of the EU AI Act",
+   "link": "https://medium.com/@kate8382/the-ai-security-paradox-why-old-laws-create-digital-enclosures-ff745d79e4f8",
+   "summary": "",
+   "published": "2026-10-09T13:03:35Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Claude Dashboards: The Jupyter Notebooks of Agent Age",
+   "link": "https://www.ssp.sh/brain/claude-dashboards/",
+   "summary": "",
+   "published": "2026-10-09T13:01:47Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Anthropic bans users from being 'cruel' to its AI systems",
+   "link": "https://www.bbc.com/news/articles/c6j9k1l72wkgo",
+   "summary": "",
+   "published": "2026-10-09T13:00:21Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: UserAlertX – let your AI agent text you (only you)",
+   "link": "https://useralertx.com",
+   "summary": "",
+   "published": "2026-10-09T12:56:13Z"
+  }
+ ],
+ "total": 46
+}
