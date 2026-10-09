@@ -1,0 +1,41 @@
+name: AI news daily digest
+
+on:
+  schedule:
+    # 01:00 UTC = 09:00 北京时间（CST+8）
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ai-news-daily
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch yesterday AI news (RSS, free)
+        run: python scripts/fetch_news.py
+
+      - name: Summarize with free Hy3 (OpenRouter)
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: python scripts/summarize.py
+
+      - name: Commit digest
+        run: |
+          git config user.name "阿狸咪的工程师"
+          git config user.email "actions@users.noreply.github.com"
+          git add digests/ raw_news/
+          git commit -m "AI news digest $(TZ=UTC-8 date +%F) [skip ci]" || echo "nothing to commit"
+          git push
