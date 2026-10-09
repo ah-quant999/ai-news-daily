@@ -17,10 +17,13 @@ CST = timezone(timedelta(hours=8))
 
 RSS_SOURCES = [
     # (名称, URL, 是否全量收录[AI垂直源=True / 综合源需关键词过滤=False])
-    ("机器之心", "https://www.jiqizhixin.com/rss", True),
+    # 2026-10-09 实测：机器之心/36氪/Solidot 的 RSS 已返回 HTML（反爬/停服），
+    # VentureBeat 429、RSSHub 公共实例不可达 —— 全部剔除，只留实测可用的源。
     ("量子位", "https://www.qbitai.com/feed", True),
-    ("36氪", "https://36kr.com/feed", False),
-    ("Solidot", "https://www.solidot.org/index?rss", False),
+    ("TechCrunch AI", "https://techcrunch.com/category/artificial-intelligence/feed/", True),
+    ("The Verge", "https://www.theverge.com/rss/index.xml", False),
+    ("Ars Technica", "https://feeds.arstechnica.com/arstechnica/index", False),
+    ("少数派", "https://sspai.com/feed", False),
 ]
 
 AI_KEYWORDS = [
@@ -38,7 +41,7 @@ def _http_get(url: str, timeout: int = 30, retries: int = 3) -> bytes:
     for i in range(retries):
         try:
             req = urllib.request.Request(
-                url, headers={"User-Agent": "Mozilla/5.0 (ai-news-daily bot)"}
+                url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) ai-news-daily"}
             )
             with urllib.request.urlopen(req, timeout=timeout) as r:
                 return r.read()
