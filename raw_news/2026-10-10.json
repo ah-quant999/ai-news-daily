@@ -1,0 +1,353 @@
+{
+ "generated_at": "2026-10-11T14:51:59.017042+08:00",
+ "window": [
+  "2026-10-10T00:00:00+08:00",
+  "2026-10-11T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "特斯拉FSD，在欧洲被打回原形",
+   "link": "https://www.qbitai.com/2026/10/502467.html",
+   "summary": "马斯克反而发文道谢？",
+   "published": "2026-10-10T14:59:02+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "TRAE终于把Code和Work合并了",
+   "link": "https://www.qbitai.com/2026/10/502426.html",
+   "summary": "大写的方便",
+   "published": "2026-10-09T17:19:57+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+   "link": "https://www.qbitai.com/2026/10/502422.html",
+   "summary": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
+   "published": "2026-10-09T16:53:08+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
+   "link": "https://www.qbitai.com/2026/10/502411.html",
+   "summary": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间",
+   "published": "2026-10-09T16:47:34+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "字节找到了DeepSeek时强时弱的原因",
+   "link": "https://www.qbitai.com/2026/10/502364.html",
+   "summary": "答不答得对，得看Token站位",
+   "published": "2026-10-09T15:11:55+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
+   "link": "https://www.qbitai.com/2026/10/502359.html",
+   "summary": "Google 研究成果首次登上《柳叶刀》主刊",
+   "published": "2026-10-09T14:28:55+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
+   "link": "https://www.qbitai.com/2026/10/502330.html",
+   "summary": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？",
+   "published": "2026-10-09T12:15:05+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+   "link": "https://www.qbitai.com/2026/10/502125.html",
+   "summary": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。",
+   "published": "2026-10-09T11:52:21+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
+   "link": "https://www.qbitai.com/2026/10/502114.html",
+   "summary": "江淮再度跌停",
+   "published": "2026-10-09T10:51:10+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+   "link": "https://www.qbitai.com/2026/10/502106.html",
+   "summary": "多Agent协同还能自我进化",
+   "published": "2026-10-09T10:37:22+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+   "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+   "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+   "published": "2026-10-10T23:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Here are the top AI agents that can live in your text messages",
+   "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "published": "2026-10-10T22:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+   "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+   "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+   "published": "2026-10-10T08:18:32+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+   "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+   "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+   "published": "2026-10-10T05:41:29+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+   "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+   "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+   "published": "2026-10-10T03:36:56+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+   "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+   "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;propose",
+   "published": "2026-10-10T00:56:42+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+   "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+   "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;propose",
+   "published": "2026-10-10T00:53:02+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Danu Robotics’ fight to build a better recycling robot",
+   "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+   "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+   "published": "2026-10-10T00:45:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "We can’t help treating AI like it’s human. But should we?",
+   "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+   "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+   "published": "2026-10-10T00:40:14+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "One with the world? A new look at brains transformed by psychedelics.",
+   "link": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+   "summary": "Participants meditated inside an MRI tube, with and without psilocybin.",
+   "published": "2026-10-10T19:15:35+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Neanderthal wooden tools from Spain found preserved in stone",
+   "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+   "summary": "Dissolved rock precipitated around the tools, which then decayed.",
+   "published": "2026-10-10T06:34:03+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+   "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+   "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+   "published": "2026-10-10T06:04:07+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+   "link": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+   "summary": "Stylish upcycling, with a retro flair, at Spain's Museo de Historia de la Computación.",
+   "published": "2026-10-10T05:51:12+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "NASA issues long-awaited call to industry for private space stations",
+   "link": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+   "summary": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
+   "published": "2026-10-10T05:34:09+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "What's been driving Hawaii's lava fountains?",
+   "link": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
+   "summary": "Before the lava fountains started, the ground was expanding by half a meter a day.",
+   "published": "2026-10-10T05:05:01+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "AI coding agents generate more code, but not more software",
+   "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+   "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+   "published": "2026-10-10T03:43:50+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "AI disqualification yields new Nikon Small World in Motion winner",
+   "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+   "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
+   "published": "2026-10-10T02:44:06+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
+   "link": "https://sspai.com/post/115532",
+   "summary": "XMG 发布 PRO 18 系列笔记本、OpenAI 宣布在 ChatGPT 上线 GPT-6 模型 查看全文",
+   "published": "2026-10-09T08:51:10+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：微软发布 Windows 相关新品、Google AI 新闻两则等",
+   "link": "https://sspai.com/post/115455",
+   "summary": "Anthropic 推出 Claude for Google Workspace、Reflection 发布首个开放权重模型 Beam 等。 查看全文",
+   "published": "2026-10-08T08:16:57+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Opus Core 1.2 is now available",
+   "link": "https://news.ycombinator.com/item?id=50040376",
+   "summary": "",
+   "published": "2026-10-11T06:49:19Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Lovable Style Builder via CF Inference GLM-5.3, Kimi K2.7 Code and GLM-5.3 Flash",
+   "link": "https://mainbrella.com/blog/lovable-style-builder-cloudflare-inference/",
+   "summary": "",
+   "published": "2026-10-11T06:49:07Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI's leaders (probably) aren't faking their fear",
+   "link": "https://www.vox.com/politics/505834/ai-doom-anthropic-openai-pr",
+   "summary": "",
+   "published": "2026-10-11T06:43:59Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "From WordPress to Astro: Zero Maintenance, Maximum Control",
+   "link": "https://www.mikeroberto.com/wordpress-astro-migration",
+   "summary": "",
+   "published": "2026-10-11T06:32:29Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "LiteReview: A self-hosted plane for configuring PR review agents",
+   "link": "https://github.com/BerriAI/litereview",
+   "summary": "",
+   "published": "2026-10-11T06:23:55Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Ask Claude Code for a Svelte table and it writes 1k lines of its own",
+   "link": "https://svgrid.com/blog/ai-assistant-writes-its-own-table/",
+   "summary": "",
+   "published": "2026-10-11T06:16:44Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Suta – A skill to reduce AI slop in generated UIs",
+   "link": "https://github.com/Guksu/suta",
+   "summary": "",
+   "published": "2026-10-11T06:10:15Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Ukraine hits second major tech site, expanding range of targets inside Russia",
+   "link": "https://www.reuters.com/world/europe/russias-yandex-says-second-data-centre-hit-by-drone-attack-2026-10-09/",
+   "summary": "",
+   "published": "2026-10-11T05:27:34Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Every lawsuit against an AI company",
+   "link": "https://ailawsuittracker.com/",
+   "summary": "",
+   "published": "2026-10-11T05:26:22Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "The Awesome Power of Constraint Solvers",
+   "link": "https://btmc.substack.com/p/the-awesome-power-of-constraint-solvers",
+   "summary": "",
+   "published": "2026-10-11T05:16:50Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Gemini API RLS notes: 3.7-flash now routed to 3.8-flash, 3.5->3.6",
+   "link": "https://ai.google.dev/gemini-api/docs/changelog",
+   "summary": "",
+   "published": "2026-10-11T04:45:41Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "CortextAI – A private, offline AI workspace for email, notes, tasks, and files",
+   "link": "https://cortextai.saposs.com",
+   "summary": "",
+   "published": "2026-10-11T04:41:48Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "SpaceX Raised $111B – It Needs More [video]",
+   "link": "https://www.youtube.com/watch?v=9SAgLMahZm4",
+   "summary": "",
+   "published": "2026-10-11T04:37:28Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Assorted things I've been mulling over regarding agents in the economy",
+   "link": "https://twitter.com/patrickc/status/2108706907859116280",
+   "summary": "",
+   "published": "2026-10-11T04:32:13Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Europe confident its rules can thwart rogue AI",
+   "link": "https://www.rnz.co.nz/news/science-and-technology/1824809/europe-confident-its-rules-can-thwart-rogue-ai",
+   "summary": "",
+   "published": "2026-10-11T03:57:03Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
+   "link": "https://github.com/vscarpenter/gsd-task-manager",
+   "summary": "",
+   "published": "2026-10-11T03:42:56Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI agents in a stand-up call",
+   "link": "https://atoll92.github.io/agent-standup/",
+   "summary": "",
+   "published": "2026-10-11T03:42:47Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Satya Nadella says we should assume all AI models are 'compromised'",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+   "summary": "",
+   "published": "2026-10-11T03:41:53Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Human Art Launch – A daily showcase for independent visual artists",
+   "link": "https://humanartlaunch.com",
+   "summary": "",
+   "published": "2026-10-11T03:30:26Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI Layer – Claude Code Plugins with DuckDB Memory and CI Workflows",
+   "link": "https://gitlab.com/kriscodes2-claude-plugins/ai-layer",
+   "summary": "",
+   "published": "2026-10-11T03:23:53Z"
+  }
+ ],
+ "total": 49
+}
