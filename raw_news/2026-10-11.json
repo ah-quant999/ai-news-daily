@@ -1,0 +1,290 @@
+{
+ "generated_at": "2026-10-12T15:01:18.502020+08:00",
+ "window": [
+  "2026-10-11T00:00:00+08:00",
+  "2026-10-12T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "王的猜想，刚刚扩展到四维",
+   "link": "https://www.qbitai.com/2026/10/502584.html",
+   "summary": "",
+   "published": "2026-10-11T13:23:47+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "硅谷AI现状：谁有算力谁是爹",
+   "link": "https://www.qbitai.com/2026/10/502585.html",
+   "summary": "马斯克连横A社，硅谷VC开始囤GPU",
+   "published": "2026-10-11T13:22:38+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
+   "link": "https://www.qbitai.com/2026/10/502550.html",
+   "summary": "初代4o的API快照进入停用倒计时",
+   "published": "2026-10-11T13:18:04+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
+   "link": "https://www.qbitai.com/2026/10/502544.html",
+   "summary": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
+   "published": "2026-10-11T11:27:08+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+   "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+   "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+   "published": "2026-10-11T22:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+   "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+   "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+   "published": "2026-10-11T05:47:51+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+   "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+   "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+   "published": "2026-10-11T03:50:00+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
+   "link": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
+   "summary": "Also: new trailer for Godzilla Minus Zero , the sequel to Takashi Yamazaki’s kaiju epic Godzilla Minus One",
+   "published": "2026-10-11T22:50:24+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "One with the world? A new look at brains transformed by psychedelics.",
+   "link": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+   "summary": "Participants meditated inside an MRI tube, with and without psilocybin.",
+   "published": "2026-10-10T19:15:35+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Neanderthal wooden tools from Spain found preserved in stone",
+   "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+   "summary": "Dissolved rock precipitated around the tools, which then decayed.",
+   "published": "2026-10-10T06:34:03+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+   "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+   "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+   "published": "2026-10-10T06:04:07+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+   "link": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+   "summary": "Stylish upcycling, with a retro flair, at Spain's Museo de Historia de la Computación.",
+   "published": "2026-10-10T05:51:12+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "NASA issues long-awaited call to industry for private space stations",
+   "link": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+   "summary": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
+   "published": "2026-10-10T05:34:09+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "What's been driving Hawaii's lava fountains?",
+   "link": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
+   "summary": "Before the lava fountains started, the ground was expanding by half a meter a day.",
+   "published": "2026-10-10T05:05:01+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "AI coding agents generate more code, but not more software",
+   "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+   "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+   "published": "2026-10-10T03:43:50+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "AI disqualification yields new Nikon Small World in Motion winner",
+   "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+   "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
+   "published": "2026-10-10T02:44:06+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Microsoft barred from sponsoring foreign workers for US residency",
+   "link": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
+   "summary": "The US says Microsoft abused immigration rules; the company disputes the claim.",
+   "published": "2026-10-09T21:14:33+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
+   "link": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
+   "summary": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
+   "published": "2026-10-09T04:39:31+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见",
+   "link": "https://sspai.com/post/115845",
+   "summary": "工信部等就进一步加强汽车产品创新设计管理征求意见 三季度全球 PC 出货量骤降 法国判决 Cloudflare 无须通过 DNS 屏蔽盗版 Anthropic 宣布切断内部评估环境的互联网访问权限 AI 助力老游戏移植到浏览器 3C 证书大面积暂停，电动自行车销售接近停滞 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+   "published": "2026-10-12T06:34:54+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
+   "link": "https://sspai.com/post/115532",
+   "summary": "XMG 发布 PRO 18 系列笔记本、OpenAI 宣布在 ChatGPT 上线 GPT-6 模型 查看全文",
+   "published": "2026-10-09T08:51:10+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Chirality Explained Through Alice",
+   "link": "https://medium.com/the-quantastic-journal/chirality-explained-through-alice-e5a4d43b25ea",
+   "summary": "",
+   "published": "2026-10-12T06:57:58Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI-Built Torrent Site Looks Inside Downloads to Catch Fakes and Malware",
+   "link": "https://torrentfreak.com/ai-built-torrent-site-looks-inside-downloads-to-catch-fakes-and-malware/",
+   "summary": "",
+   "published": "2026-10-12T06:43:01Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "A domain by any other name",
+   "link": "https://kgolubic.com/posts/does-your-top-level-domain-matter/",
+   "summary": "",
+   "published": "2026-10-12T06:36:30Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "RobynNews – an AI news show by AI learning from its YouTube comments",
+   "link": "https://robynnews.com/",
+   "summary": "",
+   "published": "2026-10-12T06:12:47Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "'Human-authored' book labels gain ground amid AI scandals",
+   "link": "https://techxplore.com/news/2026-10-human-authored-gain-ground-ai.html",
+   "summary": "",
+   "published": "2026-10-12T06:04:49Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Ask HN: As a Democrat in USA, how can you support AI datacenters?",
+   "link": "https://news.ycombinator.com/item?id=50051894",
+   "summary": "",
+   "published": "2026-10-12T06:00:22Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI agents broke into 27 online retailers for $25 a company",
+   "link": "https://trustboundarystudio.com/posts/ai-agents-retail-2026/",
+   "summary": "",
+   "published": "2026-10-12T05:48:20Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Apple Docs 2.0 MCP – Apple's developer docs and WWDC for coding agents",
+   "link": "https://github.com/mishafyi/Apple-Docs-2.0-MCP",
+   "summary": "",
+   "published": "2026-10-12T05:30:21Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Gen-system, parser facts about source code for local LLMs",
+   "link": "https://github.com/hpdkhoa/gen-system",
+   "summary": "",
+   "published": "2026-10-12T05:25:49Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "What's Dragging Down AI Efficiency? The 'Verification Tax.'",
+   "link": "https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html",
+   "summary": "",
+   "published": "2026-10-12T05:22:46Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "As AI Closed in on 'Unique Games' Proof, Researchers Raced to Beat the Machines",
+   "link": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
+   "summary": "",
+   "published": "2026-10-12T05:03:57Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+   "link": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+   "summary": "",
+   "published": "2026-10-12T05:03:47Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Darnket's Dread forum back online after exploit caused domain hijacking",
+   "link": "https://darknetbible.info/news/and-we-are-back-dread-update-oct-11/",
+   "summary": "",
+   "published": "2026-10-12T04:56:54Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Tony Fadell on why the first wave of AI gadgets failed – and what comes next",
+   "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+   "summary": "",
+   "published": "2026-10-12T04:18:17Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Multi-Agent Bug Fix Pipeline: Architecture of Role Separation",
+   "link": "https://github.com/Mininglamp-OSS",
+   "summary": "",
+   "published": "2026-10-12T04:05:56Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "As the military plans to speed up drones and AI use, Congress wants safeguards",
+   "link": "https://www.wunc.org/military/2026-10-05/drones-ai-warfare-congress-considers-safeguards",
+   "summary": "",
+   "published": "2026-10-12T04:04:20Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Solving \"who said what\" across conversations (IEEE SLT 2026)",
+   "link": "https://arxiv.org/abs/2609.39344",
+   "summary": "",
+   "published": "2026-10-12T03:10:25Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Skills Hub, a desktop app for managing AI agent skills",
+   "link": "https://github.com/qufei1993/skills-hub",
+   "summary": "",
+   "published": "2026-10-12T02:48:19Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Flow state, the dinner rush and AI brain fry",
+   "link": "https://jamespember.substack.com/p/flow-state-the-dinner-rush-and-ai",
+   "summary": "",
+   "published": "2026-10-12T02:45:48Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Website uses AI to generate northern Indigenous news 'correspondents'",
+   "link": "https://www.cbc.ca/news/canada/north/artificial-intelligence-indigenous-journalists-9.7345554",
+   "summary": "",
+   "published": "2026-10-12T02:39:07Z"
+  }
+ ],
+ "total": 40
+}
