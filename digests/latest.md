@@ -1,37 +1,37 @@
-# 2026-10-12 AI 资讯日报（降级·标题清单版）
+# 2026-10-13 AI 资讯日报（降级·标题清单版）
 
 > 模型总结不可用：未配置 OPENROUTER_API_KEY。以下为原始条目，仅供参考。
 
-- **华为AI靠RSI通关25款游戏！操作次数比人类少56%**（量子位）
-- **智谱新模型，490 tokens/s！**（量子位）
-- **用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针**（量子位）
-- **何恺明团队发布多模态Harness框架**（量子位）
-- **陶哲轩：数学2.0时代已至！**（量子位）
-- **王的猜想，刚刚扩展到四维**（量子位）
-- **硅谷AI现状：谁有算力谁是爹**（量子位）
-- **下架8个月，GPT-4o的拯救行动居然还在继续**（量子位）
-- **DeepSeek Bot来了！民间版，DSH装个插件就能用**（量子位）
-- **西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地**（量子位）
-- **Honeyjar offers AI tools to improve PR and comms at every company**（TechCrunch AI）
-- **Microsoft president says UK is best placed to drive AI regulation**（TechCrunch AI）
-- **This AI startup says it can generate permit-ready blueprints in minutes**（TechCrunch AI）
-- **TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings**（TechCrunch AI）
-- **Former Plaud exec raises $26M for AI app that listens to you in the background**（TechCrunch AI）
-- **Will the HomeView be Apple’s first smart home success?**（TechCrunch AI）
-- **48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next**（TechCrunch AI）
-- **Can the AI industry persuade data center opponents by getting rid of NDAs?**（TechCrunch AI）
+- **魔法原子具身Agent框架拿下MolmoSpaces全球第一**（量子位）
+- **梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑**（量子位）
+- **中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战**（量子位）
+- **华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁**（量子位）
+- **Claude团队又搞事：实测AI全自主复制进智能家电**（量子位）
+- **TechCrunch Disrupt 2026: Day 1**（TechCrunch AI）
+- **SpaceXSI bundles X Premium, Grok, and Cursor into one subscription**（TechCrunch AI）
+- **The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026**（TechCrunch AI）
+- **Amex introduces a framework to prevent AI agents from making unauthorized purchases**（TechCrunch AI）
+- **Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy**（TechCrunch AI）
+- **Meta releases its first frontier model, Muse Wonder**（TechCrunch AI）
+- **WindBorne wins a hefty US Air Force contract for its balloon data**（TechCrunch AI）
 - **Epic Games reportedly pivoting to "AI first" game development model**（Ars Technica）
 - **WHO report on Russian lab worker death highlights "key uncertainty"**（Ars Technica）
 - **Anthropic's Claude AI submitted false murder tip to Philadelphia police**（Ars Technica）
 - **Russia was not ready for the data center war it started with Ukraine**（Ars Technica）
 - **Long-lost horror gaming cult classic P.T. gets a much-needed PC port**（Ars Technica）
-- **Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air**（Ars Technica）
-- **Prime Video unveils Blade Runner 2099 full trailer at NYCC**（Ars Technica）
-- **One with the world? A new look at brains transformed by psychedelics.**（Ars Technica）
-- **Neanderthal wooden tools from Spain found preserved in stone**（Ars Technica）
-- **Ukraine’s drones knock out AI data center belonging to "Russia’s Google"**（Ars Technica）
-- **A Cray-1 supercomputer replica from 30 "obsolete" Mac Minis**（Ars Technica）
-- **NASA issues long-awaited call to industry for private space stations**（Ars Technica）
+- **派早报：Apple 发布 HomePod mini 2、HomeView 等新品**（少数派）
+- **派早报：一加发布一加 16，Google 推出 Fitbit Edge 等**（少数派）
+- **LeanLLM: An LLM SDK for applications written in Lean 4**（Hacker News）
+- **Blasting the Air in Front of Hypersonic Vehicles with Lasers Could Unlock (2020)**（Hacker News）
+- **OpenAI employee arrested after recording device found in office**（Hacker News）
+- **Neurochat Running on Community GPUs**（Hacker News）
+- **Visiting Taiwan with Jensen Huang – Lex Fridman**（Hacker News）
+- **Show HN: SuperLocalMemory" AI brain that never bluffs: Laya, Jev, Google Gemma**（Hacker News）
+- **I Tested AI Cloning and It's Worse Than You Think [video]**（Hacker News）
+- **AI godfather Geoffrey Hinton: 'We're creating alien beings'**（Hacker News）
+- **The 8-mile hole in a Hawaii national park that no one can explain**（Hacker News）
+- **PS5LM: Llama.cpp on a jailbroken PS5, run any GGUF model natively on the console**（Hacker News）
+- **MS Paint Adds Freeform Rotation (2026)**（Hacker News）
 
 ---
-*生成：GitHub Actions + 免费模型 degraded · 条目数 45 · 零积分*
+*生成：GitHub Actions + 免费模型 degraded · 条目数 39 · 零积分*
