@@ -1,37 +1,37 @@
-# 2026-10-13 AI 资讯日报（降级·标题清单版）
+# 2026-10-14 AI 资讯日报（降级·标题清单版）
 
 > 模型总结不可用：未配置 OPENROUTER_API_KEY。以下为原始条目，仅供参考。
 
-- **魔法原子具身Agent框架拿下MolmoSpaces全球第一**（量子位）
-- **梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑**（量子位）
-- **中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战**（量子位）
-- **华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁**（量子位）
-- **Claude团队又搞事：实测AI全自主复制进智能家电**（量子位）
-- **TechCrunch Disrupt 2026: Day 1**（TechCrunch AI）
-- **SpaceXSI bundles X Premium, Grok, and Cursor into one subscription**（TechCrunch AI）
-- **The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026**（TechCrunch AI）
-- **Amex introduces a framework to prevent AI agents from making unauthorized purchases**（TechCrunch AI）
-- **Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy**（TechCrunch AI）
-- **Meta releases its first frontier model, Muse Wonder**（TechCrunch AI）
-- **WindBorne wins a hefty US Air Force contract for its balloon data**（TechCrunch AI）
-- **Epic Games reportedly pivoting to "AI first" game development model**（Ars Technica）
-- **WHO report on Russian lab worker death highlights "key uncertainty"**（Ars Technica）
-- **Anthropic's Claude AI submitted false murder tip to Philadelphia police**（Ars Technica）
-- **Russia was not ready for the data center war it started with Ukraine**（Ars Technica）
-- **Long-lost horror gaming cult classic P.T. gets a much-needed PC port**（Ars Technica）
-- **派早报：Apple 发布 HomePod mini 2、HomeView 等新品**（少数派）
-- **派早报：一加发布一加 16，Google 推出 Fitbit Edge 等**（少数派）
-- **LeanLLM: An LLM SDK for applications written in Lean 4**（Hacker News）
-- **Blasting the Air in Front of Hypersonic Vehicles with Lasers Could Unlock (2020)**（Hacker News）
-- **OpenAI employee arrested after recording device found in office**（Hacker News）
-- **Neurochat Running on Community GPUs**（Hacker News）
-- **Visiting Taiwan with Jensen Huang – Lex Fridman**（Hacker News）
-- **Show HN: SuperLocalMemory" AI brain that never bluffs: Laya, Jev, Google Gemma**（Hacker News）
-- **I Tested AI Cloning and It's Worse Than You Think [video]**（Hacker News）
-- **AI godfather Geoffrey Hinton: 'We're creating alien beings'**（Hacker News）
-- **The 8-mile hole in a Hawaii national park that no one can explain**（Hacker News）
-- **PS5LM: Llama.cpp on a jailbroken PS5, run any GGUF model natively on the console**（Hacker News）
-- **MS Paint Adds Freeform Rotation (2026)**（Hacker News）
+- **抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！**（量子位）
+- **阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行**（量子位）
+- **智能不出彩的「领克」，刚靠一次坠崖事故出圈了**（量子位）
+- **《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了**（量子位）
+- **STEPX首款大模型原生智能体手机STEPX Neo正式发布**（量子位）
+- **MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片**（量子位）
+- **国内最年轻AI教授创业：要让世界模型走向全身全模态**（量子位）
+- **调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地**（量子位）
+- **响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent**（量子位）
+- **Deezer will soon let you filter out AI-generated music**（TechCrunch AI）
+- **Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West**（TechCrunch AI）
+- **Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace**（TechCrunch AI）
+- **Floqer’s AI agents research sales prospects so teams don’t have to**（TechCrunch AI）
+- **TechCrunch Disrupt 2026: Day 2**（TechCrunch AI）
+- **Scimplify raises $25M to challenge China’s grip on critical materials with AI**（TechCrunch AI）
+- **Science Corporation implants its vision-restoring chip in its first Stargardt disease patient**（TechCrunch AI）
+- **Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home**（TechCrunch AI）
+- **Industrial Next wants factory robots to switch tasks in minutes, not weeks**（TechCrunch AI）
+- **Cerebras CEO pushes back on AI doomsday warnings**（TechCrunch AI）
+- **Judge orders OpenAI to turn over hiring records in Apple trade secrets case**（TechCrunch AI）
+- **Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads**（TechCrunch AI）
+- **Facebook is giving users more control over their algorithm**（TechCrunch AI）
+- **Laplace Intelligence red-teams robots and self-driving cars before they hit the real world**（TechCrunch AI）
+- **Ukraine blindsided by Starlink throttling restrictions and intelligence gaps**（Ars Technica）
+- **Anthropic warns small AI models could self-replicate through IoT devices**（Ars Technica）
+- **OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say**（Ars Technica）
+- **Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says**（Ars Technica）
+- **Trump commercial railing against his enemies kept airing after court blocked it**（Ars Technica）
+- **Disney offers $20M for Character.AI’s scandal-plagued chatbot tech**（Ars Technica）
+- **派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等**（少数派）
 
 ---
-*生成：GitHub Actions + 免费模型 degraded · 条目数 39 · 零积分*
+*生成：GitHub Actions + 免费模型 degraded · 条目数 45 · 零积分*
