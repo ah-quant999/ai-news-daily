@@ -1,0 +1,339 @@
+{
+ "generated_at": "2026-10-17T13:21:49.382154+08:00",
+ "window": [
+  "2026-10-16T00:00:00+08:00",
+  "2026-10-17T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+   "link": "https://www.qbitai.com/2026/10/503880.html",
+   "summary": "从搭载物理建模能力的世界模型切入",
+   "published": "2026-10-16T20:54:54+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
+   "link": "https://www.qbitai.com/2026/10/503865.html",
+   "summary": "VLA解决“能干”，世界模型解决“想清楚再干”",
+   "published": "2026-10-16T16:12:01+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
+   "link": "https://www.qbitai.com/2026/10/503861.html",
+   "summary": "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议",
+   "published": "2026-10-16T16:07:33+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
+   "link": "https://www.qbitai.com/2026/10/503843.html",
+   "summary": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名",
+   "published": "2026-10-16T16:00:31+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "范式智能联合睿思智联推出开源一站式 生产级 AI 部署平台 “模域ModelSphere”",
+   "link": "https://www.qbitai.com/2026/10/503829.html",
+   "summary": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。",
+   "published": "2026-10-16T15:16:11+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
+   "link": "https://www.qbitai.com/2026/10/503815.html",
+   "summary": "经验没有压缩算法",
+   "published": "2026-10-16T15:01:31+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户",
+   "link": "https://www.qbitai.com/2026/10/503782.html",
+   "summary": "9.8万元起售，冲刺万台量产",
+   "published": "2026-10-16T14:17:53+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？",
+   "link": "https://www.qbitai.com/2026/10/503779.html",
+   "summary": "10月15日，百度官方公众号发文公布百度世界2026五大亮点",
+   "published": "2026-10-16T14:07:41+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "中国机器人羽毛球连打1452拍！拿下吉尼斯，波士顿动力大佬被硬控",
+   "link": "https://www.qbitai.com/2026/10/503756.html",
+   "summary": "背后是一套通用物理运动平台",
+   "published": "2026-10-16T13:47:01+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "刚刚，Gemini 4终于来了：谷歌重回御三家，API限时半价",
+   "link": "https://www.qbitai.com/2026/10/503701.html",
+   "summary": "谷歌就是季节性气候模型公司",
+   "published": "2026-10-16T13:04:59+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Jev is Vercel’s fastest-adopted AI model ever",
+   "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+   "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+   "published": "2026-10-16T23:33:49+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+   "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+   "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+   "published": "2026-10-16T22:26:51+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+   "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+   "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+   "published": "2026-10-16T22:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+   "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+   "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+   "published": "2026-10-16T20:55:09+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+   "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+   "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+   "published": "2026-10-16T07:44:56+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Meta launches an open-weight AI model that runs on Macs",
+   "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+   "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+   "published": "2026-10-16T04:04:53+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+   "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+   "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+   "published": "2026-10-16T03:55:25+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+   "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+   "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+   "published": "2026-10-16T03:14:26+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+   "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+   "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+   "published": "2026-10-16T02:56:46+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+   "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+   "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
+   "published": "2026-10-16T02:00:00+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+   "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+   "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
+   "published": "2026-10-16T23:41:00+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
+   "link": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
+   "summary": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
+   "published": "2026-10-16T22:03:25+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
+   "link": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
+   "summary": "Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.",
+   "published": "2026-10-16T20:00:05+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Hegseth’s dubious low-T screening may flag up to 25 percent of the Army",
+   "link": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
+   "summary": "Medical experts explicitly recommend against blanket screenings.",
+   "published": "2026-10-16T05:09:57+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
+   "link": "https://sspai.com/post/116355",
+   "summary": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。 查看全文",
+   "published": "2026-10-16T08:23:12+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "顺应变化，重申标准：《少数派创作手册》修订说明",
+   "link": "https://sspai.com/post/116181",
+   "summary": "四年前，我们发布了《少数派创作手册》（manual.sspai.com），旨在让作者更快捷地获得创作过程中所需的信息，以及更一致地传达对于内容选编的标准和主张。四年来，《创作手册》获得了作者们的广泛查 ... 查看全文",
+   "published": "2026-10-15T16:09:12+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
+   "link": "https://sspai.com/post/116193",
+   "summary": "八位堂推出 Ultimate 3C+ 无线手柄、豆包手机助手将放开第三方应用屏幕自动化操作权限等。 查看全文",
+   "published": "2026-10-15T08:31:01+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "EPGM: Execution Provenance for Budgeted Agent Memory Retrieval",
+   "link": "https://arxiv.org/abs/2609.25913",
+   "summary": "",
+   "published": "2026-10-17T05:12:34Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Adversarial stress-testing of long-horizon multi-agent systems",
+   "link": "https://arxiv.org/abs/2609.17320",
+   "summary": "",
+   "published": "2026-10-17T05:09:15Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "NOAA oceanographer explains Kelvin waves and their part in El Niño",
+   "link": "https://www.fisheries.noaa.gov/feature-story/kelvin-waves-explained",
+   "summary": "",
+   "published": "2026-10-17T04:53:41Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Space: Sandboxed Platform for Agentic Code Execution",
+   "link": "https://github.com/perplexityai/SPACE",
+   "summary": "",
+   "published": "2026-10-17T04:51:36Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+   "link": "https://llmspeed.dev/",
+   "summary": "",
+   "published": "2026-10-17T04:36:53Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Zeabur discontinues AI Hub after its August security breach",
+   "link": "https://zeabur.com/changelogs/aihub-shutdown",
+   "summary": "",
+   "published": "2026-10-17T04:14:58Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Nvidia-Nemotron-Labs-Dory1.0-4B-NVFP4",
+   "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-NVFP4",
+   "summary": "",
+   "published": "2026-10-17T04:11:00Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Guaranteed weight loss or gain within 2-3 weeks without GLPs",
+   "link": "https://play.google.com/store/apps/details?id=com.macrocodex.app&hl=en_US",
+   "summary": "",
+   "published": "2026-10-17T04:03:04Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI engineers became hot property. Now they're targets for seduction",
+   "link": "https://economictimes.indiatimes.com/ai/ai-insights/ai-engineers-became-hot-property-now-theyre-targets-for-seduction/articleshow/134998519.cms?from=mdr",
+   "summary": "",
+   "published": "2026-10-17T03:55:28Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "DeepSeek v4.1 flash on OpenCode pretty good",
+   "link": "https://github.com/aditauqir/shev",
+   "summary": "",
+   "published": "2026-10-17T03:47:50Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI is driving a boom in modestly successful software projects",
+   "link": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
+   "summary": "",
+   "published": "2026-10-17T03:47:39Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: AI agent follows instructions you never approved",
+   "link": "https://github.com/Paraphern/rugsnare/blob/main/docs/blog/2026-10-17-mcp-contract-drift.md",
+   "summary": "",
+   "published": "2026-10-17T03:33:00Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "How employment is changing at Anthropic",
+   "link": "https://www.anthropic.com/research/employment-at-anthropic",
+   "summary": "",
+   "published": "2026-10-17T03:13:28Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Why Is Tech Billionaire Marc Andreessen So Mad?",
+   "link": "https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga",
+   "summary": "",
+   "published": "2026-10-17T03:03:46Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Trump waives Russia-related sanctions before they even kick in",
+   "link": "https://www.cnn.com/2026/10/16/europe/us-ukraine-russia-sanctions-intl-hnk",
+   "summary": "",
+   "published": "2026-10-17T02:56:20Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "SF AI Founder's Zombie Shooter Game Turns Tenderloin Residents into Targets",
+   "link": "https://sfist.com/2026/10/15/sf-tech-founders-zombie-shooter-game-turns-tenderloin-residents-into-targets/",
+   "summary": "",
+   "published": "2026-10-17T02:21:55Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Let AI order DoorDash for me – under my watch – no playwright",
+   "link": "https://www.wysebee.com",
+   "summary": "",
+   "published": "2026-10-17T02:18:56Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Cloud computing is a trap, warns GNU founder Richard Stallman (2008)",
+   "link": "https://www.theguardian.com/technology/2008/sep/29/cloud.computing.richard.stallman",
+   "summary": "",
+   "published": "2026-10-17T02:13:47Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Publishers' Trust in Nippan Dented by Unauthorized Book Sales for AI Training",
+   "link": "https://japannews.yomiuri.co.jp/science-nature/technology/20261014-353599/",
+   "summary": "",
+   "published": "2026-10-17T02:08:03Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Twain, a diff viewer like Meld, but for the age of AI",
+   "link": "https://github.com/andunieee/twain",
+   "summary": "",
+   "published": "2026-10-17T02:03:40Z"
+  }
+ ],
+ "total": 47
+}
