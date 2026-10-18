@@ -1,0 +1,262 @@
+{
+ "generated_at": "2026-10-18T13:29:18.769144+08:00",
+ "window": [
+  "2026-10-17T00:00:00+08:00",
+  "2026-10-18T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+   "link": "https://www.qbitai.com/2026/10/504067.html",
+   "summary": "新版本V4.1-Flash-1017，还开放了自研搜索API",
+   "published": "2026-10-17T20:21:09+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "智谱新模型，懂法方面全球第一了",
+   "link": "https://www.qbitai.com/2026/10/503965.html",
+   "summary": "AI的风还是刮到了法律圈",
+   "published": "2026-10-17T20:13:45+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+   "link": "https://www.qbitai.com/2026/10/503935.html",
+   "summary": "整套系统原生支持MCP",
+   "published": "2026-10-17T20:10:35+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
+   "link": "https://www.qbitai.com/2026/10/503910.html",
+   "summary": "谜底指向时间",
+   "published": "2026-10-17T20:06:51+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "科技企业出海，为啥我推荐你去迪拜？",
+   "link": "https://www.qbitai.com/2026/10/503893.html",
+   "summary": "通往全球市场的超级跳板",
+   "published": "2026-10-17T17:05:08+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "India becomes the latest country to report rogue AI agent activity",
+   "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+   "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+   "published": "2026-10-17T01:52:24+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+   "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+   "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to tho",
+   "published": "2026-10-17T00:30:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+   "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+   "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to tho",
+   "published": "2026-10-17T00:30:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Elorian’s first AI model wants to reason with images, not just about them",
+   "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+   "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+   "published": "2026-10-17T00:01:37+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Science says your boss should talk less in meetings",
+   "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+   "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+   "published": "2026-10-17T19:15:11+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "OpenAI models hacked a crypto wallet and breached more websites",
+   "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+   "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+   "published": "2026-10-17T04:59:01+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+   "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+   "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+   "published": "2026-10-17T04:20:07+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+   "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+   "summary": "The bug is fixed, but privacy concerns remain.",
+   "published": "2026-10-17T03:11:50+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+   "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
+   "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
+   "published": "2026-10-17T01:05:59+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
+   "link": "https://sspai.com/post/116355",
+   "summary": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。 查看全文",
+   "published": "2026-10-16T08:23:12+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "顺应变化，重申标准：《少数派创作手册》修订说明",
+   "link": "https://sspai.com/post/116181",
+   "summary": "四年前，我们发布了《少数派创作手册》（manual.sspai.com），旨在让作者更快捷地获得创作过程中所需的信息，以及更一致地传达对于内容选编的标准和主张。四年来，《创作手册》获得了作者们的广泛查 ... 查看全文",
+   "published": "2026-10-15T16:09:12+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Dot factory – a spec to describe complex (agentic) workflows",
+   "link": "https://redbeardlab.github.io/dotFactory/",
+   "summary": "",
+   "published": "2026-10-18T05:11:32Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Mobile Application GPU Optimization Guide",
+   "link": "https://arm-software.github.io/magog/",
+   "summary": "",
+   "published": "2026-10-18T05:08:43Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Does moving a GPU server's request loop into the kernel save CPU?",
+   "link": "https://eunomia.dev/blog/2026/10/17/bpf-gpu-server/",
+   "summary": "",
+   "published": "2026-10-18T05:07:06Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI Slop? Nay, AI Gourmet",
+   "link": "https://octomon.dev/blog/ai-slop-and-ai-gourmet/",
+   "summary": "",
+   "published": "2026-10-18T05:00:17Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Du said Chrome was using 67 GB on my Mac. APFS said 2",
+   "link": "https://dev.to/md_ayanbag_03a42545b17ac/du-said-chrome-was-using-67-gb-on-my-mac-apfs-said-2-heres-a-script-to-tell-the-difference-597e",
+   "summary": "",
+   "published": "2026-10-18T04:58:13Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+   "link": "https://sphinx-six-theta.vercel.app/",
+   "summary": "",
+   "published": "2026-10-18T04:33:49Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "My AI agent caught most of our sites saying sent while no email left the server",
+   "link": "https://iampneuma.com/the-function-returned-true/",
+   "summary": "",
+   "published": "2026-10-18T04:07:07Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Phishing emails are baiting your AI assistant",
+   "link": "https://www.malwarebytes.com/blog/ai/2026/10/phishing-emails-are-baiting-your-ai-assistant",
+   "summary": "",
+   "published": "2026-10-18T03:52:35Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "MonkeyITM – open-source broker that sits between agents and the open world",
+   "link": "https://github.com/o87enterprises-ai/MonkeyITM",
+   "summary": "",
+   "published": "2026-10-18T03:44:42Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "The Renaissance woman who was the first female painter of erotic nudes",
+   "link": "https://www.bbc.com/culture/article/20261015-the-trailblazing-erotic-art-of-lavinia-fontana",
+   "summary": "",
+   "published": "2026-10-18T03:44:15Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Turn your coding-agent sessions into private evals",
+   "link": "https://github.com/ibragim-bad/evals-from-sessions",
+   "summary": "",
+   "published": "2026-10-18T03:26:40Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Hugging Face Pricing 2026: Complete Cost Guide (Free Tier and Paid Plans)",
+   "link": "https://www.metacto.com/blogs/the-true-cost-of-hugging-face-a-guide-to-pricing-and-integration",
+   "summary": "",
+   "published": "2026-10-18T03:08:41Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Training and Deploying Production Cyber Monitors on Kimi K3",
+   "link": "https://www.goodfire.com/research/production-cyber-monitors-on-kimi-k3",
+   "summary": "",
+   "published": "2026-10-18T02:59:35Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Best Free GPU Cloud Options for AI Startups and Researchers",
+   "link": "https://www.gmicloud.ai/ja/blog/best-free-gpu-cloud-options-for-ai-startups-and-researchers",
+   "summary": "",
+   "published": "2026-10-18T02:35:00Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Ukraine targets \"Russia's Google\" as the internet becomes a new front line",
+   "link": "https://www.cnn.com/2026/10/17/europe/russia-yandex-data-center-internet-ukraine-intl",
+   "summary": "",
+   "published": "2026-10-18T02:29:25Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI",
+   "link": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
+   "summary": "",
+   "published": "2026-10-18T02:20:40Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Anthropic reports reducing recruitment of entry-level engineers",
+   "link": "https://angadh.com/ai-and-jobs-1",
+   "summary": "",
+   "published": "2026-10-18T02:12:00Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Moonrain – a free, offline sleep-sound mixer for iOS with no tracking",
+   "link": "https://apps.apple.com/us/app/moonrain-sleep-sounds/id6789770084",
+   "summary": "",
+   "published": "2026-10-18T02:02:07Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Cosplay as a tech lead, using gVisor to sandbox agents",
+   "link": "https://github.com/SoftwareRenderer/MIKE",
+   "summary": "",
+   "published": "2026-10-18T01:49:34Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Env-tabs – Pin your projects in Claude Desktop's Code tab",
+   "link": "https://github.com/ahmtsahin/claude-env-tabs",
+   "summary": "",
+   "published": "2026-10-18T01:44:24Z"
+  }
+ ],
+ "total": 36
+}
