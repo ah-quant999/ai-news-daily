@@ -1,0 +1,318 @@
+{
+ "generated_at": "2026-10-19T13:48:44.128885+08:00",
+ "window": [
+  "2026-10-18T00:00:00+08:00",
+  "2026-10-19T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+   "link": "https://www.qbitai.com/2026/10/504136.html",
+   "summary": "让人人都能自由创造并体验可交互世界",
+   "published": "2026-10-18T19:49:49+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+   "link": "https://www.qbitai.com/2026/10/504067.html",
+   "summary": "新版本V4.1-Flash-1017，还开放了自研搜索API",
+   "published": "2026-10-17T20:21:09+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "智谱新模型，懂法方面全球第一了",
+   "link": "https://www.qbitai.com/2026/10/503965.html",
+   "summary": "AI的风还是刮到了法律圈",
+   "published": "2026-10-17T20:13:45+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+   "link": "https://www.qbitai.com/2026/10/503935.html",
+   "summary": "整套系统原生支持MCP",
+   "published": "2026-10-17T20:10:35+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
+   "link": "https://www.qbitai.com/2026/10/503910.html",
+   "summary": "谜底指向时间",
+   "published": "2026-10-17T20:06:51+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "科技企业出海，为啥我推荐你去迪拜？",
+   "link": "https://www.qbitai.com/2026/10/503893.html",
+   "summary": "通往全球市场的超级跳板",
+   "published": "2026-10-17T17:05:08+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "端侧跑通超千亿大模型！联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售",
+   "link": "https://www.qbitai.com/2026/10/504116.html",
+   "summary": "买AIPC就选联想YOGA。",
+   "published": "2026-10-16T21:48:10+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+   "link": "https://www.qbitai.com/2026/10/503880.html",
+   "summary": "从搭载物理建模能力的世界模型切入",
+   "published": "2026-10-16T20:54:54+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
+   "link": "https://www.qbitai.com/2026/10/503865.html",
+   "summary": "VLA解决“能干”，世界模型解决“想清楚再干”",
+   "published": "2026-10-16T16:12:01+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
+   "link": "https://www.qbitai.com/2026/10/503861.html",
+   "summary": "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议",
+   "published": "2026-10-16T16:07:33+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Meta removes language that raised scraping and AI training concerns",
+   "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+   "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+   "published": "2026-10-18T05:31:32+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+   "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+   "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+   "published": "2026-10-18T04:21:19+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+   "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+   "published": "2026-10-18T02:48:08+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Anthropic gives outside AI watchdog “employee-like” access",
+   "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+   "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+   "published": "2026-10-19T00:25:19+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Science says your boss should talk less in meetings",
+   "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+   "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+   "published": "2026-10-17T19:15:11+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "OpenAI models hacked a crypto wallet and breached more websites",
+   "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+   "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+   "published": "2026-10-17T04:59:01+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+   "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+   "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+   "published": "2026-10-17T04:20:07+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+   "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+   "summary": "The bug is fixed, but privacy concerns remain.",
+   "published": "2026-10-17T03:11:50+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+   "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
+   "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
+   "published": "2026-10-17T01:05:59+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+   "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+   "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
+   "published": "2026-10-16T23:41:00+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
+   "link": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
+   "summary": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
+   "published": "2026-10-16T22:03:25+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
+   "link": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
+   "summary": "Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.",
+   "published": "2026-10-16T20:00:05+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Hegseth’s dubious low-T screening may flag up to 25 percent of the Army",
+   "link": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
+   "summary": "Medical experts explicitly recommend against blanket screenings.",
+   "published": "2026-10-16T05:09:57+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
+   "link": "https://sspai.com/post/116355",
+   "summary": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。 查看全文",
+   "published": "2026-10-16T08:23:12+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Amelia Earharts Plane search expedition's Taraia Object hypothesis fails",
+   "link": "https://www.purdue.edu/newsroom/2026/Q4/search-for-amelia-earharts-plane-continues-after-taraia-object-expedition-on-nikumaroro-rules-out-latest-hypothesis/",
+   "summary": "",
+   "published": "2026-10-19T05:40:16Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Open Mailto Links in Gmail",
+   "link": "https://sindresorhus.com/mailway",
+   "summary": "",
+   "published": "2026-10-19T05:36:58Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "I made a combined snake-tron game using free AI",
+   "link": "https://steeltoe777.github.io/snakegame/",
+   "summary": "",
+   "published": "2026-10-19T05:21:48Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Air: A Python web framework designed for AI to write",
+   "link": "https://airwebframework.org/",
+   "summary": "",
+   "published": "2026-10-19T05:05:22Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "A New Lens on Multi-GPU Comms: API-Level Memory Models for Portable Optimization",
+   "link": "https://arxiv.org/abs/2610.16190",
+   "summary": "",
+   "published": "2026-10-19T04:57:19Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Understanding Nvidia Grace-Blackwell Unified Memory Through Microbenchmarks",
+   "link": "https://arxiv.org/abs/2610.20354",
+   "summary": "",
+   "published": "2026-10-19T04:55:30Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Startup Abby Care raises $82M to turn family members into paid caregivers",
+   "link": "https://fortune.com/2026/10/15/startup-abby-care-raises-82-million-to-turn-family-members-into-paid-caregivers/",
+   "summary": "",
+   "published": "2026-10-19T04:48:20Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "DeepSeek V4.1 Flash 1017 (Max)",
+   "link": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+   "summary": "",
+   "published": "2026-10-19T04:41:46Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Verisign .com Domain Name Registry Consumer Class Action",
+   "link": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
+   "summary": "",
+   "published": "2026-10-19T04:40:18Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Advertisers can target ChatGPT by prompt",
+   "link": "https://www.theneurondaily.com/p/october-16-friday-1362",
+   "summary": "",
+   "published": "2026-10-19T04:38:08Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally",
+   "link": "https://github.com/strot-ai/Project-STROT",
+   "summary": "",
+   "published": "2026-10-19T04:32:07Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Chitra Studio – Your AI Media Workstation for Macs",
+   "link": "https://chitra.studio/",
+   "summary": "",
+   "published": "2026-10-19T04:27:53Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Open Artifacts – host AI artifacts on your own Cloudflare account",
+   "link": "https://open-artifacts.com/",
+   "summary": "",
+   "published": "2026-10-19T04:20:38Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Man arrested after discussing plans for childcare mass shooting with [Claude]",
+   "link": "https://www.smh.com.au/national/nsw/sydney-man-allegedly-discussed-plans-for-childcare-mass-shooting-with-ai-chatbot-20261019-p616oc.html",
+   "summary": "",
+   "published": "2026-10-19T04:13:29Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI Is Not a Race",
+   "link": "https://www.nitinpai.in/2026/10/19/ai-is-not-a-race",
+   "summary": "",
+   "published": "2026-10-19T04:01:23Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Calling all GPUs: help us benchmark SonicBoom v0.0.3",
+   "link": "https://github.com/hardenedlinux/SonicBoom/issues/2",
+   "summary": "",
+   "published": "2026-10-19T03:47:27Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "China Plans to Tighten Export Controls on AI Technologies",
+   "link": "https://wallhop.io/https://www.theepochtimes.com//china/china-plans-to-tighten-export-controls-on-ai-technologies-6104786",
+   "summary": "",
+   "published": "2026-10-19T03:42:00Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "If you want to make a bajillion dollars, solve agent identity",
+   "link": "https://12gramsofcarbon.com/p/agentics-agent-identity-is-a-really",
+   "summary": "",
+   "published": "2026-10-19T03:39:07Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "\"The AI bubble is about to burst and a big market correction's coming\" – NY Post",
+   "link": "https://nypost.com/2026/10/17/business/the-ai-bubble-is-about-to-burst-much-like-the-infamous-dot-com-crash/",
+   "summary": "",
+   "published": "2026-10-19T03:35:00Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Why Humanity Might Have to Declare War on AI (By: William Spaniel) [video]",
+   "link": "https://www.youtube.com/watch?v=OAU3lAadXLM",
+   "summary": "",
+   "published": "2026-10-19T03:32:18Z"
+  }
+ ],
+ "total": 44
+}
