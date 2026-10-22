@@ -1,0 +1,353 @@
+{
+ "generated_at": "2026-10-22T13:48:41.163146+08:00",
+ "window": [
+  "2026-10-21T00:00:00+08:00",
+  "2026-10-22T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
+   "link": "https://www.qbitai.com/2026/10/504608.html",
+   "summary": "先看真实问题解决力",
+   "published": "2026-10-21T10:37:39+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
+   "link": "https://www.qbitai.com/2026/10/504551.html",
+   "summary": "电池、电驱、超充一把梭，冬天多跑30公里",
+   "published": "2026-10-21T09:04:35+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
+   "link": "https://www.qbitai.com/2026/10/504517.html",
+   "summary": "兔皮底下，竟然是MiniMax！",
+   "published": "2026-10-20T21:29:54+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
+   "link": "https://www.qbitai.com/2026/10/504456.html",
+   "summary": "把记忆原生焊进Transformer",
+   "published": "2026-10-20T20:50:34+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "比亚迪成为2026年APEC会议官方合作伙伴",
+   "link": "https://www.qbitai.com/2026/10/504452.html",
+   "summary": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴",
+   "published": "2026-10-20T17:57:35+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展",
+   "link": "https://www.qbitai.com/2026/10/504435.html",
+   "summary": "当地时间10月12日，2026巴黎国际车展正式启幕。",
+   "published": "2026-10-20T17:13:14+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效",
+   "link": "https://www.qbitai.com/2026/10/504421.html",
+   "summary": "最新发布TokenFleet调度框架",
+   "published": "2026-10-20T16:01:25+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
+   "link": "https://www.qbitai.com/2026/10/504415.html",
+   "summary": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样",
+   "published": "2026-10-20T12:59:04+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "赛豆首款AI汽车公告图公示，价格被按零件猜到了20万以上",
+   "link": "https://www.qbitai.com/2026/10/504395.html",
+   "summary": "宁德时代电池上车",
+   "published": "2026-10-20T12:18:29+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "AI硬件出海，别当“背景板”，GTC2026 Shanghai「AI硬件专区」邀你占位",
+   "link": "https://www.qbitai.com/2026/10/504372.html",
+   "summary": "2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办",
+   "published": "2026-10-20T12:08:15+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+   "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+   "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+   "published": "2026-10-21T22:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+   "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+   "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+   "published": "2026-10-21T07:01:23+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+   "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+   "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+   "published": "2026-10-21T06:24:02+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Anthropic’s cloud partnerships are getting messy",
+   "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+   "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+   "published": "2026-10-21T05:25:22+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "SpaceX’s AI business is beating expectations",
+   "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+   "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
+   "published": "2026-10-21T04:40:41+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+   "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+   "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+   "published": "2026-10-21T04:35:10+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+   "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+   "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+   "published": "2026-10-21T02:38:24+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "ChatGPT now lets you lock your chats",
+   "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+   "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+   "published": "2026-10-21T02:36:53+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+   "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+   "summary": "Eric Schmidt’s fortune is about to get even bigger.",
+   "published": "2026-10-21T01:55:12+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
+   "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+   "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
+   "published": "2026-10-21T01:12:48+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+   "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+   "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+   "published": "2026-10-21T00:20:06+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+   "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+   "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+   "published": "2026-10-21T00:00:00+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+   "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+   "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
+   "published": "2026-10-21T23:14:07+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "PHP warns it plans to release 2 emergency patches imminently",
+   "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+   "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+   "published": "2026-10-21T10:12:18+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
+   "link": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
+   "summary": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
+   "published": "2026-10-21T05:44:34+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
+   "link": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
+   "summary": "A lifetime ad-free subscription is available.",
+   "published": "2026-10-21T04:20:12+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+   "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+   "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
+   "published": "2026-10-21T04:07:58+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
+   "link": "https://sspai.com/post/116445",
+   "summary": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。 查看全文",
+   "published": "2026-10-21T15:00:00+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等",
+   "link": "https://sspai.com/post/116887",
+   "summary": "工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。 查看全文",
+   "published": "2026-10-21T08:07:07+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "A sovereign, local AI browser for professionals who want to save time",
+   "link": "https://ricuicui.com/en/articles/a-sovereign-local-ai-browser-for-professionals-who-want-to-save-time",
+   "summary": "",
+   "published": "2026-10-22T05:39:42Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom",
+   "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+   "summary": "",
+   "published": "2026-10-22T05:23:59Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Pawmc a.k.a. talking diary, an LLM chat with compartmentalised memory",
+   "link": "https://pawmc-demo.kolaegipet.workers.dev/?demo=1",
+   "summary": "",
+   "published": "2026-10-22T05:23:11Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "OpenAI CLI",
+   "link": "https://github.com/openai/openai-cli",
+   "summary": "",
+   "published": "2026-10-22T05:23:11Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Language-Based Agent Control",
+   "link": "https://arxiv.org/abs/2605.12863",
+   "summary": "",
+   "published": "2026-10-22T05:23:03Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: TenseMem – deterministic memory for AI agents",
+   "link": "https://github.com/tensemem/tensemem",
+   "summary": "",
+   "published": "2026-10-22T05:19:23Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Lemoncode, Free Coding Agent",
+   "link": "https://lemoncode.ai/",
+   "summary": "",
+   "published": "2026-10-22T04:46:34Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "The Chalk and the Airplane",
+   "link": "https://unintendedconsequenc.es/chalk-and-the-airplane/",
+   "summary": "",
+   "published": "2026-10-22T04:41:58Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Scentronic: AI–assisted olfactory interface for remote odor transmission",
+   "link": "https://www.science.org/doi/10.1126/sciadv.aee9266",
+   "summary": "",
+   "published": "2026-10-22T04:35:29Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Meta strikes deal to protect Zuckerberg from California billionaire tax",
+   "link": "https://finance.yahoo.com/media-advertising/articles/meta-hit-record-25bn-penalty-200405974.html",
+   "summary": "",
+   "published": "2026-10-22T04:20:26Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Ask HN: How has your company adapted interviews in the AI world?",
+   "link": "https://news.ycombinator.com/item?id=50191025",
+   "summary": "",
+   "published": "2026-10-22T03:58:28Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "ML Drift: Next-Gen GPU AI/ML Inference at the Edge",
+   "link": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
+   "summary": "",
+   "published": "2026-10-22T03:57:19Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Defense Against the Super-Worms (2025)",
+   "link": "https://www.lesswrong.com/posts/fo98oTodEiEy9mLAu/defense-against-the-super-worms",
+   "summary": "",
+   "published": "2026-10-22T03:33:40Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI agent on your notch, equipped with his own computer",
+   "link": "https://notcho.si",
+   "summary": "",
+   "published": "2026-10-22T03:22:27Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Flapping Airplanes",
+   "link": "https://flappingairplanes.com/",
+   "summary": "",
+   "published": "2026-10-22T03:06:36Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Agent Middleware – permits and signed receipts for agent tool calls",
+   "link": "https://github.com/agentmiddleware/agent-middleware",
+   "summary": "",
+   "published": "2026-10-22T03:05:05Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Nokia, T-Mobile and Nvidia complete first AI-RAN call",
+   "link": "https://www.nokia.com/blog/from-the-lab-to-the-live-network-nokia-t-mobile-and-nvidia-complete-worlds-first-ai-ran-call/",
+   "summary": "",
+   "published": "2026-10-22T02:59:08Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: HN Sieve – every Show HN scored and summarized by AI",
+   "link": "https://hnsieve.com",
+   "summary": "",
+   "published": "2026-10-22T02:24:10Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+   "link": "https://simedw.com/2026/10/21/world-model-terminal/",
+   "summary": "",
+   "published": "2026-10-22T02:18:41Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Claude Now Works with Google Docs, Sheets, and Slides",
+   "link": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+   "summary": "",
+   "published": "2026-10-22T02:17:58Z"
+  }
+ ],
+ "total": 49
+}
