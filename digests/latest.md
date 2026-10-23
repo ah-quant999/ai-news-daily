@@ -1,37 +1,37 @@
-# 2026-10-21 AI 资讯日报（降级·标题清单版）
+# 2026-10-22 AI 资讯日报（降级·标题清单版）
 
 > 模型总结不可用：未配置 OPENROUTER_API_KEY。以下为原始条目，仅供参考。
 
-- **飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人**（量子位）
-- **理想宣布：电池自燃报废赔新车！自研6年后有底气了**（量子位）
-- **国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价**（量子位）
-- **RSI三块关键拼图，MemT 1.0从模型层补上「记忆」**（量子位）
-- **比亚迪成为2026年APEC会议官方合作伙伴**（量子位）
-- **技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展**（量子位）
-- **首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效**（量子位）
-- **Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑**（量子位）
-- **赛豆首款AI汽车公告图公示，价格被按零件猜到了20万以上**（量子位）
-- **AI硬件出海，别当“背景板”，GTC2026 Shanghai「AI硬件专区」邀你占位**（量子位）
-- **AI promises productivity, but for managers, it’s mostly a headache for now**（TechCrunch AI）
-- **Anthropic pitches AI safety bill that may block a model if 50+ people could be killed**（TechCrunch AI）
-- **Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate**（TechCrunch AI）
-- **Anthropic’s cloud partnerships are getting messy**（TechCrunch AI）
-- **SpaceX’s AI business is beating expectations**（TechCrunch AI）
-- **OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business**（TechCrunch AI）
-- **Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers**（TechCrunch AI）
-- **ChatGPT now lets you lock your chats**（TechCrunch AI）
-- **Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei**（TechCrunch AI）
-- **Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps**（TechCrunch AI）
-- **Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’**（TechCrunch AI）
-- **Plants can speak using electricity, so this startup built an AI model to decipher their language**（TechCrunch AI）
-- **The $15 billion ad-powered AI startup your doctor may already be using**（Ars Technica）
-- **PHP warns it plans to release 2 emergency patches imminently**（Ars Technica）
-- **Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies**（Ars Technica）
-- **JustWatch, which tackles streaming fragmentation, launches own streaming service**（Ars Technica）
-- **Meta drops the word "train" from its commercial TOS after AI backlash**（Ars Technica）
+- **特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先**（量子位）
+- **既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布**（量子位）
+- **谁在给OpenAI供应具身数据？**（量子位）
+- **Spotify’s current AI bet is about being the music service that agents choose**（TechCrunch AI）
+- **Claude Duet app is Anthropic’s bet on agents**（TechCrunch AI）
+- **Nirva raises $33M for a pendant that only listens to you**（TechCrunch AI）
+- **DeepSeek reportedly raises $15B days after US restrictions**（TechCrunch AI）
+- **Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown**（TechCrunch AI）
+- **Meta wants to pay for its broad AI buildout with a newly created class of stock**（TechCrunch AI）
+- **TechCrunch Founder Summit 2026: Everything you need to know**（TechCrunch AI）
+- **Meta says Muse has over 10M users, with shopping a top activity**（TechCrunch AI）
+- **Recursive launches Flint, a laptop coding model it says was largely built by AI**（TechCrunch AI）
+- **While Amazon blocks AI agents, Walmart rolls out the welcome mat**（TechCrunch AI）
+- **PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet**（TechCrunch AI）
+- **Sauron recruits his future Ringwraiths in Rings of Power S3 trailer**（Ars Technica）
+- **Forget "Malaise 2.0," GM says it's still all-in on EVs and autonomy**（Ars Technica）
+- **333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email**（Ars Technica）
+- **FCC chair warns media not to run the "fake polls" Trump keeps complaining about**（Ars Technica）
+- **派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等**（少数派）
+- **把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长**（少数派）
 - **Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用**（少数派）
-- **派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等**（少数派）
-- **A sovereign, local AI browser for professionals who want to save time**（Hacker News）
+- **The Latest Anthropic Claude Models Contain AI Text Watermarks**（Hacker News）
+- **When AI Agrees Too Much: Manipulating Automated Code Review via Bias Injection [pdf]**（Hacker News）
+- **DeltaDB: A New System of Record for Agents [video]**（Hacker News）
+- **Restoring a Soviet ES-4001 Mainframe Control Panel**（Hacker News）
+- **Mapping Economic Theory with AI [pdf]**（Hacker News）
+- **An artist's take on AI in math**（Hacker News）
+- **Agent Tools for Unreal Engine**（Hacker News）
+- **Why ClickHouse and Agents Are a Great Combo**（Hacker News）
+- **Gemini Is Weird**（Hacker News）
 
 ---
-*生成：GitHub Actions + 免费模型 degraded · 条目数 45 · 零积分*
+*生成：GitHub Actions + 免费模型 degraded · 条目数 41 · 零积分*
