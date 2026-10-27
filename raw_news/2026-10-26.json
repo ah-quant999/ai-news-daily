@@ -1,0 +1,297 @@
+{
+ "generated_at": "2026-10-27T14:01:20.906336+08:00",
+ "window": [
+  "2026-10-26T00:00:00+08:00",
+  "2026-10-27T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
+   "link": "https://www.qbitai.com/2026/10/505083.html",
+   "summary": "10月22日，2026科大讯飞全球1024开发者节在北京国家会议中心开幕",
+   "published": "2026-10-23T17:21:41+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "企业AI需要两个世界模型",
+   "link": "https://www.qbitai.com/2026/10/505032.html",
+   "summary": "特赞想让企业Agent真正懂业务",
+   "published": "2026-10-23T17:07:25+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
+   "link": "https://www.qbitai.com/2026/10/504931.html",
+   "summary": "房间秒变草原，抬手就能下雪",
+   "published": "2026-10-23T17:03:37+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "国产5B生图模型海外突然爆火，4天超百万下载",
+   "link": "https://www.qbitai.com/2026/10/504930.html",
+   "summary": "",
+   "published": "2026-10-23T16:50:16+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相",
+   "link": "https://www.qbitai.com/2026/10/504915.html",
+   "summary": "让AI真正走进真实世界",
+   "published": "2026-10-23T16:45:43+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "iRTE2026：声网CEO赵斌提出五级对话能力框架，实时互动迈入对话 AGI 时代",
+   "link": "https://www.qbitai.com/2026/10/504913.html",
+   "summary": "10月23日，iRTE2026实时智能大会在北京举行。",
+   "published": "2026-10-23T16:45:30+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "高德发布首个基于开放世界行为的全身基座模型λ0，推动机器人从“局部学习”迈向“全身动作对齐”",
+   "link": "https://www.qbitai.com/2026/10/504905.html",
+   "summary": "阿里巴巴集团旗下高德正式发布首个基于开放世界行为的全身基座模型λ0",
+   "published": "2026-10-23T16:40:57+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+   "link": "https://www.qbitai.com/2026/10/504901.html",
+   "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
+   "published": "2026-10-23T15:35:51+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+   "link": "https://www.qbitai.com/2026/10/504879.html",
+   "summary": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+   "published": "2026-10-22T17:07:05+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+   "link": "https://www.qbitai.com/2026/10/504841.html",
+   "summary": "FSD一年增长70万付费用户",
+   "published": "2026-10-22T15:14:48+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Anthropic officially files for its public debut",
+   "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+   "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+   "published": "2026-10-26T22:35:22+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+   "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+   "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+   "published": "2026-10-26T05:31:16+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+   "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+   "published": "2026-10-26T00:57:32+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+   "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+   "summary": "Included is the ability to limit which applications Siri can directly access.",
+   "published": "2026-10-27T04:04:16+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+   "link": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+   "summary": "Apple claims this is the most significant update ever for the iPad mini line.",
+   "published": "2026-10-27T03:04:40+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
+   "link": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
+   "summary": "Ukraine says Starshield back to normal, denies misuse of Starlink commercial service.",
+   "published": "2026-10-27T02:09:08+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+   "link": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+   "summary": "Investigators explain how highway thieves stole $100M in data center equipment.",
+   "published": "2026-10-27T01:26:36+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Some iPhone Duo screens are already failing",
+   "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+   "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
+   "published": "2026-10-27T00:51:49+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+   "link": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+   "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
+   "published": "2026-10-24T19:00:09+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+   "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+   "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
+   "published": "2026-10-24T04:19:55+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
+   "link": "https://sspai.com/post/117460",
+   "summary": "iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患 Spotify 将要求家庭组成员定期扫码验证 Arc 浏览器宣布下线 央广总台澄清「国补停止」说法 谷歌建设虚拟电厂，付费激励电网用户省电留给 AI iTunes Store 重受歌手青睐 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+   "published": "2026-10-26T07:36:36+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Anthropic's Disproof of the ETH",
+   "link": "https://hexagonmath.org/2610.00577v1",
+   "summary": "",
+   "published": "2026-10-27T05:58:59Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Using Lotteries to Make Event Ticket Sales Fairer in South Africa",
+   "link": "https://mayberay.bearblog.dev/i-hate-online-waiting-rooms-using-lotteries-to-make-event-ticket-sales-fairer-in-south-africa/",
+   "summary": "",
+   "published": "2026-10-27T05:57:56Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Vanishing Scarcity: Generative AI and the Redefinition of Musical Value",
+   "link": "https://medium.com/@smoking2man/vanishing-scarcity-generative-ai-and-the-redefinition-of-musical-value-0366647505e4",
+   "summary": "",
+   "published": "2026-10-27T05:18:10Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "There are now 5 inference providers for abliterated DeepSeek",
+   "link": "https://allmodels.io/llm/abliterated",
+   "summary": "",
+   "published": "2026-10-27T04:53:52Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI Enabled Private Equity",
+   "link": "https://nivawealth.com",
+   "summary": "",
+   "published": "2026-10-27T04:49:33Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Tailscale SSH: Investigation and remediation update",
+   "link": "https://tailscale.com/ssh-investigation-update",
+   "summary": "",
+   "published": "2026-10-27T04:45:26Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Journal of Agentic Meta Algorithms",
+   "link": "https://agentic-meta-journal.pages.dev/",
+   "summary": "",
+   "published": "2026-10-27T04:43:36Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Why AI coding tools assume a clean slate",
+   "link": "https://loopsfinity.com/blog-greenfield-bias-ai-tools",
+   "summary": "",
+   "published": "2026-10-27T04:41:47Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Three Levels for AI Agents: The Repo, the Company, and the Developer",
+   "link": "https://systemweakness.com/three-levels-for-ai-agents-the-repo-the-company-and-the-developer-0e4fa1a9c419",
+   "summary": "",
+   "published": "2026-10-27T04:40:24Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI and the Collapse of Capitalism",
+   "link": "https://jasonpolak.substack.com/p/ai-and-the-collapse-of-capitalism",
+   "summary": "",
+   "published": "2026-10-27T04:20:09Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Microsoft offers buyouts to around 60k employees to contain costs",
+   "link": "https://www.reuters.com/technology/microsoft-is-offering-buyouts-around-60000-employees-business-insider-reports-2026-10-26/",
+   "summary": "",
+   "published": "2026-10-27T04:17:15Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress",
+   "link": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
+   "summary": "",
+   "published": "2026-10-27T04:13:48Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Quasiturbine Chainsaw",
+   "link": "https://news.ycombinator.com/item?id=50254589",
+   "summary": "",
+   "published": "2026-10-27T04:02:58Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Create and edit images with a collection of easy-to-use AI tools",
+   "link": "https://www.picttool.com/",
+   "summary": "",
+   "published": "2026-10-27T03:39:12Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Kazakhstan Expands Compute for Its AI Future",
+   "link": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+   "summary": "",
+   "published": "2026-10-27T03:23:52Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Micron Taiwan increasing salaries for factory workers by 2.7X",
+   "link": "https://ec.ltn.com.tw/article/breakingnews/5619258",
+   "summary": "",
+   "published": "2026-10-27T03:23:48Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Latai – run GGUF compliant/local models upto 35 MB on edge",
+   "link": "https://hitl.systems/libs/latai/",
+   "summary": "",
+   "published": "2026-10-27T03:08:05Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Worm armed 42 GitHub repos by hiding a payload too big to fail",
+   "link": "https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570",
+   "summary": "",
+   "published": "2026-10-27T03:07:11Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "What are you using for agentic coding now?",
+   "link": "https://news.ycombinator.com/item?id=50254273",
+   "summary": "",
+   "published": "2026-10-27T03:05:30Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Limma – MCP for total recall and precision in data retrieval for agents",
+   "link": "https://limma.ai",
+   "summary": "",
+   "published": "2026-10-27T02:50:43Z"
+  }
+ ],
+ "total": 41
+}
