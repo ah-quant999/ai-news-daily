@@ -1,0 +1,332 @@
+{
+ "generated_at": "2026-10-28T14:40:42.165248+08:00",
+ "window": [
+  "2026-10-27T00:00:00+08:00",
+  "2026-10-28T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
+   "link": "https://www.qbitai.com/2026/10/505865.html",
+   "summary": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
+   "published": "2026-10-27T20:57:51+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "印奇把4D雷达也端到端了",
+   "link": "https://www.qbitai.com/2026/10/505852.html",
+   "summary": "毫米波雷达，AI算力10TOPS",
+   "published": "2026-10-27T18:40:12+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
+   "link": "https://www.qbitai.com/2026/10/505830.html",
+   "summary": "顶尖智能汽车玩家的终局，不会停在智能汽车",
+   "published": "2026-10-27T17:54:51+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
+   "link": "https://www.qbitai.com/2026/10/505799.html",
+   "summary": "无人在环进店实测啃下长尾场景",
+   "published": "2026-10-27T16:46:12+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
+   "link": "https://www.qbitai.com/2026/10/505773.html",
+   "summary": "OCR 3.0时代，来了",
+   "published": "2026-10-27T16:35:33+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
+   "link": "https://www.qbitai.com/2026/10/505719.html",
+   "summary": "同一天，OpenAI还甩出3项AI科学新发现",
+   "published": "2026-10-27T16:27:46+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
+   "link": "https://www.qbitai.com/2026/10/505694.html",
+   "summary": "还是专业的模型做专业的事情",
+   "published": "2026-10-27T16:18:59+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026",
+   "link": "https://www.qbitai.com/2026/10/505687.html",
+   "summary": "破解绿电直连项目落地僵局",
+   "published": "2026-10-27T15:44:41+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度",
+   "link": "https://www.qbitai.com/2026/10/505635.html",
+   "summary": "开源一周，Github 拿下超 1000 star，X上关注度破百万，并登上 Today‘s news 推荐",
+   "published": "2026-10-27T15:41:02+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+   "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+   "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+   "published": "2026-10-27T22:59:09+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Japan internet giant GMO says hackers posted stolen customer data",
+   "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+   "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+   "published": "2026-10-27T21:32:57+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+   "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+   "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
+   "published": "2026-10-27T21:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+   "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+   "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+   "published": "2026-10-27T21:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+   "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+   "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
+   "published": "2026-10-27T19:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+   "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+   "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+   "published": "2026-10-27T10:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+   "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+   "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+   "published": "2026-10-27T09:12:21+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+   "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+   "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+   "published": "2026-10-27T00:49:42+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+   "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+   "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+   "published": "2026-10-27T00:46:36+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+   "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+   "summary": "International travel used to be the main risk of measles cases in the US—not anymore.",
+   "published": "2026-10-28T06:22:32+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+   "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+   "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+   "published": "2026-10-28T05:50:04+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+   "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+   "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+   "published": "2026-10-28T05:31:14+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+   "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+   "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
+   "published": "2026-10-28T02:49:08+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Warner Bros. drops final trailer for Dune: Part Three",
+   "link": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
+   "summary": "\"After years of combat, I've become the oppressor Chani had sworn to fight.\"",
+   "published": "2026-10-28T02:05:55+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+   "link": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+   "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+   "published": "2026-10-28T00:00:22+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
+   "link": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+   "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
+   "published": "2026-10-27T22:00:49+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+   "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+   "summary": "Included is the ability to limit which applications Siri can directly access.",
+   "published": "2026-10-27T04:04:16+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Building an AI Predictive Stock Algorithm",
+   "link": "https://getfintab.com/blog/ai-predictive-stock-algorithm",
+   "summary": "",
+   "published": "2026-10-28T05:45:36Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AetherGrid, an open-source distributed AI workload orchestrator",
+   "link": "https://github.com/wycliffRotich-dev/aethergrid",
+   "summary": "",
+   "published": "2026-10-28T05:43:15Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Confident Science Papers Sway AI Judges – Regardless of Merit",
+   "link": "https://www.unite.ai/confident-science-papers-sway-ai-judges-regardless-of-merit/",
+   "summary": "",
+   "published": "2026-10-28T05:21:29Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Letting Agents Loose on the Network",
+   "link": "https://cloudywithachanceoflatency.net/blog_04-investigative-tools.html",
+   "summary": "",
+   "published": "2026-10-28T05:09:02Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Fashion Week's Response to AI Fatigue? A Distinctly Human Sloppiness",
+   "link": "https://www.teenvogue.com/story/fashion-weeks-response-to-ai-fatigue-a-distinctly-human-sloppiness",
+   "summary": "",
+   "published": "2026-10-28T05:04:58Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Anthropic's IPO Explained",
+   "link": "https://finshots.in/archive/anthropic-ipo-explained/",
+   "summary": "",
+   "published": "2026-10-28T05:03:25Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: SelfClaw – Self-hosted multi-model AI chat with OpenAI-compatible API",
+   "link": "https://github.com/Alanzj/SelfClaw",
+   "summary": "",
+   "published": "2026-10-28T04:52:34Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Simulusion – A PyTorch library for training and running world models",
+   "link": "https://github.com/ParamThakkar123/simulusion",
+   "summary": "",
+   "published": "2026-10-28T04:50:59Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Dessa – the Conversation Model trained only on speech",
+   "link": "https://block.xyz/",
+   "summary": "",
+   "published": "2026-10-28T04:49:18Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Two problems in networking contributing to recent security failures",
+   "link": "https://bsky.app/profile/robpike.io/post/3myvstikmts2b",
+   "summary": "",
+   "published": "2026-10-28T04:47:18Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AICC: Free AI certifications, technical courses, and learning resources",
+   "link": "https://www.aicertificationcouncil.com/",
+   "summary": "",
+   "published": "2026-10-28T04:39:34Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Tailscale SSH: Findings and Fixes",
+   "link": "https://tailscale.com/blog/tailscale-ssh-findings-fixes",
+   "summary": "",
+   "published": "2026-10-28T04:36:54Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: OpenMontage Drama Studio – self-hosted AI studio for short dramas",
+   "link": "https://github.com/charliewwdev/OpenMontage",
+   "summary": "",
+   "published": "2026-10-28T04:14:27Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "DeltaDB now has a Claude Code plugin",
+   "link": "https://delta.dev/blog/claude-code-multiplayer",
+   "summary": "",
+   "published": "2026-10-28T03:47:11Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "I ran each AI coding-agent sandbox's own tests against the others",
+   "link": "https://github.com/carlostapiacl/sandbox-conformance",
+   "summary": "",
+   "published": "2026-10-28T03:35:56Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "44% of 94 live business-for-sale listings raise a high-severity red flag",
+   "link": "https://firstpassmemo.com/red-flag-index/",
+   "summary": "",
+   "published": "2026-10-28T03:34:53Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Laissez Faire, Laissez Mourir – Visualizing Plutocracy",
+   "link": "https://david.alvarezrosa.com/posts/laissez-faire-laissez-mourir/",
+   "summary": "",
+   "published": "2026-10-28T03:33:55Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Tiny Desk AI – Turn yourself and friends into an \"Outstanding\" meme video",
+   "link": "https://tiny-desk-ai.app/",
+   "summary": "",
+   "published": "2026-10-28T03:27:21Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Who Does America Owe $40T? (Explained Like You're 5)",
+   "link": "https://www.youtube.com/watch?v=TmlvDH0ZFB4",
+   "summary": "",
+   "published": "2026-10-28T03:24:46Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: The New Way to Make AI UGC Ads in 2026",
+   "link": "https://www.aivideosugc.com/ai-video-generation",
+   "summary": "",
+   "published": "2026-10-28T03:14:26Z"
+  }
+ ],
+ "total": 46
+}
