@@ -1,37 +1,37 @@
-# 2026-10-27 AI 资讯日报（降级·标题清单版）
+# 2026-10-28 AI 资讯日报（降级·标题清单版）
 
 > 模型总结不可用：未配置 OPENROUTER_API_KEY。以下为原始条目，仅供参考。
 
-- **不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法**（量子位）
-- **印奇把4D雷达也端到端了**（量子位）
-- **乔布斯的皮克斯，狂赞中国物理AI数据终端**（量子位）
-- **Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了**（量子位）
-- **KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%**（量子位）
-- **GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力**（量子位）
-- **国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6**（量子位）
-- **做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026**（量子位）
-- **OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度**（量子位）
-- **Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace**（TechCrunch AI）
-- **Japan internet giant GMO says hackers posted stolen customer data**（TechCrunch AI）
-- **Opera introduces a new web standard to let users deploy AI locally in their browser**（TechCrunch AI）
-- **General Compute raises $100 million Series A, countering the neocloud disaster narrative**（TechCrunch AI）
-- **Nvidia backs Indian startup helping companies run AI models with fewer GPUs**（TechCrunch AI）
-- **How OpenAI turned its coding tools into dots, an always-on personal assistant**（TechCrunch AI）
-- **Cohere says Alibaba’s Qwen model tried to send a file to Beijing**（TechCrunch AI）
-- **Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked**（TechCrunch AI）
-- **SpaceX locks in $40B GPU financing deal with Apollo**（TechCrunch AI）
+- **【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告**（量子位）
+- **工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告**（量子位）
+- **威卡：用数据集链接具身智能和工程机械**（量子位）
+- **19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板**（量子位）
+- **0营收估值200亿美元，具身版OpenAI又融10亿美元**（量子位）
+- **AI execs may be too out of touch to build for the general public**（TechCrunch AI）
+- **South Korea’s financial industry hit by fresh wave of cyberattacks**（TechCrunch AI）
+- **Voice AI in vogue: Nvidia releases new open transcription model**（TechCrunch AI）
+- **7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open**（TechCrunch AI）
+- **VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more**（TechCrunch AI）
+- **Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication**（TechCrunch AI）
+- **The data center boom has an upside: innovation for the US grid**（TechCrunch AI）
+- **Bank of America kindly asks that you don’t share your banking password with your AI assistant**（TechCrunch AI）
+- **Who’s really in charge at Anthropic after the IPO?**（TechCrunch AI）
+- **Disruptive raises $10B fund to make big bets on at least 10 companies**（TechCrunch AI）
+- **Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?**（TechCrunch AI）
+- **Buckle up for more body-swapping hijinks in Jumanji: Open World trailer**（Ars Technica）
+- **China’s snooping around Pacific undersea cables raises risks for Big Tech**（Ars Technica）
 - **South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks**（Ars Technica）
 - **"No human at the helm": Delaware plan would let AI agents run entire businesses**（Ars Technica）
 - **Anthropic IPO warns its AI could blackmail people, become sentient, end humanity**（Ars Technica）
-- **Vibe genes? Natural(ish) language comes to protein, genome design software**（Ars Technica）
-- **Warner Bros. drops final trailer for Dune: Part Three**（Ars Technica）
-- **DeepMind unveils Genie 4 world model promising more realistic physics and humans**（Ars Technica）
-- **Some iPhone Duo screens are already failing, Apple says only a "small number" are affected**（Ars Technica）
-- **Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo**（Ars Technica）
-- **Building an AI Predictive Stock Algorithm**（Hacker News）
-- **AetherGrid, an open-source distributed AI workload orchestrator**（Hacker News）
-- **Confident Science Papers Sway AI Judges – Regardless of Merit**（Hacker News）
-- **Letting Agents Loose on the Network**（Hacker News）
+- **让 Agent 读懂你的身体：数据处理篇**（少数派）
+- **Forging a Microsoft Edge Full Chain with Logic Bugs Only**（Hacker News）
+- **Trump phone is made in Taiwan [video]**（Hacker News）
+- **Bernstein – open-source governance layer for AI agents**（Hacker News）
+- **Getting good at AI takes time and practice**（Hacker News）
+- **Concise/readable versions of OpenAI math dump**（Hacker News）
+- **Smart reports, surveys, and pooled group budgets for Claude Enterprise**（Hacker News）
+- **Show HN: Uji – Gentoo of Coding Agents**（Hacker News）
+- **Can AI agents do senior expert work? What the evidence says**（Hacker News）
 
 ---
-*生成：GitHub Actions + 免费模型 degraded · 条目数 45 · 零积分*
+*生成：GitHub Actions + 免费模型 degraded · 条目数 42 · 零积分*

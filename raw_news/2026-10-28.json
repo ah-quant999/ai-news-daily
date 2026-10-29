@@ -1,0 +1,304 @@
+{
+ "generated_at": "2026-10-29T14:48:03.867140+08:00",
+ "window": [
+  "2026-10-28T00:00:00+08:00",
+  "2026-10-29T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+   "link": "https://www.qbitai.com/2026/10/506194.html",
+   "summary": "让基建作为常驻buff",
+   "published": "2026-10-28T19:09:10+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+   "link": "https://www.qbitai.com/2026/10/506098.html",
+   "summary": "让基建作为常驻buff",
+   "published": "2026-10-28T18:32:39+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "威卡：用数据集链接具身智能和工程机械",
+   "link": "https://www.qbitai.com/2026/10/506063.html",
+   "summary": "威卡：为工程机械的智能化与少人化，提供一条被验证的路径",
+   "published": "2026-10-28T17:01:27+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板",
+   "link": "https://www.qbitai.com/2026/10/506055.html",
+   "summary": "精度达AlphaFold 3两倍，分子之心拿下高难度抗体设计",
+   "published": "2026-10-28T16:59:00+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
+   "link": "https://www.qbitai.com/2026/10/506042.html",
+   "summary": "斯坦福伯克利宗师组团，贝索斯红杉抢着送钱",
+   "published": "2026-10-28T16:55:26+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "AI execs may be too out of touch to build for the general public",
+   "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+   "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+   "published": "2026-10-28T23:53:52+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+   "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+   "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+   "published": "2026-10-28T23:41:18+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+   "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+   "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+   "published": "2026-10-28T23:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+   "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+   "summary": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
+   "published": "2026-10-28T21:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+   "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+   "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+   "published": "2026-10-28T09:15:28+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+   "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+   "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+   "published": "2026-10-28T07:34:27+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "The data center boom has an upside: innovation for the US grid",
+   "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+   "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+   "published": "2026-10-28T06:55:41+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+   "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+   "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+   "published": "2026-10-28T05:44:34+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Who’s really in charge at Anthropic after the IPO?",
+   "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+   "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+   "published": "2026-10-28T05:38:28+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+   "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+   "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+   "published": "2026-10-28T02:55:35+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+   "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+   "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+   "published": "2026-10-28T01:08:08+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
+   "link": "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/",
+   "summary": "\"We have to be ready for whatever's coming next. If we lose in here, there won't be a home to go back to.\"",
+   "published": "2026-10-28T23:48:12+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
+   "link": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
+   "summary": "US-owned trans-Pacific cables face growing risks from sabotage and China.",
+   "published": "2026-10-28T19:00:49+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+   "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+   "summary": "International travel used to be the main risk of measles cases in the US—not anymore.",
+   "published": "2026-10-28T06:22:32+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+   "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+   "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+   "published": "2026-10-28T05:50:04+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+   "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+   "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+   "published": "2026-10-28T05:31:14+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "让 Agent 读懂你的身体：数据处理篇",
+   "link": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
+   "summary": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+   "published": "2026-10-29T11:29:46+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+   "link": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+   "summary": "",
+   "published": "2026-10-29T06:47:28Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Trump phone is made in Taiwan [video]",
+   "link": "https://www.youtube.com/watch?v=5O-vCJW1b8g",
+   "summary": "",
+   "published": "2026-10-29T06:33:05Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Bernstein – open-source governance layer for AI agents",
+   "link": "https://bernstein.run",
+   "summary": "",
+   "published": "2026-10-29T06:24:56Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Getting good at AI takes time and practice",
+   "link": "https://www.seangoedecke.com/getting-good-at-ai-takes-time-and-practice/",
+   "summary": "",
+   "published": "2026-10-29T06:17:15Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Concise/readable versions of OpenAI math dump",
+   "link": "https://github.com/qpwo/ezmath2",
+   "summary": "",
+   "published": "2026-10-29T06:14:17Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Smart reports, surveys, and pooled group budgets for Claude Enterprise",
+   "link": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
+   "summary": "",
+   "published": "2026-10-29T05:55:38Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Uji – Gentoo of Coding Agents",
+   "link": "https://github.com/uji-labs/uji",
+   "summary": "",
+   "published": "2026-10-29T05:52:16Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Can AI agents do senior expert work? What the evidence says",
+   "link": "https://estimandlab.com/insights/can-ai-agents-do-senior-expert-work/",
+   "summary": "",
+   "published": "2026-10-29T05:47:44Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "GeForce vs. Workstation GPUs: Nvidia's Half Rate, Priced",
+   "link": "https://www.airealist.ai/p/nvidia-geforce-half-rate",
+   "summary": "",
+   "published": "2026-10-29T05:47:33Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Ask HN: Why big LLMs use \"it's not A, it is B\" pattern? Shared dataset supplier?",
+   "link": "https://news.ycombinator.com/item?id=50284849",
+   "summary": "",
+   "published": "2026-10-29T05:20:39Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Alphabet's Revenue Miss Reignites Fears over AI Spending Binge",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/alphabet-reports-disappointing-revenue-income-shares-drop",
+   "summary": "",
+   "published": "2026-10-29T05:18:44Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Build a better AI product with explicit classification",
+   "link": "https://steadily.ca/newsletter/edition/better-ai-products-with-explicit-classification",
+   "summary": "",
+   "published": "2026-10-29T05:11:14Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Supply chain security for open source maintainers",
+   "link": "https://safedep.io/oss/",
+   "summary": "",
+   "published": "2026-10-29T05:08:33Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "A small behavior model that beats frontier LLMs at predicting human reactions",
+   "link": "https://cairolabs.app/rosetta",
+   "summary": "",
+   "published": "2026-10-29T05:08:12Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
+   "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+   "summary": "",
+   "published": "2026-10-29T05:01:24Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Commits, pushes, reach new highs in 2026 as developers build with agents",
+   "link": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+   "summary": "",
+   "published": "2026-10-29T05:00:27Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Meta has a new AI pet app called Waddle World",
+   "link": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+   "summary": "",
+   "published": "2026-10-29T04:54:31Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI Chatbots Are Building an 'Algorithmic Self-Portrait' of You",
+   "link": "https://gizmodo.com/ai-chatbots-are-building-an-algorithmic-self-portrait-of-you-2000775529",
+   "summary": "",
+   "published": "2026-10-29T04:52:24Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Free course: Build and deploy an AI web app with Django and DigitalOcean",
+   "link": "https://www.aicertificationcouncil.com/",
+   "summary": "",
+   "published": "2026-10-29T04:46:50Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Peltola campaign and national Dems recruited spoiler candidates according to NYT",
+   "link": "https://alaskapublic.org/news/politics/elections/2026-10-28/peltola-campaign-and-national-dems-recruited-spoiler-candidates-including-petersburg-sullivan-according-to-new-york-times-report",
+   "summary": "",
+   "published": "2026-10-29T04:40:25Z"
+  }
+ ],
+ "total": 42
+}
