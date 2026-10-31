@@ -1,0 +1,346 @@
+{
+ "generated_at": "2026-10-31T14:42:24.662502+08:00",
+ "window": [
+  "2026-10-30T00:00:00+08:00",
+  "2026-10-31T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+   "link": "https://www.qbitai.com/2026/10/506743.html",
+   "summary": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
+   "published": "2026-10-30T15:31:11+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
+   "link": "https://www.qbitai.com/2026/10/506686.html",
+   "summary": "解析一切",
+   "published": "2026-10-30T13:52:47+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "Claude新模型曝光：新Fable，新Opus…",
+   "link": "https://www.qbitai.com/2026/10/506674.html",
+   "summary": "",
+   "published": "2026-10-30T13:50:44+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+   "link": "https://www.qbitai.com/2026/10/506662.html",
+   "summary": "让机器人成为彼此的“老师”",
+   "published": "2026-10-30T11:48:04+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
+   "link": "https://www.qbitai.com/2026/10/506609.html",
+   "summary": "",
+   "published": "2026-10-30T11:40:21+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
+   "link": "https://www.qbitai.com/2026/10/506569.html",
+   "summary": "Momenta世界模型上车",
+   "published": "2026-10-30T08:19:06+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+   "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+   "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, ",
+   "published": "2026-10-30T22:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+   "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+   "summary": "DoorDash said that it is open to working with third-party agent makers.",
+   "published": "2026-10-30T21:54:25+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+   "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+   "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+   "published": "2026-10-30T21:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+   "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+   "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+   "published": "2026-10-30T21:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+   "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+   "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+   "published": "2026-10-30T09:20:48+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+   "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+   "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+   "published": "2026-10-30T07:42:22+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+   "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+   "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+   "published": "2026-10-30T04:08:31+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Rivian expands joint venture with VW to include AI assistant",
+   "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+   "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+   "published": "2026-10-30T04:05:47+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "OpenAI-backed Thrive Holdings acquires ADT",
+   "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+   "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+   "published": "2026-10-30T03:56:19+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Meta quietly launches an AI fashion app called Style Sketch",
+   "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+   "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+   "published": "2026-10-30T03:14:36+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Granola crunches up a dictation feature to compete with Wispr",
+   "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+   "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+   "published": "2026-10-30T01:54:38+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+   "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+   "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+   "published": "2026-10-31T08:07:22+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+   "link": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
+   "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
+   "published": "2026-10-31T06:21:05+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+   "link": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+   "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
+   "published": "2026-10-31T05:41:54+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+   "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+   "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+   "published": "2026-10-31T05:09:54+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+   "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+   "summary": "People who love AI don't always love telling others they used it.",
+   "published": "2026-10-31T04:40:13+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Basically no one is using AI agents for their DoorDash orders",
+   "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+   "summary": "But it's still early days for the relatively new e-commerce use case.",
+   "published": "2026-10-31T03:30:52+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+   "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+   "summary": "Low costs and offline security mean magnetic tape still has a job.",
+   "published": "2026-10-31T01:38:19+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+   "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+   "summary": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
+   "published": "2026-10-31T00:53:49+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
+   "link": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
+   "summary": "Disgraced founder of Theranos has some people falling for her act all over again.",
+   "published": "2026-10-30T19:30:01+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+   "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
+   "summary": "Inspector general rejected request from Democratic and Republican senators.",
+   "published": "2026-10-30T04:08:10+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "让 Agent 读懂你的身体：数据处理篇",
+   "link": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
+   "summary": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+   "published": "2026-10-29T11:29:46+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "What if your ChatGPT conversations have a dashboard that can track things",
+   "link": "https://chatgpt.com/plugins/plugin_asdk_app_6ad58e43cfe881919841205d69cff9cf",
+   "summary": "",
+   "published": "2026-10-31T06:39:54Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Non-autoregressive NC LLM spits tokens 21x faster than text diffusion",
+   "link": "https://hazyresearch.stanford.edu/blog/2026-10-12-ncm",
+   "summary": "",
+   "published": "2026-10-31T06:31:05Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Ask HN: Is anyone else struggling with AI wealth FOMO?",
+   "link": "https://news.ycombinator.com/item?id=50313645",
+   "summary": "",
+   "published": "2026-10-31T06:14:28Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Tier 1 ISPs react to unfair pricing",
+   "link": "https://www.datacenterknowledge.com/networking/cogent-unplugs-telia-in-peering-dispute",
+   "summary": "",
+   "published": "2026-10-31T06:06:28Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Google Adopts New AI Training Control",
+   "link": "https://www.seroundtable.com/google-ai-training-control-42430.html",
+   "summary": "",
+   "published": "2026-10-31T06:01:40Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Spanish minister refuses to resign over second major train crash on his watch",
+   "link": "https://www.channelnewsasia.com/world/spain-transport-minister-resign-train-crash-6507826",
+   "summary": "",
+   "published": "2026-10-31T05:54:11Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Tell HN: Claude is using my limits even though it's infra is failing",
+   "link": "https://news.ycombinator.com/item?id=50313539",
+   "summary": "",
+   "published": "2026-10-31T05:52:29Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Archwhere – work alongside AI coding agents on an architecture map",
+   "link": "https://github.com/tapaskar/archwhere",
+   "summary": "",
+   "published": "2026-10-31T05:46:30Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Ramekin – IoT development, deployment and update platform via Apptainer",
+   "link": "https://github.com/ascension-association/ramekin",
+   "summary": "",
+   "published": "2026-10-31T05:37:16Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Drawquarium – Trailer",
+   "link": "https://www.youtube.com/watch?v=xqkNEx5z8SI",
+   "summary": "",
+   "published": "2026-10-31T05:33:07Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN:AI gave me the skills. It didn't give me people",
+   "link": "https://apps.apple.com/us/app/neonetworking/id6818046802",
+   "summary": "",
+   "published": "2026-10-31T05:26:54Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Anthropic's IPO Date Could Cost Its Employees a Year of Tax Life",
+   "link": "https://www.forbes.com/sites/anderson-lafontant/2026/10/29/anthropics-ipo-date-could-cost-its-employees-a-year-of-tax-life/",
+   "summary": "",
+   "published": "2026-10-31T05:21:53Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Octomind: A coding agent that recalls archived messages after compaction",
+   "link": "https://github.com/muvon/octomind",
+   "summary": "",
+   "published": "2026-10-31T04:54:13Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "InstanStore – AI drafts products and sales pages for a creator store",
+   "link": "https://instanstore.com/",
+   "summary": "",
+   "published": "2026-10-31T04:53:23Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "The biggest names in AI are backing a new way to opt out of scraping",
+   "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+   "summary": "",
+   "published": "2026-10-31T04:49:47Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Britain Narrowly Escaped a Grid Blackout in June 2026",
+   "link": "https://hackaday.com/2026/10/30/how-britain-narrowly-escaped-a-grid-blackout-in-june-2026/",
+   "summary": "",
+   "published": "2026-10-31T04:38:44Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Free AI Learning Platform",
+   "link": "https://www.aicertificationcouncil.com/",
+   "summary": "",
+   "published": "2026-10-31T04:28:26Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Lambda.ai Is Down?",
+   "link": "https://lambda.ai",
+   "summary": "",
+   "published": "2026-10-31T04:24:10Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "See how AI search reads a page and fix it in one prompt",
+   "link": "https://lumi-geo.pages.dev/",
+   "summary": "",
+   "published": "2026-10-31T04:01:13Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "ResumeFitting – AI resume ATS gap analysis and keyword matching",
+   "link": "https://resumefitting.com",
+   "summary": "",
+   "published": "2026-10-31T03:55:26Z"
+  }
+ ],
+ "total": 48
+}
