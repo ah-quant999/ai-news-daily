@@ -1,24 +1,19 @@
-# 2026-10-30 AI 资讯日报（降级·标题清单版）
+# 2026-10-31 AI 资讯日报（降级·标题清单版）
 
 > 模型总结不可用：未配置 OPENROUTER_API_KEY。以下为原始条目，仅供参考。
 
-- **英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成**（量子位）
-- **RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR**（量子位）
-- **Claude新模型曝光：新Fable，新Opus…**（量子位）
-- **从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径**（量子位）
-- **前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位**（量子位）
-- **买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配**（量子位）
-- **Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate**（TechCrunch AI）
-- **DoorDash said it’s only received ‘several hundred’ orders from AI agents**（TechCrunch AI）
-- **5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026**（TechCrunch AI）
-- **Can AI data centers be mass-produced like cars? This startup aims to find out**（TechCrunch AI）
-- **You don’t need to believe in a god to get a religious exemption from using AI at work**（TechCrunch AI）
-- **AWS will be a $1T business, Jassy says — but first, it will spend big**（TechCrunch AI）
-- **As search traffic dries up, Reddit announces it’s shifting to a logged-in experience**（TechCrunch AI）
-- **Rivian expands joint venture with VW to include AI assistant**（TechCrunch AI）
-- **OpenAI-backed Thrive Holdings acquires ADT**（TechCrunch AI）
-- **Meta quietly launches an AI fashion app called Style Sketch**（TechCrunch AI）
-- **Granola crunches up a dictation feature to compete with Wispr**（TechCrunch AI）
+- **你的8G iPad里有12G内存！库克走了但他的刀法追着我砍**（量子位）
+- **世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用**（量子位）
+- **刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」**（量子位）
+- **Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia**（TechCrunch AI）
+- **Ollie, a privacy-focused AI assistant, is shutting down**（TechCrunch AI）
+- **Intel’s stock crashes, knocking $12B from government’s stake**（TechCrunch AI）
+- **Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says**（TechCrunch AI）
+- **Last-minute Halloween costumes for tech nerds**（TechCrunch AI）
+- **Cracks are emerging in the AI spending boom**（TechCrunch AI）
+- **Zest’s new AI agent finds restaurants and books reservations over text**（TechCrunch AI）
+- **Google’s first data center satellite is online and writing poetry**（TechCrunch AI）
+- **Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’**（TechCrunch AI）
 - **Once again, NASA is asking for ideas to rescue Hubble from certain death**（Ars Technica）
 - **Oh captain, our captain: Ars staff remembers Patrick Stewart**（Ars Technica）
 - **Supersonic airliner in doubt as company shifts to powering AI data centers**（Ars Technica）
@@ -27,11 +22,16 @@
 - **Basically no one is using AI agents for their DoorDash orders**（Ars Technica）
 - **Fujifilm to boost tape production 5x as AI fuels archiving demand**（Ars Technica）
 - **Thousands of “ghost students” use AI to steal millions in student loans, DOJ says**（Ars Technica）
-- **Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit**（Ars Technica）
-- **Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine**（Ars Technica）
 - **让 Agent 读懂你的身体：数据处理篇**（少数派）
-- **What if your ChatGPT conversations have a dashboard that can track things**（Hacker News）
-- **Non-autoregressive NC LLM spits tokens 21x faster than text diffusion**（Hacker News）
+- **Show HN: AnchorGit – Hardware-signed Git decision ledger for AI code**（Hacker News）
+- **Agentic Backdoors via Pretraining Poisoning**（Hacker News）
+- **How to Live with AI**（Hacker News）
+- **Who pays for the AI power boom?**（Hacker News）
+- **Work, Art, and Study: AI and Ownership**（Hacker News）
+- **The AI cost of JavaScript frameworks**（Hacker News）
+- **Show HN: StackVitals – CI failure triage and DORA metrics, no server**（Hacker News）
+- **Computerized clairvoyance: psychics push back against AI-generated readings**（Hacker News）
+- **Octoverse: Commits reach new highs in 2026 as developers build with agents**（Hacker News）
 
 ---
-*生成：GitHub Actions + 免费模型 degraded · 条目数 45 · 零积分*
+*生成：GitHub Actions + 免费模型 degraded · 条目数 41 · 零积分*
