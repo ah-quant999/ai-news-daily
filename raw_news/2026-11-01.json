@@ -1,0 +1,283 @@
+{
+ "generated_at": "2026-11-02T15:21:30.024754+08:00",
+ "window": [
+  "2026-11-01T00:00:00+08:00",
+  "2026-11-02T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+   "link": "https://www.qbitai.com/2026/11/507076.html",
+   "summary": "西湖世界模型研究中心成立",
+   "published": "2026-11-01T21:28:10+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+   "link": "https://www.qbitai.com/2026/11/507038.html",
+   "summary": "",
+   "published": "2026-11-01T21:09:55+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+   "link": "https://www.qbitai.com/2026/11/507031.html",
+   "summary": "让AI像牛顿一样思考",
+   "published": "2026-11-01T16:02:37+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+   "link": "https://www.qbitai.com/2026/11/506990.html",
+   "summary": "这事还是想得太简单了",
+   "published": "2026-11-01T15:50:57+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "Jev新成果，再次引爆开源",
+   "link": "https://www.qbitai.com/2026/11/506922.html",
+   "summary": "再次“性价比屠夫”",
+   "published": "2026-11-01T12:18:37+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+   "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+   "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+   "published": "2026-11-01T05:41:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+   "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+   "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+   "published": "2026-11-01T05:36:07+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+   "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+   "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+   "published": "2026-11-01T05:17:03+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "OpenAI reportedly lowers funding target for new round",
+   "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+   "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+   "published": "2026-11-01T00:12:55+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+   "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+   "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+   "published": "2026-10-31T08:07:22+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+   "link": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
+   "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
+   "published": "2026-10-31T06:21:05+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+   "link": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+   "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
+   "published": "2026-10-31T05:41:54+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+   "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+   "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+   "published": "2026-10-31T05:09:54+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+   "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+   "summary": "People who love AI don't always love telling others they used it.",
+   "published": "2026-10-31T04:40:13+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Basically no one is using AI agents for their DoorDash orders",
+   "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+   "summary": "But it's still early days for the relatively new e-commerce use case.",
+   "published": "2026-10-31T03:30:52+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+   "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+   "summary": "Low costs and offline security mean magnetic tape still has a job.",
+   "published": "2026-10-31T01:38:19+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+   "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+   "summary": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
+   "published": "2026-10-31T00:53:49+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
+   "link": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
+   "summary": "Disgraced founder of Theranos has some people falling for her act all over again.",
+   "published": "2026-10-30T19:30:01+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
+   "link": "https://sspai.com/post/118191",
+   "summary": "Apple 智能将随 iOS 27.3 登陆中国 苹果对闪存的议价权受到压制 Claude Code 官方扩展被植入后门 美国 FCC 禁止中国实验室认证输美电子产品 百度网盘通过磁力计数据规避「摇一摇」广告权限 币安 63 亿美元资产被盗 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+   "published": "2026-11-02T07:22:45+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Setting the Record Straight on the Recent Witch Hunt Against Pixxel",
+   "link": "https://twitter.com/awaisahmedna/status/2117133115336630374",
+   "summary": "",
+   "published": "2026-11-02T07:19:04Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Decision model-based tool call guardrails for Claude Code, Codex, and Cursor",
+   "link": "https://twitter.com/Nandakishorm1/status/2117000769148957070",
+   "summary": "",
+   "published": "2026-11-02T07:18:38Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Shipvo – open-source RN OTA updates and an AI-drivable simulator",
+   "link": "https://github.com/shipvo/shipvo",
+   "summary": "",
+   "published": "2026-11-02T07:13:44Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Blaize GSP [Graph Streaming Processor] Streams AI Graphs at the Edge",
+   "link": "https://www.jonpeddie.com/news/blaize-gsp-streams-ai-graphs-at-the-edge/",
+   "summary": "",
+   "published": "2026-11-02T07:01:25Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "What are the amenities available in Amrapali Verona Heights project?",
+   "link": "https://news.ycombinator.com/item?id=50333874",
+   "summary": "",
+   "published": "2026-11-02T06:59:18Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "A rising tide raises all rents",
+   "link": "https://jyn.dev/rising-tide-raises-rents/",
+   "summary": "",
+   "published": "2026-11-02T06:53:09Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Diffreview – code review for local Claude diffs",
+   "link": "https://github.com/chalmagean/diffreview",
+   "summary": "",
+   "published": "2026-11-02T06:41:40Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Rocky Linux Creator Built a New 'Not Linux' Kernel in 11 Days Using AI",
+   "link": "https://github.com/gmkurtzer/ginux",
+   "summary": "",
+   "published": "2026-11-02T06:28:56Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Reliably aligning LLMs is impossible in principle",
+   "link": "https://www.seangoedecke.com/alignment-is-impossible/",
+   "summary": "",
+   "published": "2026-11-02T06:27:39Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "The Smartest People in AI Believe This Is the Most Important Chart",
+   "link": "https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815",
+   "summary": "",
+   "published": "2026-11-02T06:22:22Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Kairos: Open-source, real-time fraud and risk decisioning",
+   "link": "https://github.com/finic-ai/kairos",
+   "summary": "",
+   "published": "2026-11-02T06:20:09Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "The Bottlenecks for AI-Driven System Design: why Principals are not yet obsolete",
+   "link": "https://maheshba.bitbucket.io/blog/2026/07/22/agentdesign.html",
+   "summary": "",
+   "published": "2026-11-02T06:00:59Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Amazon plans to start selling Trainium AI chips outside AWS",
+   "link": "https://twitter.com/wallstengine/status/2115933466361753652",
+   "summary": "",
+   "published": "2026-11-02T05:59:07Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "GDPx: The General Agentic Benchmark",
+   "link": "https://gdpx.semianalysis.com/",
+   "summary": "",
+   "published": "2026-11-02T05:55:35Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "We have lift off: building a Gemini server in Python",
+   "link": "https://www.willmunn.xyz/gemini/python/2026/10/16/we-have-lift-off.html",
+   "summary": "",
+   "published": "2026-11-02T05:50:07Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: AI System Design Primer",
+   "link": "https://github.com/daneb/ai-system-design-primer/",
+   "summary": "",
+   "published": "2026-11-02T05:42:08Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Midgarth Quest. Browser-Playable Mmorpg Written by AI",
+   "link": "https://midgarth.quest/",
+   "summary": "",
+   "published": "2026-11-02T05:06:45Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "CEPO: General Framework for Improving Prompt Optimization in Multi-Agent Systems",
+   "link": "https://arxiv.org/abs/2610.34722",
+   "summary": "",
+   "published": "2026-11-02T04:58:54Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "GPT-6.1 Terra vs. Claude Opus 5.5: Cheaper and faster in three tests at max",
+   "link": "https://thenewstack.io/gpt-6-1-terra-vs-claude-opus-5-5/",
+   "summary": "",
+   "published": "2026-11-02T04:54:54Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Asking my AI teacher how to spell seventeen",
+   "link": "https://twitter.com/huskirl/status/2116941001335947635",
+   "summary": "",
+   "published": "2026-11-02T04:50:50Z"
+  }
+ ],
+ "total": 39
+}
