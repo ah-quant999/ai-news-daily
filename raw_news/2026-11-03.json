@@ -1,0 +1,339 @@
+{
+ "generated_at": "2026-11-04T15:17:58.848885+08:00",
+ "window": [
+  "2026-11-03T00:00:00+08:00",
+  "2026-11-04T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+   "link": "https://www.qbitai.com/2026/11/507507.html",
+   "summary": "AI接管调度运营，仓库越干越聪明",
+   "published": "2026-11-03T21:57:11+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
+   "link": "https://www.qbitai.com/2026/11/507473.html",
+   "summary": "两位CTO，关起门来吵架",
+   "published": "2026-11-03T20:57:35+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "模型谁都买得到，拉开差距的是AI生产力系统",
+   "link": "https://www.qbitai.com/2026/11/507448.html",
+   "summary": "AI的下一程是生产力系统之争",
+   "published": "2026-11-03T19:13:49+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
+   "link": "https://www.qbitai.com/2026/11/507419.html",
+   "summary": "终于，有了一个可以触摸的起点",
+   "published": "2026-11-03T14:55:30+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
+   "link": "https://www.qbitai.com/2026/11/507410.html",
+   "summary": "TeleAI智慧看护助手",
+   "published": "2026-11-03T14:29:11+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "AI数据平台OceanBase获世界互联网大会杰出贡献奖",
+   "link": "https://www.qbitai.com/2026/11/507405.html",
+   "summary": "11月3日上午，2026世界互联网大会在浙江乌镇开幕。",
+   "published": "2026-11-03T13:59:05+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”",
+   "link": "https://www.qbitai.com/2026/11/507396.html",
+   "summary": "11月3日，小米方面披露，小米集团获得2026世界互联网大会“杰出贡献奖”创新突破类奖项",
+   "published": "2026-11-03T13:16:35+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "A社紧急修改招股书！RSI我们快要控制不住了",
+   "link": "https://www.qbitai.com/2026/11/507382.html",
+   "summary": "单季狂揽1130亿人民币，但...",
+   "published": "2026-11-03T11:41:06+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
+   "link": "https://www.qbitai.com/2026/11/507367.html",
+   "summary": "GPU迭代一百次的事，它一步做完",
+   "published": "2026-11-03T11:16:23+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Apple restricts dating apps and AI companions to users 18 and up",
+   "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+   "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+   "published": "2026-11-03T23:38:27+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
+   "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+   "summary": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+   "published": "2026-11-03T22:30:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+   "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+   "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
+   "published": "2026-11-03T22:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+   "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+   "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+   "published": "2026-11-03T15:20:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+   "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+   "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+   "published": "2026-11-03T11:30:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+   "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+   "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+   "published": "2026-11-03T09:49:52+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+   "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+   "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+   "published": "2026-11-03T08:35:52+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+   "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+   "summary": "The one-year-old startup is now valued at $300 million.",
+   "published": "2026-11-03T07:13:53+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+   "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+   "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+   "published": "2026-11-03T06:14:50+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Web host Squarespace lays off 19% of its employees",
+   "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+   "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+   "published": "2026-11-03T03:25:59+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+   "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+   "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+   "published": "2026-11-03T03:19:17+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+   "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+   "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+   "published": "2026-11-03T00:30:00+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
+   "link": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
+   "summary": "Meta faces pressure to protect No Kings Instagram on election day.",
+   "published": "2026-11-03T23:39:30+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "EPA throws in the towel on policing air pollution from factory farms",
+   "link": "https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/",
+   "summary": "Critics say EPA is effectively abandoning Clean Air Act enforcement at factory farms.",
+   "published": "2026-11-03T22:49:00+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+   "link": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
+   "summary": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open.",
+   "published": "2026-11-03T07:30:16+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+   "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+   "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
+   "published": "2026-11-03T02:05:31+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
+   "link": "https://sspai.com/post/118317",
+   "summary": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。 查看全文",
+   "published": "2026-11-03T15:12:54+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验",
+   "link": "https://sspai.com/post/118122",
+   "summary": "这篇文章是TDSStudio在少数派上的第34篇文章，依然是全平台首发。时隔两年，我们又回来写AirPods半入耳型号了。在26年的苹果秋季event上，AirPods5给我们最大的印象其实还是主动降 ... 查看全文",
+   "published": "2026-11-02T15:00:00+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "LLMs tested on historical prediction markets, NONE outperformed the market",
+   "link": "https://arxiv.org/abs/2609.28876",
+   "summary": "",
+   "published": "2026-11-04T07:16:54Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Tiny Pickles: Why are AI companies investing so much in math proofs?",
+   "link": "https://blog.chaoticgood.computer/content/dead-math",
+   "summary": "",
+   "published": "2026-11-04T07:15:45Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI stocks slide as Texas governor result raises data center risks",
+   "link": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+   "summary": "",
+   "published": "2026-11-04T07:00:20Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI assistant which get Advice from relevant humans",
+   "link": "https://etsalabs.com/",
+   "summary": "",
+   "published": "2026-11-04T06:56:46Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Readfirst – a repo map your coding agents read before they edit a file",
+   "link": "https://github.com/jeonghun917/readfirst",
+   "summary": "",
+   "published": "2026-11-04T06:49:10Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Computerized clairvoyance: psychics push back against AI-generated readings",
+   "link": "https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings",
+   "summary": "",
+   "published": "2026-11-04T06:46:47Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "ChatGPT Is Down",
+   "link": "https://news.ycombinator.com/item?id=50362058",
+   "summary": "",
+   "published": "2026-11-04T06:24:16Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "MIT researchers edit Qwen weights with GPT-6 Astra to boost math",
+   "link": "https://venturebeat.com/technology/like-gene-editing-for-neural-networks-mit-researchers-used-gpt-6-astra-to-edit-qwens-open-weights-directly-boosting-math-performance",
+   "summary": "",
+   "published": "2026-11-04T06:18:38Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Oracle cancels $7B Tencent AI deal under Trump pressure",
+   "link": "https://www.ft.com/content/c5a6a738-cd78-4a8e-a814-57a7473ebb9c",
+   "summary": "",
+   "published": "2026-11-04T06:14:13Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: AgentFirstStack – analytics, tags, email and replay your agent sets up",
+   "link": "https://agentfirststack.com/",
+   "summary": "",
+   "published": "2026-11-04T05:57:39Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Nvidia Auto Ontology, but a Graph",
+   "link": "https://nidra.computer/",
+   "summary": "",
+   "published": "2026-11-04T05:56:37Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "How should coding agents handle noisy repository history?",
+   "link": "https://twitter.com/AgentMemoryL/status/2117617801296802085",
+   "summary": "",
+   "published": "2026-11-04T05:31:56Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "GPT-Synopsys Combines IC Design EDA with Agentic AI",
+   "link": "https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/",
+   "summary": "",
+   "published": "2026-11-04T04:55:01Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Engraphis – Local-first, bi-temporal memory for AI coding agents",
+   "link": "https://github.com/Coding-Dev-Tools/engraphis",
+   "summary": "",
+   "published": "2026-11-04T04:52:44Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "I built a free local AI co-processor in Rust. AXON Developer Edition",
+   "link": "https://jrabbass.github.io/axon/",
+   "summary": "",
+   "published": "2026-11-04T04:49:40Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Google will cut off search access for students at schools that reject AI",
+   "link": "https://apnews.com/article/ai-schools-classroom-students-google-7ba4219e505db1c11d672f6eefe7155a",
+   "summary": "",
+   "published": "2026-11-04T04:40:06Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Smart reports, surveys, and pooled group budgets for Claude Enterprise",
+   "link": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
+   "summary": "",
+   "published": "2026-11-04T04:31:54Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Anthropic launched tools to show companies what their AI spending is buying",
+   "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+   "summary": "",
+   "published": "2026-11-04T04:26:22Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Droneship – sandbox for your coding agents",
+   "link": "https://droneship.run/",
+   "summary": "",
+   "published": "2026-11-04T04:20:56Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Select text in Claude Code instead of prompting",
+   "link": "https://github.com/GregoryBolshakov/peekme#readme",
+   "summary": "",
+   "published": "2026-11-04T04:20:18Z"
+  }
+ ],
+ "total": 47
+}
