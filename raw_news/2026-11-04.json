@@ -1,0 +1,332 @@
+{
+ "generated_at": "2026-11-05T15:44:37.403060+08:00",
+ "window": [
+  "2026-11-04T00:00:00+08:00",
+  "2026-11-05T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+   "link": "https://www.qbitai.com/2026/11/507767.html",
+   "summary": "像雇人一样雇机器人",
+   "published": "2026-11-05T13:25:37+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+   "link": "https://www.qbitai.com/2026/11/507696.html",
+   "summary": "Data + AI 技术实践巡展 · 上海站",
+   "published": "2026-11-05T10:01:51+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+   "link": "https://www.qbitai.com/2026/11/507707.html",
+   "summary": "最快6秒出图",
+   "published": "2026-11-05T09:59:37+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+   "link": "https://www.qbitai.com/2026/11/507697.html",
+   "summary": "被轰成筛子了…",
+   "published": "2026-11-05T09:54:44+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+   "link": "https://www.qbitai.com/2026/11/507688.html",
+   "summary": "11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。",
+   "published": "2026-11-05T09:42:43+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+   "link": "https://www.qbitai.com/2026/11/507675.html",
+   "summary": "薪资+期权不限！实习生也能训核心模型",
+   "published": "2026-11-05T08:41:34+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
+   "link": "https://www.qbitai.com/2026/11/507647.html",
+   "summary": "连路人都有自己的想法",
+   "published": "2026-11-05T00:13:23+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+   "link": "https://www.qbitai.com/2026/11/507586.html",
+   "summary": "仅激活3B参数，十项基准全线提升！",
+   "published": "2026-11-04T18:08:38+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
+   "link": "https://www.qbitai.com/2026/11/507574.html",
+   "summary": "一场别开生面的具身智能科技盛宴",
+   "published": "2026-11-04T16:59:57+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+   "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+   "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+   "published": "2026-11-04T21:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Anthropic is working on a system to prove AI models’ identity",
+   "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+   "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+   "published": "2026-11-04T06:41:03+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Data centers are turning to old jet engines as the wait for power grows",
+   "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+   "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+   "published": "2026-11-04T06:19:53+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+   "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+   "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+   "published": "2026-11-04T05:43:08+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+   "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+   "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+   "published": "2026-11-04T05:05:55+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+   "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+   "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+   "published": "2026-11-04T03:34:43+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+   "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+   "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+   "published": "2026-11-04T02:42:16+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Anthropic is still grappling with the economics of compute",
+   "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+   "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+   "published": "2026-11-04T01:07:01+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+   "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+   "summary": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
+   "published": "2026-11-04T06:39:37+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+   "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+   "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
+   "published": "2026-11-04T04:39:55+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+   "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+   "summary": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
+   "published": "2026-11-04T02:30:27+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Google will let schools skip AI tools, but they have to give up search, too",
+   "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+   "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
+   "published": "2026-11-04T01:54:43+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
+   "link": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
+   "summary": "Google has cut ties with the company behind the botnet campaign.",
+   "published": "2026-11-04T01:08:21+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "This space company is betting its future on a propellant available everywhere",
+   "link": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
+   "summary": "Is that water in your spacecraft, or are you just happy to see the delta-V?",
+   "published": "2026-11-04T00:50:32+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
+   "link": "https://sspai.com/post/118498",
+   "summary": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ... 查看全文",
+   "published": "2026-11-05T08:16:27+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
+   "link": "https://sspai.com/post/117713",
+   "summary": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。 查看全文",
+   "published": "2026-11-04T20:25:55+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
+   "link": "https://sspai.com/post/118317",
+   "summary": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。 查看全文",
+   "published": "2026-11-03T15:12:54+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AXI: Host-side state kept an LLM job exact for 1,500 steps pre-registered tests",
+   "link": "https://zenodo.org/records/23958737",
+   "summary": "",
+   "published": "2026-11-05T07:39:38Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI-Lost In The Middle, possible solution",
+   "link": "https://zenodo.org/records/23686384",
+   "summary": "",
+   "published": "2026-11-05T07:35:54Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: HackerFriction, HackerTube for what HN complains about",
+   "link": "https://hackerfriction.org/",
+   "summary": "",
+   "published": "2026-11-05T07:35:05Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "I Built the Most AI-Pilled Company in the World",
+   "link": "https://twitter.com/jsnnsa/status/2115623382721126826",
+   "summary": "",
+   "published": "2026-11-05T07:16:36Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+   "link": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+   "summary": "",
+   "published": "2026-11-05T07:15:12Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Generating 2k Consistent AI Images: The House Method",
+   "link": "http://blog.lockboxx.org/2026/11/generating-2k-consistent-ai-images.html",
+   "summary": "",
+   "published": "2026-11-05T07:12:16Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "My Agentic Coding Setup, July 2026 – Domenic Denicola",
+   "link": "https://domenic.me/agentic-coding-setup/",
+   "summary": "",
+   "published": "2026-11-05T07:00:41Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "T-Unit, the Spotify founders' new startup, aims to defend European democracies",
+   "link": "https://www.swedishtechnews.com/t-unit-the-spotify-founders-new-startup-secures-eur50m-in-funding-from-lakestar-to-make-european-democracies-resilient/",
+   "summary": "",
+   "published": "2026-11-05T07:00:12Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Adversarial Speculative Reasoning Improves Long Horizon Agents",
+   "link": "https://www.alphaxiv.org/abs/2611.05345",
+   "summary": "",
+   "published": "2026-11-05T06:15:42Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Did the World Just Gain Hundreds of Millions of Alzheimer’s Patients?",
+   "link": "https://www.newyorker.com/magazine/2026/11/09/did-the-world-just-gain-hundreds-of-millions-of-alzheimers-patients",
+   "summary": "",
+   "published": "2026-11-05T06:00:57Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "EP 37 – Microsoft Stock Analysis: AI Bubble? Explain These Earnings. [video]",
+   "link": "https://www.youtube.com/watch?v=-4aITC7loeo",
+   "summary": "",
+   "published": "2026-11-05T05:59:44Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "FuriosaAI raises $620M Series D, 4Xs valuation to $2.9B in Nvidia challenge",
+   "link": "https://app.dealroom.co/news/note/furiosaai-raises-620m-series-d-quadruples-valuation-to-2-9b-in-nvidia-challenge",
+   "summary": "",
+   "published": "2026-11-05T05:57:15Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Vibrating mattress helps clear Alzheimer's protein from the brain",
+   "link": "https://www.newscientist.com/article/2597081-vibrating-mattress-helps-clear-alzheimers-protein-from-the-brain/",
+   "summary": "",
+   "published": "2026-11-05T05:57:06Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI isn't slop. It's just the generic average. And not you",
+   "link": "https://www.catchkill9.dev/posts/voiceprint-open-source.html",
+   "summary": "",
+   "published": "2026-11-05T05:53:36Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Big Tech claims voters' AI backlash is \"anti-Trump\" not \"anti-tech\"",
+   "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+   "summary": "",
+   "published": "2026-11-05T05:38:01Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "LifeVal: Evaluating AI Model Performance on Personalized Agentic Consumer Tasks [pdf]",
+   "link": "https://cdn.openai.com/pdf/lifeval.pdf",
+   "summary": "",
+   "published": "2026-11-05T05:25:34Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "OpenAI Had 'Rough' First Half of Year Before Coding Takeoff",
+   "link": "https://www.wsj.com/tech/openai-had-rough-first-half-of-year-before-coding-takeoff-brockman-says-6c97d9e5",
+   "summary": "",
+   "published": "2026-11-05T05:24:58Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Critical thinking when agents do the work",
+   "link": "https://twitter.com/addyosmani/status/2117512471930167377",
+   "summary": "",
+   "published": "2026-11-05T05:21:48Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Secure meeting room for humans that AI can't see",
+   "link": "https://qube.so",
+   "summary": "",
+   "published": "2026-11-05T05:21:44Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Some Memories of Early Anthropic",
+   "link": "https://nothinghuman.substack.com/p/some-memories-of-early-anthropic",
+   "summary": "",
+   "published": "2026-11-05T05:09:42Z"
+  }
+ ],
+ "total": 46
+}

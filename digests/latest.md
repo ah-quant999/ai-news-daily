@@ -1,37 +1,37 @@
-# 2026-11-03 AI 资讯日报（降级·标题清单版）
+# 2026-11-04 AI 资讯日报（降级·标题清单版）
 
 > 模型总结不可用：未配置 OPENROUTER_API_KEY。以下为原始条目，仅供参考。
 
-- **机器人干活，AI当厂长！这家巨头要造下一代自主智能仓**（量子位）
-- **智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池**（量子位）
-- **模型谁都买得到，拉开差距的是AI生产力系统**（量子位）
-- **纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri**（量子位）
-- **苹果被曝的新产品，中国央企8个月前已装进公共卫生间**（量子位）
-- **AI数据平台OceanBase获世界互联网大会杰出贡献奖**（量子位）
-- **小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”**（量子位）
-- **A社紧急修改招股书！RSI我们快要控制不住了**（量子位）
-- **模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义**（量子位）
-- **Apple restricts dating apps and AI companions to users 18 and up**（TechCrunch AI）
-- **The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4**（TechCrunch AI）
-- **Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase**（TechCrunch AI）
-- **Apple Watch’s AI features for rewinding and recapping conversations begin beta testing**（TechCrunch AI）
-- **Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses**（TechCrunch AI）
-- **Apple may try to increase revenue by doing…something with third-party AI apps**（TechCrunch AI）
-- **Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens**（TechCrunch AI）
-- **Trajectory raises $45M to make AI model training accessible to nontechnical experts**（TechCrunch AI）
-- **Anthropic warns that it’s very close to RSI capability, aka self-building AI**（TechCrunch AI）
-- **Web host Squarespace lays off 19% of its employees**（TechCrunch AI）
-- **New York Times and other outlets sue web browser Brave over alleged content scraping**（TechCrunch AI）
-- **42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’**（TechCrunch AI）
-- **Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.**（Ars Technica）
-- **EPA throws in the towel on policing air pollution from factory farms**（Ars Technica）
-- **"At Home in Space" opens, caps Air and Space Museum renovation**（Ars Technica）
-- **Claude’s new rules against game cloning won’t stop the AI copying boom**（Ars Technica）
+- **以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划**（量子位）
+- **基于本体+知识+Harness+Datat Agent的智能体完整落地链路！**（量子位）
+- **GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了**（量子位）
+- **Linux内核被挖出948个漏洞！OpenAI花120万美元找到的**（量子位）
+- **太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》**（量子位）
+- **从3D生成到世界模型，这家AI公司想和年轻人一起定义问题**（量子位）
+- **百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年**（量子位）
+- **不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型**（量子位）
+- **超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场**（量子位）
+- **TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston**（TechCrunch AI）
+- **Anthropic is working on a system to prove AI models’ identity**（TechCrunch AI）
+- **Data centers are turning to old jet engines as the wait for power grows**（TechCrunch AI）
+- **Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom**（TechCrunch AI）
+- **Hiding inside Palantir’s skyrocketing quarter is a foreboding signal**（TechCrunch AI）
+- **AI inference startup Fal doubles its valuation to $16B as demand surges**（TechCrunch AI）
+- **Netflix’s new AI Discover tab helps you find something to watch based on your mood**（TechCrunch AI）
+- **Anthropic is still grappling with the economics of compute**（TechCrunch AI）
+- **California fights "preposterous" Trump admin demand to scrap state broadband laws**（Ars Technica）
+- **Ukraine’s drone strikes spur hasty Russian plans for underground data centers**（Ars Technica）
+- **NYT demands Brave shut down its paywall blocker and end deals with AI firms**（Ars Technica）
+- **Google will let schools skip AI tools, but they have to give up search, too**（Ars Technica）
+- **Google dismantles botnet secretly running on 1.3 million Android TV boxes**（Ars Technica）
+- **This space company is betting its future on a propellant available everywhere**（Ars Technica）
+- **派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等**（少数派）
+- **你不知道的客户端开发：AI 时代下的选型、原生与借力**（少数派）
 - **社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替**（少数派）
-- **TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验**（少数派）
-- **LLMs tested on historical prediction markets, NONE outperformed the market**（Hacker News）
-- **Tiny Pickles: Why are AI companies investing so much in math proofs?**（Hacker News）
-- **AI stocks slide as Texas governor result raises data center risks**（Hacker News）
+- **AXI: Host-side state kept an LLM job exact for 1,500 steps pre-registered tests**（Hacker News）
+- **AI-Lost In The Middle, possible solution**（Hacker News）
+- **Show HN: HackerFriction, HackerTube for what HN complains about**（Hacker News）
+- **I Built the Most AI-Pilled Company in the World**（Hacker News）
 
 ---
 *生成：GitHub Actions + 免费模型 degraded · 条目数 45 · 零积分*
