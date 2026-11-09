@@ -1,0 +1,458 @@
+{
+ "generated_at": "2026-11-09T15:41:44.957695+08:00",
+ "window": [
+  "2026-11-08T00:00:00+08:00",
+  "2026-11-09T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
+   "link": "https://www.qbitai.com/2026/11/508629.html",
+   "summary": "最早量产的亲自泼冷水",
+   "published": "2026-11-09T15:02:36+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
+   "link": "https://www.qbitai.com/2026/11/508607.html",
+   "summary": "Worker不够了主管Agent还能自己招！",
+   "published": "2026-11-09T13:47:58+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+   "link": "https://www.qbitai.com/2026/11/508603.html",
+   "summary": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
+   "published": "2026-11-09T13:09:23+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
+   "link": "https://www.qbitai.com/2026/11/508586.html",
+   "summary": "“让人放心，把人放大。”",
+   "published": "2026-11-09T11:47:12+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
+   "link": "https://www.qbitai.com/2026/11/508566.html",
+   "summary": "11月6日，清华大学举行“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动",
+   "published": "2026-11-09T10:19:08+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
+   "link": "https://www.qbitai.com/2026/11/508498.html",
+   "summary": "英伟达暗盘跌2%",
+   "published": "2026-11-09T08:40:50+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "终端侧AI：从单点应用走向智能体体验",
+   "link": "https://www.qbitai.com/2026/11/508478.html",
+   "summary": "高通在第九届进博会展出端侧MoE智能体",
+   "published": "2026-11-08T19:05:23+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "资本正在撤离“世界模型”",
+   "link": "https://www.qbitai.com/2026/11/508466.html",
+   "summary": "没有永远的夏天",
+   "published": "2026-11-08T12:09:55+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+   "link": "https://www.qbitai.com/2026/11/508449.html",
+   "summary": "AI写代码太快，基础设施跟不上了",
+   "published": "2026-11-07T17:38:56+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+   "link": "https://www.qbitai.com/2026/11/508344.html",
+   "summary": "融资缩水，硅谷投资人也谨慎了",
+   "published": "2026-11-07T16:11:25+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+   "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+   "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+   "published": "2026-11-09T13:26:29+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+   "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+   "summary": "In a memo to the company, Huang admitted that he had an affair.",
+   "published": "2026-11-09T05:00:11+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+   "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+   "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+   "published": "2026-11-08T06:07:22+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+   "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+   "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+   "published": "2026-11-08T05:17:08+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Crusoe sells troubled Wyoming data center project to Google",
+   "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+   "summary": "The deal highlights the challenges of developing massive AI data centers.",
+   "published": "2026-11-07T09:40:28+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+   "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+   "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+   "published": "2026-11-07T06:53:46+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+   "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+   "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+   "published": "2026-11-07T02:44:38+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+   "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+   "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+   "published": "2026-11-07T02:44:20+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "How a Blue Wave midterm might reshape the AI industry",
+   "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+   "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers we",
+   "published": "2026-11-07T02:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "After the midterms, is the AI industry in for a rough two years?",
+   "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+   "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers we",
+   "published": "2026-11-07T01:23:52+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+   "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+   "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+   "published": "2026-11-06T23:54:47+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+   "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+   "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+   "published": "2026-11-06T22:10:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Underdog shows off a 32MB speech model in new demo",
+   "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+   "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+   "published": "2026-11-06T21:02:16+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Physicl raises $10M to make the digital world real enough for robots",
+   "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+   "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+   "published": "2026-11-06T21:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+   "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+   "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+   "published": "2026-11-06T14:28:32+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+   "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+   "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+   "published": "2026-11-06T06:40:55+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Meta says US users can now video chat with their Muse AI avatar",
+   "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+   "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+   "published": "2026-11-06T03:48:28+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+   "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+   "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+   "published": "2026-11-06T03:12:39+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "OpenAI released a new cybersecurity model. Is that enough?",
+   "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+   "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+   "published": "2026-11-06T03:06:12+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+   "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+   "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
+   "published": "2026-11-06T02:02:27+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+   "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+   "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+   "published": "2026-11-08T20:15:31+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+   "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+   "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+   "published": "2026-11-07T19:00:34+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+   "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+   "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
+   "published": "2026-11-07T07:09:45+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+   "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+   "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
+   "published": "2026-11-07T06:41:37+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+   "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+   "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+   "published": "2026-11-07T04:56:41+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Earth's churning mantle may have created the Great Unconformity",
+   "link": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
+   "summary": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
+   "published": "2026-11-07T04:24:20+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
+   "link": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
+   "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
+   "published": "2026-11-07T04:05:30+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "The folks behind John Wick are back with Karōshi trailer",
+   "link": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
+   "summary": "Stuntman/director Chad Stahelski and 87Eleven bring us an action-packed dystopian, futuristic thriller.",
+   "published": "2026-11-07T02:30:19+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+   "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+   "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
+   "published": "2026-11-07T01:43:02+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Could potential AI clones of GTA VI force a quicker official port?",
+   "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+   "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+   "published": "2026-11-07T00:19:12+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality",
+   "link": "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/",
+   "summary": "It has the best laptop screen we've used, but there may be reasons to wait.",
+   "published": "2026-11-06T23:28:07+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+   "link": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+   "summary": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
+   "published": "2026-11-06T22:13:32+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
+   "link": "https://sspai.com/post/118570",
+   "summary": "M6 芯片提供了足够的性能保障，无论修图、视频剪辑还是运行入门级的 AI 大模型，它都能应对。在此基础上，你原本可能需要加在 Pro 级 SoC 上的预算就能省下来，花给内存或者硬盘。 查看全文",
+   "published": "2026-11-06T11:06:53+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
+   "link": "https://sspai.com/post/118587",
+   "summary": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。 查看全文",
+   "published": "2026-11-06T08:24:39+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "ESP32 Tailscale gateway with WoL and other recovery functions",
+   "link": "https://mattboxx.github.io/esp32-tailnet-gateway/",
+   "summary": "",
+   "published": "2026-11-09T07:38:48Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Asahi Linux forbids using AI to contribute",
+   "link": "https://asahilinux.org/llm-policy/",
+   "summary": "",
+   "published": "2026-11-09T07:36:35Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "370 Books in 20 months: South African author defends her use of AI",
+   "link": "https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai",
+   "summary": "",
+   "published": "2026-11-09T07:21:33Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Tracking AI's Real-Time Footprint on the Labor Market",
+   "link": "https://hai.stanford.edu/news/tracking-ais-real-time-footprint-on-the-labor-market",
+   "summary": "",
+   "published": "2026-11-09T07:20:55Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Dependency free RSS reader (vibecoded with DeepSeek)",
+   "link": "https://github.com/bipinKrishnan/rss_feed",
+   "summary": "",
+   "published": "2026-11-09T07:16:05Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Being a meat proxy for AI should be grounds for getting people fired",
+   "link": "https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired",
+   "summary": "",
+   "published": "2026-11-09T06:55:38Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "My AI agent archived 53 of its own skills during a maintenance run",
+   "link": "https://www.dhawalshah.net/article/ai-agent-governance/",
+   "summary": "",
+   "published": "2026-11-09T06:55:24Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "OKF – the Markdown spec for humans and AI",
+   "link": "https://okf.md/",
+   "summary": "",
+   "published": "2026-11-09T06:29:05Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Ask HN: As a human, are you glad the AI bubble is bursting?",
+   "link": "https://news.ycombinator.com/item?id=50421778",
+   "summary": "",
+   "published": "2026-11-09T06:22:08Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "China Newspaper Dismisses Jensen Huang Spy Claim, Warns on Ties",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-09/china-newspaper-dismisses-jensen-huang-spy-claim-warns-on-ties",
+   "summary": "",
+   "published": "2026-11-09T06:09:24Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Those who have lost their job to AI what was your job?",
+   "link": "https://news.ycombinator.com/item?id=50421579",
+   "summary": "",
+   "published": "2026-11-09T05:56:44Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "What If the Next Computer Virus Isn't Software? Rise of AI-Powered USB Threats",
+   "link": "https://medium.com/@makalin/what-if-the-next-computer-virus-isnt-software-the-rise-of-ai-powered-usb-threats-0facf6a9247b",
+   "summary": "",
+   "published": "2026-11-09T05:54:02Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Colophon Protocol – How to Deal with Agents Emails",
+   "link": "https://colophon-protocol.org/",
+   "summary": "",
+   "published": "2026-11-09T05:32:39Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Apple capped engineers at a $200 daily AI budget",
+   "link": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+   "summary": "",
+   "published": "2026-11-09T05:30:11Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Anthropic secures $3.4B generator deal for AI data centers",
+   "link": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/",
+   "summary": "",
+   "published": "2026-11-09T05:20:26Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI learns from the products of thinking, not thought itself",
+   "link": "https://theconversation.com/ai-learns-from-the-products-of-thinking-not-thought-itself-thats-a-problem-for-machines-and-for-us-293696",
+   "summary": "",
+   "published": "2026-11-09T05:17:12Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "View / Nvidia's $4.5T test of founder immunity",
+   "link": "https://www.semafor.com/article/11/08/2026/nvidias-45-trillion-test-of-founder-immunity",
+   "summary": "",
+   "published": "2026-11-09T05:00:16Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "The Collision: What AI Does to Us",
+   "link": "https://mitsloan.mit.edu/ideas-made-to-matter/collision-what-ai-does-to-us",
+   "summary": "",
+   "published": "2026-11-09T04:54:59Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Nvidia CEO Affair with Chinese Spy",
+   "link": "https://www.cnn.com/2026/11/08/business/nvidia-investigation-ceo-jensen-huang",
+   "summary": "",
+   "published": "2026-11-09T04:53:23Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Hide your slop PR descriptions behind <details><summary>",
+   "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
+   "summary": "",
+   "published": "2026-11-09T04:28:49Z"
+  }
+ ],
+ "total": 64
+}
