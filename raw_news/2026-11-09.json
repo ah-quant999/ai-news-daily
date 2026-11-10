@@ -1,0 +1,318 @@
+{
+ "generated_at": "2026-11-10T16:02:13.763720+08:00",
+ "window": [
+  "2026-11-09T00:00:00+08:00",
+  "2026-11-10T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "“AI毁了我的计算机学位”",
+   "link": "https://www.qbitai.com/2026/11/508706.html",
+   "summary": "教授也用Claude糊弄…",
+   "published": "2026-11-09T16:57:20+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+   "link": "https://www.qbitai.com/2026/11/507843.html",
+   "summary": "",
+   "published": "2026-11-09T16:44:00+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+   "link": "https://www.qbitai.com/2026/11/508694.html",
+   "summary": "11月9日，千问办公发布2.0版本",
+   "published": "2026-11-09T16:34:03+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
+   "link": "https://www.qbitai.com/2026/11/508690.html",
+   "summary": "厘清故事与现实的边界，回归投资与产业的底层逻辑。",
+   "published": "2026-11-09T16:26:45+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
+   "link": "https://www.qbitai.com/2026/11/508629.html",
+   "summary": "最早量产的亲自泼冷水",
+   "published": "2026-11-09T15:02:36+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
+   "link": "https://www.qbitai.com/2026/11/508607.html",
+   "summary": "Worker不够了主管Agent还能自己招！",
+   "published": "2026-11-09T13:47:58+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+   "link": "https://www.qbitai.com/2026/11/508603.html",
+   "summary": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
+   "published": "2026-11-09T13:09:23+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
+   "link": "https://www.qbitai.com/2026/11/508586.html",
+   "summary": "“让人放心，把人放大。”",
+   "published": "2026-11-09T11:47:12+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
+   "link": "https://www.qbitai.com/2026/11/508566.html",
+   "summary": "11月6日，清华大学举行“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动",
+   "published": "2026-11-09T10:19:08+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
+   "link": "https://www.qbitai.com/2026/11/508498.html",
+   "summary": "英伟达暗盘跌2%",
+   "published": "2026-11-09T08:40:50+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+   "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+   "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
+   "published": "2026-11-09T22:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
+   "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+   "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+   "published": "2026-11-09T13:26:29+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+   "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+   "summary": "In a memo to the company, Huang admitted that he had an affair.",
+   "published": "2026-11-09T05:00:11+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "A Sam Altman parody offers an amusing lesson in memory management",
+   "link": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+   "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
+   "published": "2026-11-10T04:49:09+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Claude Code is accidentally exposing secrets all over GitHub",
+   "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+   "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+   "published": "2026-11-10T01:24:26+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Nvidia CEO's affair becomes a national security problem",
+   "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+   "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+   "published": "2026-11-09T23:23:20+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "F1 in Brazil: You’ve got to keep your tires alive",
+   "link": "https://arstechnica.com/cars/2026/11/f1-in-brazil-drivers-at-their-very-best-in-tricky-conditions/",
+   "summary": "A topsy-turvy grid and intermittent rain resulted in a very entertaining race.",
+   "published": "2026-11-09T23:16:31+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+   "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+   "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+   "published": "2026-11-08T20:15:31+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+   "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+   "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+   "published": "2026-11-07T19:00:34+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+   "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+   "summary": "It's the exact path, not the apparent severity, that matters most, doctors say.",
+   "published": "2026-11-07T07:09:45+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+   "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+   "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
+   "published": "2026-11-07T06:41:37+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+   "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+   "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+   "published": "2026-11-07T04:56:41+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Earth's churning mantle may have created the Great Unconformity",
+   "link": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
+   "summary": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
+   "published": "2026-11-07T04:24:20+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
+   "link": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
+   "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
+   "published": "2026-11-07T04:05:30+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Antelog – stops AI coding agents from running dangerous commands",
+   "link": "https://antelog.dev/",
+   "summary": "",
+   "published": "2026-11-10T07:57:26Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Self-hosting email the hard way from your own routable IPv4 block up",
+   "link": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
+   "summary": "",
+   "published": "2026-11-10T07:35:29Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "How to control unit tests in Agentic Pipelines",
+   "link": "https://news.ycombinator.com/item?id=50437119",
+   "summary": "",
+   "published": "2026-11-10T07:20:54Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Fireworks AI security breach impacts Notion and their customers",
+   "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+   "summary": "",
+   "published": "2026-11-10T07:19:38Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "New Details Emerge in Amazon Ads Auction-Rigging Case",
+   "link": "https://www.ftc.gov/news-events/news/press-releases/2026/11/new-details-emerge-amazon-ads-auction-rigging-case",
+   "summary": "",
+   "published": "2026-11-10T07:11:17Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Mailgun SMTP is moving to TLS 1.2: What you need to do before the March 1, 2027",
+   "link": "https://www.mailgun.com/blog/product/mailgun-smtp-is-moving-to-tls-1-2-what-you-need-to-do-before-the-march-1-2027-update/",
+   "summary": "",
+   "published": "2026-11-10T07:05:27Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "S.t.a.l.k.e.r. Call of Pripyat in WASM and WebGPU",
+   "link": "https://stalker-online.xyz/",
+   "summary": "",
+   "published": "2026-11-10T07:03:48Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Microsoft are rejecting your mail",
+   "link": "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/",
+   "summary": "",
+   "published": "2026-11-10T07:03:00Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "JPMorganChase expands Claude Code to more employees across the firm",
+   "link": "https://claude.com/resources/articles/jpmorganchase-expands-claude-code",
+   "summary": "",
+   "published": "2026-11-10T07:02:35Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Can You Explain a Zipper? Why AI Makes You Feel Smarter Than You Are [video]",
+   "link": "https://www.youtube.com/watch?v=tqAangiY0FE",
+   "summary": "",
+   "published": "2026-11-10T06:53:16Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "From Text Scripts to Animated Memes: A Guide to Creating GIFs with GPT Image 2.6",
+   "link": "https://cloud.tencent.com/developer/article/2779922",
+   "summary": "",
+   "published": "2026-11-10T06:48:51Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Hire AI Agents and Pay in Monero (XMR)",
+   "link": "https://agents.monero.jobs",
+   "summary": "",
+   "published": "2026-11-10T06:44:45Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Willder, an open source context layer that syncs apps, agents and teams",
+   "link": "https://github.com/willderai/willder-core",
+   "summary": "",
+   "published": "2026-11-10T06:44:36Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "We're launching an in-game AI agent for WoW",
+   "link": "https://willocompanion.com/",
+   "summary": "",
+   "published": "2026-11-10T06:44:05Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Codenotary released AgentMon Live as free, open-source software",
+   "link": "https://finance.yahoo.com/technology/ai/articles/codenotary-releases-agentmon-live-free-160000064.html",
+   "summary": "",
+   "published": "2026-11-10T06:00:59Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack",
+   "link": "https://news.ycombinator.com/item?id=50436636",
+   "summary": "",
+   "published": "2026-11-10T06:00:48Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "The race to secure record-like information for domains",
+   "link": "https://alexsci.com/blog/the-race-to-secure-record-like-information-for-domains/",
+   "summary": "",
+   "published": "2026-11-10T05:50:08Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "FLEY AI-Voce – a voice AI assistant you but can also control your PC and phone",
+   "link": "https://news.ycombinator.com/item?id=50436493",
+   "summary": "",
+   "published": "2026-11-10T05:37:27Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "I don't want AI in my online search. What options do I have?",
+   "link": "https://theconversation.com/i-dont-want-ai-in-my-online-search-what-options-do-i-have-295875",
+   "summary": "",
+   "published": "2026-11-10T05:33:17Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Affair Bench: The public record of private affairs.",
+   "link": "https://affairbench.com",
+   "summary": "",
+   "published": "2026-11-10T05:33:10Z"
+  }
+ ],
+ "total": 44
+}
