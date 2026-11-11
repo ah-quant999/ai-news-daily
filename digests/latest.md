@@ -1,37 +1,37 @@
-# 2026-11-09 AI 资讯日报（降级·标题清单版）
+# 2026-11-10 AI 资讯日报（降级·标题清单版）
 
 > 模型总结不可用：未配置 OPENROUTER_API_KEY。以下为原始条目，仅供参考。
 
-- **“AI毁了我的计算机学位”**（量子位）
-- **腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满**（量子位）
-- **千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了**（量子位）
-- **叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕**（量子位）
-- **L3大撤退！奔驰宝马官宣不玩了：还没L2好用**（量子位）
-- **AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了**（量子位）
-- **基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代**（量子位）
-- **当AI在加速狂奔，什么反而应该“慢”下来？**（量子位）
-- **寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学**（量子位）
-- **黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查**（量子位）
-- **Automattic debuts a platform to deploy vibe-coding apps amid a changing internet**（TechCrunch AI）
-- **Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’**（TechCrunch AI）
-- **Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy**（TechCrunch AI）
-- **A Sam Altman parody offers an amusing lesson in memory management**（Ars Technica）
-- **Claude Code is accidentally exposing secrets all over GitHub**（Ars Technica）
-- **Nvidia CEO's affair becomes a national security problem**（Ars Technica）
-- **F1 in Brazil: You’ve got to keep your tires alive**（Ars Technica）
-- **Physicists listened to electrical noise to crack a superconductor mystery**（Ars Technica）
-- **British soldier ignored order to pull his SIM card, then got blackmailed**（Ars Technica）
-- **Doctors pull knife from man's eye that went through his brain—and he's fine now**（Ars Technica）
-- **Ships loiter near subsea cables amid Iran's warnings to Trump**（Ars Technica）
-- **Chainalysis says hackers stole credentials and tokens for all of its customers**（Ars Technica）
-- **Earth's churning mantle may have created the Great Unconformity**（Ars Technica）
-- **Nvidia hardware worth $11.4M vanished between Oakland and Texas**（Ars Technica）
-- **Antelog – stops AI coding agents from running dangerous commands**（Hacker News）
-- **Self-hosting email the hard way from your own routable IPv4 block up**（Hacker News）
-- **How to control unit tests in Agentic Pipelines**（Hacker News）
-- **Fireworks AI security breach impacts Notion and their customers**（Hacker News）
-- **New Details Emerge in Amazon Ads Auction-Rigging Case**（Hacker News）
-- **Mailgun SMTP is moving to TLS 1.2: What you need to do before the March 1, 2027**（Hacker News）
+- **从芯片到千比特整机，超导量子计算还有一场硬仗**（量子位）
+- **从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型**（量子位）
+- **Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架**（量子位）
+- **成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线**（量子位）
+- **达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动**（量子位）
+- **Token卷到触觉了！机器人终于有了通用手感**（量子位）
+- **Fable 5.2首批实测来了！网友：Opus突然不香了**（量子位）
+- **100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！**（量子位）
+- **千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常**（量子位）
+- **中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍**（量子位）
+- **Google broadens its AI hardware portfolio with two new specialized chips**（TechCrunch AI）
+- **Meta’s AI agent Muse lands on Apple Watch and Android Wear OS**（TechCrunch AI）
+- **Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly**（TechCrunch AI）
+- **Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion**（TechCrunch AI）
+- **After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era**（TechCrunch AI）
+- **Spotify’s AI DJ gets new voices, personalities, and an option for less chatter**（TechCrunch AI）
+- **Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot**（TechCrunch AI）
+- **Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns**（TechCrunch AI）
+- **Otter AI can now follow conversations across 30+ languages**（TechCrunch AI）
+- **Anthropic reportedly plans to move forward with IPO plans**（TechCrunch AI）
+- **Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago**（TechCrunch AI）
+- **DeepMind reveals Gemini Robotics 2.5 and open safety benchmark "ASIMOV-jailbreak"**（Ars Technica）
+- **Nvidia has a Jensen Huang problem—and no obvious successor**（Ars Technica）
+- **Ukraine’s fiber-optic drones get squeezed by AI data center demand**（Ars Technica）
+- **派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等**（少数派）
+- **Singapore Airlines unveils 'largest double bed in the sky'**（Hacker News）
+- **Grok Build coding agent leaks confidential info, some belonging to SpaceXSI**（Hacker News）
+- **AI and Original Intentionality**（Hacker News）
+- **VirtualTryOn – AI try-on for clothes, glasses, rings, and hairstyles**（Hacker News）
+- **Agent-Based Modeling: Worlds Within Worlds**（Hacker News）
 
 ---
-*生成：GitHub Actions + 免费模型 degraded · 条目数 44 · 零积分*
+*生成：GitHub Actions + 免费模型 degraded · 条目数 45 · 零积分*

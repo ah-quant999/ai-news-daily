@@ -1,0 +1,325 @@
+{
+ "generated_at": "2026-11-11T15:31:54.821395+08:00",
+ "window": [
+  "2026-11-10T00:00:00+08:00",
+  "2026-11-11T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+   "link": "https://www.qbitai.com/2026/11/509017.html",
+   "summary": "近亿元融资刚刚落袋",
+   "published": "2026-11-10T16:33:25+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+   "link": "https://www.qbitai.com/2026/11/508996.html",
+   "summary": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
+   "published": "2026-11-10T15:57:45+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+   "link": "https://www.qbitai.com/2026/11/508998.html",
+   "summary": "让每一次任务，都成为下一次进步的起点",
+   "published": "2026-11-10T15:56:29+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+   "link": "https://www.qbitai.com/2026/11/508991.html",
+   "summary": "TensorWorld物原科技在一个月内已拿到过亿美元融资",
+   "published": "2026-11-10T15:50:26+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+   "link": "https://www.qbitai.com/2026/11/508985.html",
+   "summary": "加速东部城市型智算中心向E-AIDC演进",
+   "published": "2026-11-10T15:33:19+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "Token卷到触觉了！机器人终于有了通用手感",
+   "link": "https://www.qbitai.com/2026/11/508919.html",
+   "summary": "蚂蚁灵波开源LingBot-Touch",
+   "published": "2026-11-10T15:26:53+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
+   "link": "https://www.qbitai.com/2026/11/508912.html",
+   "summary": "作曲、拍片、3D建模一条龙全包圆",
+   "published": "2026-11-10T15:03:43+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
+   "link": "https://www.qbitai.com/2026/11/508828.html",
+   "summary": "速度提了，API价格降了",
+   "published": "2026-11-10T10:48:22+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
+   "link": "https://www.qbitai.com/2026/11/508798.html",
+   "summary": "办公AI结束单机模式",
+   "published": "2026-11-10T09:27:09+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
+   "link": "https://www.qbitai.com/2026/11/508787.html",
+   "summary": "投毒 → 耗尽预算 → 诱导误判",
+   "published": "2026-11-10T06:11:49+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+   "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+   "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+   "published": "2026-11-10T23:54:08+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+   "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+   "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+   "published": "2026-11-10T23:29:30+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+   "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+   "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+   "published": "2026-11-10T22:05:10+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+   "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+   "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+   "published": "2026-11-10T22:01:39+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+   "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+   "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+   "published": "2026-11-10T22:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+   "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+   "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+   "published": "2026-11-10T22:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+   "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+   "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+   "published": "2026-11-10T21:30:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+   "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+   "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.",
+   "published": "2026-11-10T21:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Otter AI can now follow conversations across 30+ languages",
+   "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+   "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+   "published": "2026-11-10T15:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Anthropic reportedly plans to move forward with IPO plans",
+   "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+   "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+   "published": "2026-11-10T09:27:12+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+   "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+   "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+   "published": "2026-11-10T07:28:37+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+   "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+   "summary": "The new model is up to twice as successful at some tasks.",
+   "published": "2026-11-10T23:00:39+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
+   "link": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+   "summary": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
+   "published": "2026-11-10T22:53:05+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+   "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+   "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+   "published": "2026-11-10T20:15:32+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
+   "link": "https://sspai.com/post/118905",
+   "summary": "卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。 查看全文",
+   "published": "2026-11-11T08:26:34+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Singapore Airlines unveils 'largest double bed in the sky'",
+   "link": "https://www.cnn.com/travel/singapore-airlines-double-bed-cabin-revamp",
+   "summary": "",
+   "published": "2026-11-11T07:27:53Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Grok Build coding agent leaks confidential info, some belonging to SpaceXSI",
+   "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+   "summary": "",
+   "published": "2026-11-11T07:24:31Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI and Original Intentionality",
+   "link": "https://johnoestmannmusic.com/ai-and-original-intentionality/",
+   "summary": "",
+   "published": "2026-11-11T07:17:31Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "VirtualTryOn – AI try-on for clothes, glasses, rings, and hairstyles",
+   "link": "https://virtualtryon.pro/",
+   "summary": "",
+   "published": "2026-11-11T07:13:20Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Agent-Based Modeling: Worlds Within Worlds",
+   "link": "https://santafe.edu/features/agent-based-modeling-worlds-within-worlds",
+   "summary": "",
+   "published": "2026-11-11T06:52:39Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI Cracks a Quantum Computing Bottleneck",
+   "link": "https://arxiv.org/abs/2611.08151",
+   "summary": "",
+   "published": "2026-11-11T06:46:23Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Anthropic Unveils Claude Whiteboards, Claude Sheets, and Claude Data",
+   "link": "https://aidr.today/aa9b294e?lang=en",
+   "summary": "",
+   "published": "2026-11-11T06:25:14Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Subagents Conwidered Harmful",
+   "link": "https://nikvdp.com/notes/subagents-considered-harmful/",
+   "summary": "",
+   "published": "2026-11-11T06:21:36Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Generative AI and the temporary upskilling of knowledge workers",
+   "link": "https://www.nature.com/articles/s41562-026-02566-6",
+   "summary": "",
+   "published": "2026-11-11T06:19:23Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Brazil's AI Development Strategy Needs an Edge Layer – TechPolicy.Press",
+   "link": "https://www.techpolicy.press/brazils-ai-development-strategy-needs-an-edge-layer/",
+   "summary": "",
+   "published": "2026-11-11T06:15:06Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Nvidia loses ground in Washington chip fight after CEO spy scandal",
+   "link": "https://www.politico.com/news/2026/11/10/nvidia-ceos-spy-scandal-tilts-capitol-hills-chip-fight-01160548",
+   "summary": "",
+   "published": "2026-11-11T05:37:43Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "The Unexpected AI Stack: C# + .NET",
+   "link": "https://chrlschn.dev/blog/2026/08/the-unexpected-ai-stack-csharp-dotnet-part-1/",
+   "summary": "",
+   "published": "2026-11-11T05:35:17Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Cognizant dedicates more than 25000 professionals to Claude delivery",
+   "link": "https://finance.yahoo.com/technology/ai/articles/cognizant-dedicates-more-25-000-113000969.html",
+   "summary": "",
+   "published": "2026-11-11T05:24:38Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "The AI Arms Race Is Not Inevitable. It's Just Profitable",
+   "link": "https://ai-frontiers.org/articles/the-ai-arms-race-is-not-inevitable-its-just-profitable",
+   "summary": "",
+   "published": "2026-11-11T05:16:07Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "My AI Agents Found an Unmapped Maya Site in Mexico",
+   "link": "https://pietromiotti.com/latest/maya-site/",
+   "summary": "",
+   "published": "2026-11-11T05:09:10Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI Coding CLI Tools to Try Beyond Claude Code and Codex",
+   "link": "https://medium.com/@ajseven/7-ai-coding-cli-tools-to-try-beyond-claude-code-and-codex-e95155e153bd7AICodingCLIToolstoTryBeyondClaudeCodeandCodex",
+   "summary": "",
+   "published": "2026-11-11T04:55:23Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+   "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+   "summary": "",
+   "published": "2026-11-11T04:42:26Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "A free browser ski game on the real trail maps of 5,700 resorts",
+   "link": "https://shredindex.com/play",
+   "summary": "",
+   "published": "2026-11-11T04:35:24Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "LLMs is the best game I've ever played",
+   "link": "https://twitter.com/skorotkiewicz/status/2120373611974541390",
+   "summary": "",
+   "published": "2026-11-11T04:32:39Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Why are AI.Engineer talks/transcripts/presentations not available for attendes?",
+   "link": "https://news.ycombinator.com/item?id=50449728",
+   "summary": "",
+   "published": "2026-11-11T04:24:56Z"
+  }
+ ],
+ "total": 45
+}
