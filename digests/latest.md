@@ -1,37 +1,37 @@
-# 2026-11-11 AI 资讯日报（降级·标题清单版）
+# 2026-11-12 AI 资讯日报（降级·标题清单版）
 
 > 模型总结不可用：未配置 OPENROUTER_API_KEY。以下为原始条目，仅供参考。
 
-- **双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替**（量子位）
-- **从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题**（量子位）
-- **卷起来了！11月11日，大模型厂商在天猫打5折**（量子位）
-- **无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光**（量子位）
-- **Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth**（TechCrunch AI）
-- **Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads**（TechCrunch AI）
-- **Nvidia’s crisis has corporate governance experts reaching for the popcorn**（TechCrunch AI）
-- **OpenAI acquires Odessia, travel startup created by Sonder founder**（TechCrunch AI）
-- **OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect**（TechCrunch AI）
-- **All 7 Anthropic founders will each cash out about $250M in IPO**（TechCrunch AI）
-- **Oura to acquire AI-native primary care startup Counsel Health for $625M**（TechCrunch AI）
-- **PSI is trying to make a business out of AI-driven scientific discovery**（TechCrunch AI）
-- **Google DeepMind just mathematically verified key parts of Signal**（Ars Technica）
-- **Seagate's new hybrid drive raises some old questions**（Ars Technica）
-- **The US military seems to be getting nervous about the launch supply crunch**（Ars Technica）
-- **Ring cameras go mobile as Amazon debuts AI-powered security drone and robot**（Ars Technica）
-- **Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr**（Ars Technica）
-- **Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI**（Ars Technica）
-- **What happens to mathematics when AI becomes an oracle?**（Ars Technica）
-- **Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop**（Ars Technica）
-- **派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等**（少数派）
-- **Show HN: Indic-Turn-Detector – open-weights end-of-turn model for voice agents**（Hacker News）
-- **Agent Substrate**（Hacker News）
-- **Why Every AI Model Will Ship as a Torrent**（Hacker News）
-- **Finance team's ChatGPT habit is a cross-border data transfer**（Hacker News）
-- **Show HN: OpenPocket – iOS app for running Qwen3.5, LFM and other LLMs offline**（Hacker News）
-- **Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams**（Hacker News）
-- **258 Nvidia headlines: 6% ethics-negative before the scandal, 82% after**（Hacker News）
-- **AI is getting smarter. Are we thinking better?**（Hacker News）
-- **Where to Buy a Custom Fake ID with Your Own Details**（Hacker News）
+- **多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛**（量子位）
+- **从通用大模型到学习过程智能，AI如何真正进入课堂？**（量子位）
+- **Anthropic启动IPO路演，估值已缩水6000亿美元**（量子位）
+- **马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光**（量子位）
+- **让AI真正懂业务：璇玑如何成为企业AI的语义基础设施**（量子位）
+- **马斯克已准备好聘请黄仁勋**（量子位）
+- **Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条**（量子位）
+- **百曜科技入选全球 The Information 50！**（量子位）
+- **“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段**（量子位）
+- **Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?**（TechCrunch AI）
+- **Norwest pushes deeper into AI with new $4B fund**（TechCrunch AI）
+- **Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts**（TechCrunch AI）
+- **Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition**（TechCrunch AI）
+- **Who could replace Jensen Huang? A highly unscientific list of possible successors**（TechCrunch AI）
+- **Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395**（Ars Technica）
+- **Nvidia CEO Jensen Huang has resigned**（Ars Technica）
+- **Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI**（Ars Technica）
+- **在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？**（少数派）
+- **派早报：英伟达 CEO 黄仁勋宣布辞职等**（少数派）
+- **Forensic evidence Chinese AI labs built their newest models on Nvidia Blackwell**（Hacker News）
+- **OpenAI Joins Groundswell of Support for AI Chip Control Measures**（Hacker News）
+- **How to claim an SLA credit for today's Microsoft outage**（Hacker News）
+- **Show HN: Talgent Workbench – Open-source managed agent platform you run yourself**（Hacker News）
+- **AI Ambition: ArtCraft Cloned Photoshop and Now Wants to "Rebuild Everything"**（Hacker News）
+- **Runitlocal.io – Run AI on your own hardware**（Hacker News）
+- **Fixing a WebKit bug to see if promises are made of train tracks**（Hacker News）
+- **Introducing: Qualiaphobic AI – By Erik Hoel**（Hacker News）
+- **United Airlines blocks AI agents from booking flights**（Hacker News）
+- **Show HN: Chap – Meeting notes from live captions (no bot) with any LLM or agent**（Hacker News）
+- **Researchers detail over 1,500 verified cases of children with past-life memories**（Hacker News）
 
 ---
-*生成：GitHub Actions + 免费模型 degraded · 条目数 41 · 零积分*
+*生成：GitHub Actions + 免费模型 degraded · 条目数 39 · 零积分*
