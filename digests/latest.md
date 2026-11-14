@@ -1,37 +1,37 @@
-# 2026-11-12 AI 资讯日报（降级·标题清单版）
+# 2026-11-13 AI 资讯日报（降级·标题清单版）
 
 > 模型总结不可用：未配置 OPENROUTER_API_KEY。以下为原始条目，仅供参考。
 
-- **多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛**（量子位）
-- **从通用大模型到学习过程智能，AI如何真正进入课堂？**（量子位）
-- **Anthropic启动IPO路演，估值已缩水6000亿美元**（量子位）
-- **马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光**（量子位）
-- **让AI真正懂业务：璇玑如何成为企业AI的语义基础设施**（量子位）
-- **马斯克已准备好聘请黄仁勋**（量子位）
-- **Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条**（量子位）
-- **百曜科技入选全球 The Information 50！**（量子位）
-- **“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段**（量子位）
-- **Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?**（TechCrunch AI）
-- **Norwest pushes deeper into AI with new $4B fund**（TechCrunch AI）
-- **Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts**（TechCrunch AI）
-- **Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition**（TechCrunch AI）
-- **Who could replace Jensen Huang? A highly unscientific list of possible successors**（TechCrunch AI）
-- **Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395**（Ars Technica）
-- **Nvidia CEO Jensen Huang has resigned**（Ars Technica）
-- **Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI**（Ars Technica）
-- **在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？**（少数派）
-- **派早报：英伟达 CEO 黄仁勋宣布辞职等**（少数派）
-- **Forensic evidence Chinese AI labs built their newest models on Nvidia Blackwell**（Hacker News）
-- **OpenAI Joins Groundswell of Support for AI Chip Control Measures**（Hacker News）
-- **How to claim an SLA credit for today's Microsoft outage**（Hacker News）
-- **Show HN: Talgent Workbench – Open-source managed agent platform you run yourself**（Hacker News）
-- **AI Ambition: ArtCraft Cloned Photoshop and Now Wants to "Rebuild Everything"**（Hacker News）
-- **Runitlocal.io – Run AI on your own hardware**（Hacker News）
-- **Fixing a WebKit bug to see if promises are made of train tracks**（Hacker News）
-- **Introducing: Qualiaphobic AI – By Erik Hoel**（Hacker News）
-- **United Airlines blocks AI agents from booking flights**（Hacker News）
-- **Show HN: Chap – Meeting notes from live captions (no bot) with any LLM or agent**（Hacker News）
-- **Researchers detail over 1,500 verified cases of children with past-life memories**（Hacker News）
+- **黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿**（量子位）
+- **MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！**（量子位）
+- **中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了**（量子位）
+- **比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订**（量子位）
+- **从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路**（量子位）
+- **比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速**（量子位）
+- **高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学**（量子位）
+- **openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！**（量子位）
+- **特斯拉和SpaceX最快下月合并**（量子位）
+- **中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心**（量子位）
+- **The unfolding Jensen Huang scandal: a timeline**（TechCrunch AI）
+- **ElevenLabs’ new app combines meeting note-taking and dictation for teams**（TechCrunch AI）
+- **Israel’s VCs see opportunity for challengers in Nvidia’s turmoil**（TechCrunch AI）
+- **Jensen Huang didn’t show confidence in his successor, report says**（TechCrunch AI）
+- **Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump**（TechCrunch AI）
+- **Muse can now place calls to US businesses — if you pay**（TechCrunch AI）
+- **Nebius tests the neocloud playbook with $40 billion in planned spending**（TechCrunch AI）
+- **Jensen Huang was having a third affair, Reuters reports**（TechCrunch AI）
+- **Google’s latest Search upgrade promises better answers to your most complicated questions**（TechCrunch AI）
+- **Nectar launches an AI agent to automate creator discovery and outreach for brands**（TechCrunch AI）
+- **Jensen Huang’s exit puts Nvidia’s support for open source in question**（TechCrunch AI）
+- **Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit**（TechCrunch AI）
+- **United Airlines blocks AI agents from booking flights, citing cybersecurity risks**（TechCrunch AI）
+- **SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions**（TechCrunch AI）
+- **Phota Labs uses AI to turn everyday photos into professional-looking shots**（TechCrunch AI）
+- **Jensen Huang agrees to testify before Congress**（TechCrunch AI）
+- **The Elder Scrolls' most obscure adventure gets a 4K PC makeover**（Ars Technica）
+- **Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash**（Ars Technica）
+- **Ukraine says it can’t stop Russian strikes because Starshield is limited again**（Ars Technica）
+- **Google faces calls for AI moratoriums in schools after Gemini pilot backlash**（Ars Technica）
 
 ---
-*生成：GitHub Actions + 免费模型 degraded · 条目数 39 · 零积分*
+*生成：GitHub Actions + 免费模型 degraded · 条目数 45 · 零积分*
