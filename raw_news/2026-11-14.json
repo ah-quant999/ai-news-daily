@@ -1,0 +1,262 @@
+{
+ "generated_at": "2026-11-15T15:36:38.306749+08:00",
+ "window": [
+  "2026-11-14T00:00:00+08:00",
+  "2026-11-15T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+   "link": "https://www.qbitai.com/2026/11/510297.html",
+   "summary": "马斯克也签名了",
+   "published": "2026-11-14T18:08:08+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+   "link": "https://www.qbitai.com/2026/11/510232.html",
+   "summary": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
+   "published": "2026-11-14T17:58:22+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
+   "link": "https://www.qbitai.com/2026/11/510150.html",
+   "summary": "童年的纸飞机，现在终于飞回我手里～",
+   "published": "2026-11-14T17:48:34+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "绿电进Token出！联想重新定义词元工厂",
+   "link": "https://www.qbitai.com/2026/11/510094.html",
+   "summary": "年产2000万亿Token，成本狂降70%",
+   "published": "2026-11-14T17:41:02+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
+   "link": "https://www.qbitai.com/2026/11/510013.html",
+   "summary": "狂揽3000万播放量",
+   "published": "2026-11-14T10:59:35+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "突发！DeepSeek开放全家桶API",
+   "link": "https://www.qbitai.com/2026/11/510003.html",
+   "summary": "官方App功能均可自由组合调用",
+   "published": "2026-11-14T10:39:56+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+   "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+   "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+   "published": "2026-11-14T06:43:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "AI agent startup LangChain hits $3B valuation",
+   "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+   "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+   "published": "2026-11-14T03:37:57+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+   "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+   "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+   "published": "2026-11-14T02:40:30+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+   "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+   "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+   "published": "2026-11-14T00:00:12+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+   "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+   "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+   "published": "2026-11-14T05:20:47+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+   "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+   "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+   "published": "2026-11-14T01:25:45+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+   "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+   "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+   "published": "2026-11-14T00:26:32+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+   "link": "https://sspai.com/post/118153",
+   "summary": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。 查看全文",
+   "published": "2026-11-13T15:00:00+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+   "link": "https://sspai.com/post/118512",
+   "summary": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ... 查看全文",
+   "published": "2026-11-13T11:35:48+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+   "link": "https://sspai.com/post/118966",
+   "summary": "2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。 查看全文",
+   "published": "2026-11-13T08:48:17+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "I tested an AI dance edit on five seconds of footage, then tried the whole clip",
+   "link": "https://medium.com/@wangjiayiliuyan/i-tested-an-ai-dance-edit-on-five-seconds-of-footage-then-i-tried-the-whole-clip-2e733305eee1",
+   "summary": "",
+   "published": "2026-11-15T06:58:46Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: ShadowDiff – Shadow testing and SQL diffing for AI-migrated back ends",
+   "link": "https://github.com/vishalrajofficial/ShadowDiff",
+   "summary": "",
+   "published": "2026-11-15T06:54:38Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Hello Triangle, a puzzle game where you build a GPU",
+   "link": "https://hellotriangle.icedlatte.ca/",
+   "summary": "",
+   "published": "2026-11-15T06:52:58Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Jaab – AI Job Hunt Copilot",
+   "link": "https://chromewebstore.google.com/detail/jaab-ai-job-hunt-copilot/anpjlacmlihooopakbogefcdffpibpll",
+   "summary": "",
+   "published": "2026-11-15T06:34:24Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "\"Why Tailscale? (Open-sourcing my cover letters)\"",
+   "link": "https://thoward37.me/blog/articles/why-tailscale/",
+   "summary": "",
+   "published": "2026-11-15T06:33:15Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "The Coming Patent Storm in AI Hardware",
+   "link": "https://www.troutman.com/insights/the-coming-patent-storm-in-ai-hardware-what-the-capital-flows-the-memory-wall-and-the-optical-interconnect-race-mean-for-your-ip-strategy/",
+   "summary": "",
+   "published": "2026-11-15T06:32:32Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Lawyer upgrades eight-V100 private AI server to run 80% of DeepSeek v4.1 Flash",
+   "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-upgrades-eight-v100-private-ai-server-to-run-80-percent-of-deepseek-v4-1-flash-at-4-bit-nvfp4-precision-adds-1tb-of-ram-an-nvidia-rtx-3090-and-fixes-crashes-caused-by-a-bad-psu",
+   "summary": "",
+   "published": "2026-11-15T06:19:01Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Stonebrook Quill: full-featured AI-authored fantasy font",
+   "link": "https://swordcoastmap.com/font",
+   "summary": "",
+   "published": "2026-11-15T06:16:30Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "IBM Spyre AI Accelerator Card (75W PCIe Card with 128GB of LPDDR5)",
+   "link": "https://www.ibm.com/docs/en/systems-hardware/zsystems/9175-ME1?topic=introduction-spyre-accelerator",
+   "summary": "",
+   "published": "2026-11-15T06:13:17Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Beau – An AI boyfriend app focused on everyday conversations",
+   "link": "https://play.google.com/store/apps/details?id=com.beau.aiboyfriend&hl=en_US",
+   "summary": "",
+   "published": "2026-11-15T05:54:38Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "I borrowed the query planner from databases to fix a multi-index RAG agent",
+   "link": "https://medium.com/@sankeerthan.kasilingam/i-borrowed-the-query-planner-from-databases-to-fix-a-multi-index-rag-agent-110350f14a5d",
+   "summary": "",
+   "published": "2026-11-15T05:47:58Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "BrowserDo·Embiody – a browser built for AI agents",
+   "link": "https://embiody.com/blog/embiody-0-9-preview/",
+   "summary": "",
+   "published": "2026-11-15T05:47:36Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Confessions of an AI Skeptic",
+   "link": "https://daniel-azuma.com/blog/2026-11-12-ai-skeptic/",
+   "summary": "",
+   "published": "2026-11-15T05:20:55Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Anthropic CVP (Mythos) Defense Access Requirements Reduced to KYC",
+   "link": "https://portal.anthropic.com/login?returnTo=%2Fprograms%2Fcvp#_",
+   "summary": "",
+   "published": "2026-11-15T04:49:04Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
+   "link": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d",
+   "summary": "",
+   "published": "2026-11-15T04:42:37Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Kiri – The Modern Container Runtime",
+   "link": "https://runkiri.com/",
+   "summary": "",
+   "published": "2026-11-15T04:40:41Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Gawain – Require type hints on all Python variables",
+   "link": "https://github.com/matheuzgomes/gawain",
+   "summary": "",
+   "published": "2026-11-15T04:39:25Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Agent Substrate: The Core System",
+   "link": "https://github.com/agent-substrate/substrate",
+   "summary": "",
+   "published": "2026-11-15T04:37:17Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Anthropic, can you please make up your mind with your models?",
+   "link": "https://news.ycombinator.com/item?id=50504061",
+   "summary": "",
+   "published": "2026-11-15T04:36:59Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Songs That Explain America",
+   "link": "https://www.theatlantic.com/culture/2026/09/50-songs-explain-america-playlist/687598/",
+   "summary": "",
+   "published": "2026-11-15T04:35:57Z"
+  }
+ ],
+ "total": 36
+}

@@ -1,37 +1,37 @@
-# 2026-11-13 AI 资讯日报（降级·标题清单版）
+# 2026-11-14 AI 资讯日报（降级·标题清单版）
 
 > 模型总结不可用：未配置 OPENROUTER_API_KEY。以下为原始条目，仅供参考。
 
-- **黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿**（量子位）
-- **MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！**（量子位）
-- **中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了**（量子位）
-- **比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订**（量子位）
-- **从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路**（量子位）
-- **比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速**（量子位）
-- **高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学**（量子位）
-- **openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！**（量子位）
-- **特斯拉和SpaceX最快下月合并**（量子位）
-- **中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心**（量子位）
-- **The unfolding Jensen Huang scandal: a timeline**（TechCrunch AI）
-- **ElevenLabs’ new app combines meeting note-taking and dictation for teams**（TechCrunch AI）
-- **Israel’s VCs see opportunity for challengers in Nvidia’s turmoil**（TechCrunch AI）
-- **Jensen Huang didn’t show confidence in his successor, report says**（TechCrunch AI）
-- **Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump**（TechCrunch AI）
-- **Muse can now place calls to US businesses — if you pay**（TechCrunch AI）
-- **Nebius tests the neocloud playbook with $40 billion in planned spending**（TechCrunch AI）
-- **Jensen Huang was having a third affair, Reuters reports**（TechCrunch AI）
-- **Google’s latest Search upgrade promises better answers to your most complicated questions**（TechCrunch AI）
-- **Nectar launches an AI agent to automate creator discovery and outreach for brands**（TechCrunch AI）
-- **Jensen Huang’s exit puts Nvidia’s support for open source in question**（TechCrunch AI）
-- **Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit**（TechCrunch AI）
-- **United Airlines blocks AI agents from booking flights, citing cybersecurity risks**（TechCrunch AI）
-- **SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions**（TechCrunch AI）
-- **Phota Labs uses AI to turn everyday photos into professional-looking shots**（TechCrunch AI）
-- **Jensen Huang agrees to testify before Congress**（TechCrunch AI）
-- **The Elder Scrolls' most obscure adventure gets a 4K PC makeover**（Ars Technica）
-- **Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash**（Ars Technica）
-- **Ukraine says it can’t stop Russian strikes because Starshield is limited again**（Ars Technica）
-- **Google faces calls for AI moratoriums in schools after Gemini pilot backlash**（Ars Technica）
+- **英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！**（量子位）
+- **「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭**（量子位）
+- **程序员集体沉迷折纸飞机！最长滞空31.2秒**（量子位）
+- **绿电进Token出！联想重新定义词元工厂**（量子位）
+- **中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞**（量子位）
+- **突发！DeepSeek开放全家桶API**（量子位）
+- **Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say**（TechCrunch AI）
+- **AI agent startup LangChain hits $3B valuation**（TechCrunch AI）
+- **Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!**（TechCrunch AI）
+- **ChatGPT’s new Wallet lets AI agents shop and check out for you**（TechCrunch AI）
+- **FAA expands AI advice to manage air traffic congestion across entire US airspace**（Ars Technica）
+- **OpenAI board member worries an AI "takeover" of society could be months away**（Ars Technica）
+- **Windows 0-day dropped by disgruntled researcher hands hackers System rights**（Ars Technica）
+- **研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验**（少数派）
+- **在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？**（少数派）
+- **派早报：英伟达 CEO 黄仁勋宣布辞职等**（少数派）
+- **I tested an AI dance edit on five seconds of footage, then tried the whole clip**（Hacker News）
+- **Show HN: ShadowDiff – Shadow testing and SQL diffing for AI-migrated back ends**（Hacker News）
+- **Show HN: Hello Triangle, a puzzle game where you build a GPU**（Hacker News）
+- **Jaab – AI Job Hunt Copilot**（Hacker News）
+- **"Why Tailscale? (Open-sourcing my cover letters)"**（Hacker News）
+- **The Coming Patent Storm in AI Hardware**（Hacker News）
+- **Lawyer upgrades eight-V100 private AI server to run 80% of DeepSeek v4.1 Flash**（Hacker News）
+- **Stonebrook Quill: full-featured AI-authored fantasy font**（Hacker News）
+- **IBM Spyre AI Accelerator Card (75W PCIe Card with 128GB of LPDDR5)**（Hacker News）
+- **Beau – An AI boyfriend app focused on everyday conversations**（Hacker News）
+- **I borrowed the query planner from databases to fix a multi-index RAG agent**（Hacker News）
+- **BrowserDo·Embiody – a browser built for AI agents**（Hacker News）
+- **Confessions of an AI Skeptic**（Hacker News）
+- **Anthropic CVP (Mythos) Defense Access Requirements Reduced to KYC**（Hacker News）
 
 ---
-*生成：GitHub Actions + 免费模型 degraded · 条目数 45 · 零积分*
+*生成：GitHub Actions + 免费模型 degraded · 条目数 36 · 零积分*
