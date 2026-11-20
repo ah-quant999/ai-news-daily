@@ -1,37 +1,37 @@
-# 2026-11-18 AI 资讯日报（降级·标题清单版）
+# 2026-11-19 AI 资讯日报（降级·标题清单版）
 
 > 模型总结不可用：未配置 OPENROUTER_API_KEY。以下为原始条目，仅供参考。
 
-- **Gemini新模型Neon箭在弦上，网友：遍历元素周期表？**（量子位）
-- **GPT-6.2难产！OpenAI怕了**（量子位）
-- **全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线**（量子位）
-- **思维链一作Jason Wei离职！怎么去Meta待一年都跑路**（量子位）
-- **英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿**（量子位）
-- **Nvidia clarifies when it will — and won’t — keep financing neoclouds**（TechCrunch AI）
-- **Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents**（TechCrunch AI）
-- **India’s Humyn Labs raises $47M to feed US robotics companies the data they need**（TechCrunch AI）
-- **Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt**（TechCrunch AI）
-- **Nvidia promises that revenue will keep soaring — for now**（TechCrunch AI）
-- **Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details**（Ars Technica）
-- **Copilot is "the new OS for work," and now Office runs inside of it**（Ars Technica）
-- **Hundreds of websites deliver potent malware cocktail to unsuspecting visitors**（Ars Technica）
+- **影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！**（量子位）
+- **GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了**（量子位）
+- **SenseNova U1 Pro获Design Arena双榜中国第一、全球第六**（量子位）
+- **好清晰！最新国产AI画的8K图，放这么大大大大也不糊！**（量子位）
+- **AI基建大潮方兴未艾，联想集团最佳财季诞生！**（量子位）
+- **安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计**（量子位）
+- **范式下场做基模了！国产算力全链路训练，双模型同步亮相**（量子位）
+- **Anthropic’s IPO puts AI’s circular financing boom to the test**（TechCrunch AI）
+- **Superhuman pushes its Go assistant everywhere**（TechCrunch AI）
+- **Microsoft CEO Satya Nadella explains why he asked 60K employees to quit**（TechCrunch AI）
+- **Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’**（TechCrunch AI）
+- **Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’**（TechCrunch AI）
+- **Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit**（TechCrunch AI）
+- **Satya Nadella predicts AI agents will reshuffle the economics of the web**（TechCrunch AI）
+- **Anthropic prices IPO at $83 a share, above projected range**（TechCrunch AI）
+- **Nvidia created a weird bit of intrigue by not filing a routine SEC report**（TechCrunch AI）
+- **Mouse fight club might explain why we like to watch violent things**（Ars Technica）
+- **How to tell a cyberattack from a plain old outage**（Ars Technica）
+- **Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits**（Ars Technica）
+- **Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick**（Ars Technica）
+- **Windows Server 2028 trades compatibility for out-of-the-box security**（Ars Technica）
+- **Best Buy sells Blu-rays online and in-store again**（Ars Technica）
+- **Will Wright's next simulation will use AI to mine content from your memories**（Ars Technica）
+- **派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等**（少数派）
+- **给 Apple 的 2026 年打分，请你一起参与**（少数派）
 - **App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑**（少数派）
-- **派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等**（少数派）
-- **Wife of Senior Nvidia Executive Caught Up in Alleged AI Chip Smuggling Scandal**（Hacker News）
-- **I Spent a Year Talking to Anthropic Employees. Here's What They Believe**（Hacker News）
-- **AI Comes for Nursing**（Hacker News）
-- **Potentially $43B in Nvidia chips were 'sold to China illegally'**（Hacker News）
-- **SQL injection with multibyte encodings in Ruby on Rails (GHSA-744p-w4gc-m3gh)**（Hacker News）
-- **Measuring Agents in Production**（Hacker News）
-- **SQL query truncation in Ruby on Rails (CVE-2026-128084)**（Hacker News）
-- **Ride scenic Swiss railways in the browser**（Hacker News）
-- **Anthropic IPO Raises over $81B**（Hacker News）
-- **Frostbite: A new CPU architecture discovered, designed, and verified E2E by AI**（Hacker News）
-- **Agentic DNS – Father of Internet and Inventor of DNS Talk**（Hacker News）
-- **Recharge AI-task – Manage 5h/7d quota limit resets**（Hacker News）
-- **Show HN: Cyravo SecureBuild AI**（Hacker News）
-- **We pre-registered a benchmark for our agent-memory tool. It tied a NOTES.md file**（Hacker News）
-- **Build a JSON API in Agentica with Bond and Agentica-Db**（Hacker News）
+- **What Shaped Anthropic CEO Dario Amodei's Thinking on AI**（Hacker News）
+- **Austria launches public consultation for its national AI agenda**（Hacker News）
+- **Who are Anthropic's seven co-founders, now worth $180B?**（Hacker News）
+- **Hostile Inference: Exploiting Docker Model Runner for Container Escapes**（Hacker News）
 
 ---
-*生成：GitHub Actions + 免费模型 degraded · 条目数 35 · 零积分*
+*生成：GitHub Actions + 免费模型 degraded · 条目数 45 · 零积分*
