@@ -1,37 +1,37 @@
-# 2026-11-19 AI 资讯日报（降级·标题清单版）
+# 2026-11-20 AI 资讯日报（降级·标题清单版）
 
 > 模型总结不可用：未配置 OPENROUTER_API_KEY。以下为原始条目，仅供参考。
 
-- **影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！**（量子位）
-- **GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了**（量子位）
-- **SenseNova U1 Pro获Design Arena双榜中国第一、全球第六**（量子位）
-- **好清晰！最新国产AI画的8K图，放这么大大大大也不糊！**（量子位）
-- **AI基建大潮方兴未艾，联想集团最佳财季诞生！**（量子位）
-- **安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计**（量子位）
-- **范式下场做基模了！国产算力全链路训练，双模型同步亮相**（量子位）
-- **Anthropic’s IPO puts AI’s circular financing boom to the test**（TechCrunch AI）
-- **Superhuman pushes its Go assistant everywhere**（TechCrunch AI）
-- **Microsoft CEO Satya Nadella explains why he asked 60K employees to quit**（TechCrunch AI）
-- **Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’**（TechCrunch AI）
-- **Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’**（TechCrunch AI）
-- **Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit**（TechCrunch AI）
-- **Satya Nadella predicts AI agents will reshuffle the economics of the web**（TechCrunch AI）
-- **Anthropic prices IPO at $83 a share, above projected range**（TechCrunch AI）
-- **Nvidia created a weird bit of intrigue by not filing a routine SEC report**（TechCrunch AI）
-- **Mouse fight club might explain why we like to watch violent things**（Ars Technica）
-- **How to tell a cyberattack from a plain old outage**（Ars Technica）
-- **Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits**（Ars Technica）
-- **Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick**（Ars Technica）
-- **Windows Server 2028 trades compatibility for out-of-the-box security**（Ars Technica）
-- **Best Buy sells Blu-rays online and in-store again**（Ars Technica）
-- **Will Wright's next simulation will use AI to mine content from your memories**（Ars Technica）
+- **昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来**（量子位）
+- **新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景**（量子位）
+- **双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！**（量子位）
+- **具身机器人进入真机时代，华为云CloudRobo开始组队发力了**（量子位）
+- **The fallout from Nvidia’s Jensen Huang scandal continues**（TechCrunch AI）
+- **Six AI-powered gadgets that could make your home office smarter**（TechCrunch AI）
+- **Apple may be developing its own AI agent that runs your Mac**（TechCrunch AI）
+- **Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO**（TechCrunch AI）
+- **Meta’s new Muse Charm device may cost $300**（TechCrunch AI）
+- **These tech outages are giving Y2K, AI agent style**（TechCrunch AI）
+- **The unfolding Jensen Huang scandal: a timeline**（TechCrunch AI）
+- **Anthropic’s IPO could deliver $156B to charity**（TechCrunch AI）
+- **Google gives Gemini the ability to use your Mac for you**（TechCrunch AI）
+- **Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says**（TechCrunch AI）
+- **Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories**（TechCrunch AI）
+- **Anthropic hits Nasdaq exchanges at $111, 33% above IPO price**（TechCrunch AI）
+- **At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development**（TechCrunch AI）
+- **SpaceX's Starshield troubles in Ukraine could threaten its broader military business**（Ars Technica）
+- **Google rolls out new search homepage with AI chat history and no search button**（Ars Technica）
+- **Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers**（Ars Technica）
+- **Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.**（Ars Technica）
+- **NASA’s new Moon plan is taking shape, but some big questions remain**（Ars Technica）
+- **Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.**（Ars Technica）
+- **Valve says it might have to raise the price of supply-limited Steam Machines**（Ars Technica）
+- **Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone**（Ars Technica）
+- **Traumatized teens sue school, cops after Doritos bag triggers AI gun alert**（Ars Technica）
 - **派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等**（少数派）
 - **给 Apple 的 2026 年打分，请你一起参与**（少数派）
-- **App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑**（少数派）
-- **What Shaped Anthropic CEO Dario Amodei's Thinking on AI**（Hacker News）
-- **Austria launches public consultation for its national AI agenda**（Hacker News）
-- **Who are Anthropic's seven co-founders, now worth $180B?**（Hacker News）
-- **Hostile Inference: Exploiting Docker Model Runner for Container Escapes**（Hacker News）
+- **New investors buy Anthropic shares for love of Claude**（Hacker News）
+- **Show HN: Pantry an open source scanner that checks what your coding agents run**（Hacker News）
 
 ---
 *生成：GitHub Actions + 免费模型 degraded · 条目数 45 · 零积分*
