@@ -1,0 +1,276 @@
+{
+ "generated_at": "2026-11-22T15:49:23.724830+08:00",
+ "window": [
+  "2026-11-21T00:00:00+08:00",
+  "2026-11-22T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+   "link": "https://www.qbitai.com/2026/11/511779.html",
+   "summary": "还实现可变形物体操控全球首通",
+   "published": "2026-11-21T14:35:59+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+   "link": "https://www.qbitai.com/2026/11/511570.html",
+   "summary": "专为本地部署而生",
+   "published": "2026-11-21T14:32:31+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+   "link": "https://www.qbitai.com/2026/11/511757.html",
+   "summary": "还透露了不少训练背后的秘诀",
+   "published": "2026-11-21T14:30:55+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "米哈游发了个VLA论文",
+   "link": "https://www.qbitai.com/2026/11/511740.html",
+   "summary": "8B参数，50小时自主运行",
+   "published": "2026-11-21T00:25:26+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+   "link": "https://www.qbitai.com/2026/11/511727.html",
+   "summary": "",
+   "published": "2026-11-21T00:07:39+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+   "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+   "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+   "published": "2026-11-21T03:53:41+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+   "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+   "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+   "published": "2026-11-21T03:32:08+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Chips can survive the space environment — can their financing?",
+   "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+   "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+   "published": "2026-11-21T01:40:01+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "“Race realism” isn’t realistic—and it isn’t good science",
+   "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+   "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
+   "published": "2026-11-21T20:01:13+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+   "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+   "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+   "published": "2026-11-21T06:16:51+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Google rolls out new search homepage with AI chat history and no search button",
+   "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+   "summary": "Google search is making it even easier to access AI tools on the search page.",
+   "published": "2026-11-21T05:58:29+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+   "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+   "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+   "published": "2026-11-21T05:47:10+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+   "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+   "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+   "published": "2026-11-21T04:59:08+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+   "link": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+   "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
+   "published": "2026-11-21T04:26:33+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+   "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+   "summary": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
+   "published": "2026-11-21T03:52:59+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
+   "link": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
+   "summary": "\"We don't yet know the number we are able to make, and at what price...\"",
+   "published": "2026-11-21T00:11:21+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
+   "link": "https://sspai.com/post/119311",
+   "summary": "Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等。 查看全文",
+   "published": "2026-11-20T08:34:31+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "给 Apple 的 2026 年打分，请你一起参与",
+   "link": "https://sspai.com/post/119191",
+   "summary": "2026年以来，Apple在硬件领域明显加快了产品线的拓展。定价亲民、采用A系列芯片的MacBookNeo让Mac触及更广泛的消费群体，也引发了对性能妥协与长期使用价值的讨论。M6芯片继续推进Appl ... 查看全文",
+   "published": "2026-11-19T18:25:05+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: BrudOS – Open-source zero-trust WASM runtime for AI agents",
+   "link": "https://github.com/rahatarch/brud",
+   "summary": "",
+   "published": "2026-11-22T07:44:37Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Inkling 2 Small on Nvidia B300: 5.1x to 7.5x faster expert GEMMs, same bits",
+   "link": "https://www.rightnowai.co/blog/bit-identical-fp4-moe-kernels-on-blackwell",
+   "summary": "",
+   "published": "2026-11-22T07:33:31Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Three-way translation merge: keeping translated pages in sync with an LLM",
+   "link": "https://maxmart.github.io/posts/three-way-translation-merge/",
+   "summary": "",
+   "published": "2026-11-22T07:32:56Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "A Slinky on an Escalator Is a Weirdly Good Test of LLM Intelligence",
+   "link": "https://morethanamachine.com/posts/slinky-escalator-benchmark/",
+   "summary": "",
+   "published": "2026-11-22T07:31:41Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Gemini: Can't prevent training or review even with no history retained",
+   "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/#:~:text=Google%20to%20keep%20Gemini%20chats%20for%202,security%20as%20AI%20systems%20become%20more%20capable.",
+   "summary": "",
+   "published": "2026-11-22T07:31:40Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Qlaude – Claude Code against your own model server",
+   "link": "https://github.com/trail-openers/qlaude",
+   "summary": "",
+   "published": "2026-11-22T07:20:04Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "California train burglars carefully executed heists for 'staggering' $22M haul",
+   "link": "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists",
+   "summary": "",
+   "published": "2026-11-22T07:14:16Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "The Engineering Manager's role is under attack (again)",
+   "link": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
+   "summary": "",
+   "published": "2026-11-22T07:01:00Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Ask HN: Is Anthropic being public better or worse for your org?",
+   "link": "https://news.ycombinator.com/item?id=50597005",
+   "summary": "",
+   "published": "2026-11-22T06:59:40Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Amazon is complaining about NYC Council on shipping labels, too",
+   "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+   "summary": "",
+   "published": "2026-11-22T06:46:30Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Prompt Upgrader – a no-signup tool that scores and rewrites AI prompts",
+   "link": "https://madgpt1.github.io/prompt-upgrader/",
+   "summary": "",
+   "published": "2026-11-22T06:41:12Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI resolved all null pointer dereferences in C",
+   "link": "https://kapteko.com/ai-resolved-all-null-pointer-dereferences/",
+   "summary": "",
+   "published": "2026-11-22T06:36:36Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Why agent swarms get better at optimizing code as they grow",
+   "link": "https://frontier.replit.com/throwing-headcount-at-the-problem/",
+   "summary": "",
+   "published": "2026-11-22T06:19:54Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AWS local emulator created by AI agents",
+   "link": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
+   "summary": "",
+   "published": "2026-11-22T05:57:03Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "WikiLLM: Browse language model weights like an encyclopedia",
+   "link": "https://github.com/eagleclaw0075/wikillm/",
+   "summary": "",
+   "published": "2026-11-22T05:44:13Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI as a Lifestyle Choice",
+   "link": "https://grahamdumpleton.me/posts/2026/11/ai-as-a-lifestyle-choice/",
+   "summary": "",
+   "published": "2026-11-22T05:28:59Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "California Nvidia Probe Covers Potential Criminal Law Violations",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations",
+   "summary": "",
+   "published": "2026-11-22T05:26:17Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Ask HN: What made you pivot your interest to the field of AI?",
+   "link": "https://news.ycombinator.com/item?id=50596564",
+   "summary": "",
+   "published": "2026-11-22T05:20:06Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Back Pain (2021)",
+   "link": "https://www.thomas-huehn.com/back-pain/",
+   "summary": "",
+   "published": "2026-11-22T05:17:37Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI Supply Chain Security: What Canary Tokens Found",
+   "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+   "summary": "",
+   "published": "2026-11-22T05:11:43Z"
+  }
+ ],
+ "total": 38
+}
