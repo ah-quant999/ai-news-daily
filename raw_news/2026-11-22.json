@@ -1,0 +1,339 @@
+{
+ "generated_at": "2026-11-23T16:38:44.873608+08:00",
+ "window": [
+  "2026-11-22T00:00:00+08:00",
+  "2026-11-23T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
+   "link": "https://www.qbitai.com/2026/11/512004.html",
+   "summary": "一个完全由AI组成的科学家社会，是什么样？",
+   "published": "2026-11-23T14:59:38+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
+   "link": "https://www.qbitai.com/2026/11/511998.html",
+   "summary": "阿福App宣布新一轮升级，解锁越来越多健康服务新本领",
+   "published": "2026-11-23T11:56:34+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要",
+   "link": "https://www.qbitai.com/2026/11/511989.html",
+   "summary": "AI 的未来将依赖能够在数据全生命周期中平衡性能、可靠性与经济性的存储架构。",
+   "published": "2026-11-23T11:47:46+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布",
+   "link": "https://www.qbitai.com/2026/11/511978.html",
+   "summary": "RoboChallenge正式发布全新评测基准RoboChallenge Zero",
+   "published": "2026-11-23T11:13:06+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班",
+   "link": "https://www.qbitai.com/2026/11/511933.html",
+   "summary": "豆包工作是目前字节优先级最高的产品",
+   "published": "2026-11-23T10:29:24+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+   "link": "https://www.qbitai.com/2026/11/511921.html",
+   "summary": "还透露了不少训练背后的秘诀",
+   "published": "2026-11-23T10:09:59+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+   "link": "https://www.qbitai.com/2026/11/511904.html",
+   "summary": "用葡萄糖发电控制血糖。",
+   "published": "2026-11-22T14:21:47+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+   "link": "https://www.qbitai.com/2026/11/511870.html",
+   "summary": "",
+   "published": "2026-11-22T14:03:54+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+   "link": "https://www.qbitai.com/2026/11/511855.html",
+   "summary": "",
+   "published": "2026-11-21T22:14:09+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "中国计算，走出新的登峰之路",
+   "link": "https://www.qbitai.com/2026/11/511849.html",
+   "summary": "",
+   "published": "2026-11-21T22:09:59+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+   "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+   "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+   "published": "2026-11-22T05:37:10+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "A tale of two Nvidias",
+   "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+   "published": "2026-11-22T05:07:42+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Here are the top AI agents that can live in your text messages",
+   "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "published": "2026-11-22T01:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+   "published": "2026-11-22T00:00:00+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+   "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+   "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+   "published": "2026-11-22T06:12:41+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "“Race realism” isn’t realistic—and it isn’t good science",
+   "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+   "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
+   "published": "2026-11-21T20:01:13+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+   "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+   "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+   "published": "2026-11-21T06:16:51+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Google rolls out new search homepage with AI chat history and no search button",
+   "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+   "summary": "Google search is making it even easier to access AI tools on the search page.",
+   "published": "2026-11-21T05:58:29+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+   "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+   "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+   "published": "2026-11-21T05:47:10+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+   "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+   "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+   "published": "2026-11-21T04:59:08+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+   "link": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+   "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
+   "published": "2026-11-21T04:26:33+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+   "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+   "summary": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
+   "published": "2026-11-21T03:52:59+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
+   "link": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
+   "summary": "\"We don't yet know the number we are able to make, and at what price...\"",
+   "published": "2026-11-21T00:11:21+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
+   "link": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
+   "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
+   "published": "2026-11-20T21:35:45+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+   "link": "https://sspai.com/post/119418",
+   "summary": "Anthropic 研究员宣称用 Claude 证明黎曼猜想 OpenAI 公布反蒸馏举措 黄仁勋据称将攻击下属作为管理方式 GTA 6 首日销售额近 40 亿美元 特斯拉升级 FSD，推出实景渲染功能 AMD 股票被做空 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+   "published": "2026-11-23T07:34:27+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
+   "link": "https://sspai.com/post/119311",
+   "summary": "Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等。 查看全文",
+   "published": "2026-11-20T08:34:31+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "给 Apple 的 2026 年打分，请你一起参与",
+   "link": "https://sspai.com/post/119191",
+   "summary": "2026年以来，Apple在硬件领域明显加快了产品线的拓展。定价亲民、采用A系列芯片的MacBookNeo让Mac触及更广泛的消费群体，也引发了对性能妥协与长期使用价值的讨论。M6芯片继续推进Appl ... 查看全文",
+   "published": "2026-11-19T18:25:05+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "$1 of GPT-5.1 tokens finds new ways around China's Great Firewall",
+   "link": "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532",
+   "summary": "",
+   "published": "2026-11-23T08:36:00Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Why Airlines Accept A321XLR's Heavier Takeoff Weight on Flights Shorter < 1 Hour",
+   "link": "https://simpleflying.com/airlines-accept-airbus-a321xlr-heavier-101-tonne-maximum-takeoff-weight-flights-shorter-hour/",
+   "summary": "",
+   "published": "2026-11-23T08:33:23Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Show-context, see what Claude Code read in a session",
+   "link": "https://github.com/bernatsampera/show-context",
+   "summary": "",
+   "published": "2026-11-23T08:27:35Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "How do you test whether retrieved memory helps a coding agent?",
+   "link": "https://x.com/AgentMemoryL",
+   "summary": "",
+   "published": "2026-11-23T08:26:31Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Frontier models need only one text to unmask its human or AI author",
+   "link": "https://arxiv.org/abs/2611.26216",
+   "summary": "",
+   "published": "2026-11-23T08:25:12Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: PromptShield – Local reversible secret/PII redactor for LLM prompts",
+   "link": "https://hxu129.github.io/scholarcraft-tools/promptshield/index.html",
+   "summary": "",
+   "published": "2026-11-23T08:23:27Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Major trial to examine if AI can help detect breast cancer earlier",
+   "link": "https://news.sky.com/story/major-trial-to-examine-if-ai-can-help-detect-breast-cancer-earlier-13615166",
+   "summary": "",
+   "published": "2026-11-23T08:22:16Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "How to get better at painting without painting anything (2015)",
+   "link": "https://www.learning-to-see.co.uk/how-to-get-better-at-painting-without-painting-anything",
+   "summary": "",
+   "published": "2026-11-23T08:16:43Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Gartner: 40% of agentic AI projects will be canceled by the end of 2027",
+   "link": "https://www.gartner.com/en/articles/ai-agent-reality-check",
+   "summary": "",
+   "published": "2026-11-23T08:14:38Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Viberglass – a self-hosted internal tool builder run by coding agents",
+   "link": "https://github.com/Ilities/viberglass",
+   "summary": "",
+   "published": "2026-11-23T08:14:34Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Project Tapestry – consortium frontier foundation model training and sovereignty",
+   "link": "https://thealliance.ai/projects/tapestry",
+   "summary": "",
+   "published": "2026-11-23T08:02:49Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Why I think using AI to prove the Riemann Hypothesis is important",
+   "link": "https://news.ycombinator.com/item?id=50608700",
+   "summary": "",
+   "published": "2026-11-23T07:52:56Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Modelflare – One OpenAI-compatible API key for many LLMs",
+   "link": "https://modelflare.dev/",
+   "summary": "",
+   "published": "2026-11-23T07:49:10Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
+   "link": "https://www.kradle.ai?1",
+   "summary": "",
+   "published": "2026-11-23T07:39:04Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Sigvard: A walkthrough of fine-tuning an open LLM",
+   "link": "https://tour.sigvard.ai/",
+   "summary": "",
+   "published": "2026-11-23T07:37:03Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Building Data Products with AI",
+   "link": "https://www.dataproduct.com/",
+   "summary": "",
+   "published": "2026-11-23T07:35:16Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Surviving the AI Squeeze",
+   "link": "https://justin.searls.co/links/2026-11-20-surviving-the-ai-squeeze/",
+   "summary": "",
+   "published": "2026-11-23T07:11:48Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "HAproxy lead: On the use of AI-based tools to find bugs in open source software",
+   "link": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
+   "summary": "",
+   "published": "2026-11-23T07:10:09Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "19-Passenger Electric Aircraft Flies, Capable of 400 Km Range",
+   "link": "https://aktualita.co/en/international/china-electric-aircraft-breakthrough",
+   "summary": "",
+   "published": "2026-11-23T07:07:37Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Novartis rejects AI industry hopes to cure cancer in five to 10 years",
+   "link": "https://www.ft.com/content/1e5a9d70-221d-461d-ae03-dc235b1db340",
+   "summary": "",
+   "published": "2026-11-23T07:06:30Z"
+  }
+ ],
+ "total": 47
+}
