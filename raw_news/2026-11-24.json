@@ -1,0 +1,290 @@
+{
+ "generated_at": "2026-11-25T17:37:23.428644+08:00",
+ "window": [
+  "2026-11-24T00:00:00+08:00",
+  "2026-11-25T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "高德发布世界模型ABot-World 0.5，支持构建音画同步、可实时重塑的AI物理世界",
+   "link": "https://www.qbitai.com/2026/11/512454.html",
+   "summary": "近日，阿里巴巴集团旗下高德正式发布新一代通用交互式世界模型 ABot-World 0.5。",
+   "published": "2026-11-24T18:30:42+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险",
+   "link": "https://www.qbitai.com/2026/11/512451.html",
+   "summary": "蚂蚁刚刚发布医疗健康模型全家桶",
+   "published": "2026-11-24T18:15:57+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "智谱刚刚发了GLM-5.4，全新架构的那种！网友直呼：超过预期",
+   "link": "https://www.qbitai.com/2026/11/512423.html",
+   "summary": "纯代码手搓了一个MV！",
+   "published": "2026-11-24T17:21:55+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "最新议程与嘉宾阵容公布！2027中国AIoT产业年会，11月27日深圳见",
+   "link": "https://www.qbitai.com/2026/11/512411.html",
+   "summary": "2026年11月27日，2027中国AIoT产业年会暨创新私董会将在深圳柏悦酒店举行",
+   "published": "2026-11-24T16:44:32+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "叙事时代丨第20届中国投资年会·有限合伙人峰会在沪成功举办",
+   "link": "https://www.qbitai.com/2026/11/512387.html",
+   "summary": "探讨未来产业布局与结构性新周期下的资产配置机遇。",
+   "published": "2026-11-24T16:34:03+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+   "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+   "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+   "published": "2026-11-24T23:51:07+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+   "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+   "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+   "published": "2026-11-24T06:05:50+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+   "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+   "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+   "published": "2026-11-24T06:02:05+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+   "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+   "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+   "published": "2026-11-24T05:47:41+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+   "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+   "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+   "published": "2026-11-24T05:25:42+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+   "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+   "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+   "published": "2026-11-24T04:38:53+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+   "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+   "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+   "published": "2026-11-24T03:14:46+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+   "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+   "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+   "published": "2026-11-24T02:12:22+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+   "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+   "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
+   "published": "2026-11-24T22:56:50+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+   "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+   "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+   "published": "2026-11-24T20:30:05+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
+   "link": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/",
+   "summary": "Russian missile corvette latest casualty as Ukraine strikes back in war at sea.",
+   "published": "2026-11-24T20:00:57+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+   "link": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+   "summary": "The Army said on Sunday that it would carry out the detonation on Wednesday.",
+   "published": "2026-11-24T05:58:34+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
+   "link": "https://sspai.com/post/119310",
+   "summary": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。 查看全文",
+   "published": "2026-11-25T14:59:16+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等",
+   "link": "https://sspai.com/post/119527",
+   "summary": "豆包 AI 个人助理「小豆」开启公测，Teenage Engineering 推出复古 CD 播放器 EP / BC-1 等。 查看全文",
+   "published": "2026-11-25T08:22:35+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等",
+   "link": "https://sspai.com/post/119460",
+   "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ... 查看全文",
+   "published": "2026-11-24T08:37:31+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "My coding agent kept saying \"done\" on images it never looked at",
+   "link": "https://github.com/abdiraimov-otabek/claude-code-og-image-skill",
+   "summary": "",
+   "published": "2026-11-25T09:35:40Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "You can now install Claude artifacts as desktop apps",
+   "link": "https://claude.com/resources/articles/install-as-app",
+   "summary": "",
+   "published": "2026-11-25T09:34:14Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "PicPose: AI Photo Prompts",
+   "link": "https://play.google.com/store/apps/details?id=com.picpose.bestphotographyapp&hl=en_US",
+   "summary": "",
+   "published": "2026-11-25T09:32:30Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Three LLM inflection points in twelve months",
+   "link": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+   "summary": "",
+   "published": "2026-11-25T09:31:37Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "SoftBank market value halves from peak as AI fears grow",
+   "link": "https://www.japantimes.co.jp/business/2026/10/22/companies/softbank-market-value-halves/",
+   "summary": "",
+   "published": "2026-11-25T09:29:29Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Oops I Parsed It Again: Tool-Call Smuggling Against LLM Agents",
+   "link": "https://arxiv.org/abs/2611.30624",
+   "summary": "",
+   "published": "2026-11-25T09:21:51Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Ship Your Interpreters: Validating LLM-Written Semantics Against the Binary [video]",
+   "link": "https://www.youtube.com/watch?v=f0lPx4pln4c",
+   "summary": "",
+   "published": "2026-11-25T09:11:54Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Interpreting a recent acceleration in pretraining loss",
+   "link": "https://metr.org/blog/2026-11-24-interpreting-a-recent-acceleration-in-pretraining-loss/",
+   "summary": "",
+   "published": "2026-11-25T09:11:11Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Using Agentic AI to create the next generation of non-Java Kafka clients",
+   "link": "https://developer.confluent.io/blog/using-agentic-ai-to-create-non-java-clients/",
+   "summary": "",
+   "published": "2026-11-25T09:09:31Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Linus Torvalds: \"Tell Your AI Companion to Get Its Act Together\"",
+   "link": "https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big",
+   "summary": "",
+   "published": "2026-11-25T09:07:21Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington",
+   "link": "https://www.reuters.com/world/china/huangs-return-nvidia-brings-open-weight-ai-debate-forefront-washington-2026-11-24/",
+   "summary": "",
+   "published": "2026-11-25T09:07:00Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI Computing Infrastructure·Technical Explainer – H200 NDR 400G / B300 XDR 800G",
+   "link": "https://www.quora.com/profile/Lanra-1/How-should-I-choose-fiber-cabling-for-400G-and-800G-InfiniBand-GPU-clusters",
+   "summary": "",
+   "published": "2026-11-25T08:57:53Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "MailsDaddy PST to Office 365 Migration",
+   "link": "https://www.mailsdaddy.com/pst-to-office-365-migration-tool/",
+   "summary": "",
+   "published": "2026-11-25T08:55:35Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Far can you travel across Great Britain in 24 hours using only local buses",
+   "link": "https://edjefferson.com/dingding/",
+   "summary": "",
+   "published": "2026-11-25T08:44:18Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "The rise of AI in mathematics – and science [pdf]",
+   "link": "https://www.nature.com/articles/s43588-026-01112-8.pdf",
+   "summary": "",
+   "published": "2026-11-25T08:25:24Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Tidal Bans AI-Generated Music",
+   "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-tracks-1236956924/",
+   "summary": "",
+   "published": "2026-11-25T08:23:07Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Production Grammar-Guided Decoding in vLLM with Xgrammar Benchmarks",
+   "link": "https://github.com/grfdsasdvef/vllm-constrained-decoding-cookbook",
+   "summary": "",
+   "published": "2026-11-25T08:16:39Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Ghost strikes: the new drone superpowers raining death from above",
+   "link": "https://www.theguardian.com/global-development/ng-interactive/2026/nov/25/ghost-strikes-the-rise-of-drone-superpowers-fuelling-remote-killing-of-thousands-of-civilians-with-impunity",
+   "summary": "",
+   "published": "2026-11-25T08:00:07Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Lightscale AI – A language for LLMs to write business software",
+   "link": "https://lightscale.ai/",
+   "summary": "",
+   "published": "2026-11-25T07:36:21Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "The Confessions of an AI Fraud Kingpin",
+   "link": "https://www.404media.co/the-confessions-of-an-ai-fraud-kingpin-onlyfake-owner-nazarenko/",
+   "summary": "",
+   "published": "2026-11-25T07:32:01Z"
+  }
+ ],
+ "total": 40
+}
