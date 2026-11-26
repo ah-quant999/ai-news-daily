@@ -1,37 +1,37 @@
-# 2026-11-24 AI 资讯日报（降级·标题清单版）
+# 2026-11-25 AI 资讯日报（降级·标题清单版）
 
 > 模型总结不可用：未配置 OPENROUTER_API_KEY。以下为原始条目，仅供参考。
 
-- **高德发布世界模型ABot-World 0.5，支持构建音画同步、可实时重塑的AI物理世界**（量子位）
-- **蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险**（量子位）
-- **智谱刚刚发了GLM-5.4，全新架构的那种！网友直呼：超过预期**（量子位）
-- **最新议程与嘉宾阵容公布！2027中国AIoT产业年会，11月27日深圳见**（量子位）
-- **叙事时代丨第20届中国投资年会·有限合伙人峰会在沪成功举办**（量子位）
-- **Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia**（TechCrunch AI）
-- **Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes**（TechCrunch AI）
-- **Supertake raises $20M to let AI agents turn your market predictions into stock portfolios**（TechCrunch AI）
-- **Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal**（TechCrunch AI）
-- **Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist**（TechCrunch AI）
-- **Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ**（TechCrunch AI）
-- **Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses**（TechCrunch AI）
-- **Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO**（TechCrunch AI）
-- **How Trump and Silicon Valley forced Nvidia to take Jensen Huang back**（Ars Technica）
-- **Amazon says hackers' AI agents found and exploited 0-day with little human input**（Ars Technica）
-- **Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic**（Ars Technica）
-- **Trump halts Iowa detonation, says new governor to blame if it blows accidentally**（Ars Technica）
-- **App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你**（少数派）
-- **派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等**（少数派）
-- **派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等**（少数派）
-- **My coding agent kept saying "done" on images it never looked at**（Hacker News）
-- **You can now install Claude artifacts as desktop apps**（Hacker News）
-- **PicPose: AI Photo Prompts**（Hacker News）
-- **Three LLM inflection points in twelve months**（Hacker News）
-- **SoftBank market value halves from peak as AI fears grow**（Hacker News）
-- **Oops I Parsed It Again: Tool-Call Smuggling Against LLM Agents**（Hacker News）
-- **Ship Your Interpreters: Validating LLM-Written Semantics Against the Binary [video]**（Hacker News）
-- **Interpreting a recent acceleration in pretraining loss**（Hacker News）
-- **Using Agentic AI to create the next generation of non-Java Kafka clients**（Hacker News）
-- **Linus Torvalds: "Tell Your AI Companion to Get Its Act Together"**（Hacker News）
+- **极客公园创新大会 2027 全议程公布！**（量子位）
+- **报名最后2天｜AI浪潮之中，来认识创造未来的人**（量子位）
+- **顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一**（量子位）
+- **任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习**（量子位）
+- **沈向洋刚讲了好多AI非共识啊**（量子位）
+- **AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了**（量子位）
+- **刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行**（量子位）
+- **我以为这是摄影作品，你告诉我这是最新的国产AI？！**（量子位）
+- **丢个故事就行！直出15分钟AI短片，家里二舅也能上手**（量子位）
+- **零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体**（量子位）
+- **AI data centers are becoming harder to build, and neoclouds are feeling it**（TechCrunch AI）
+- **Amazon and Meta reportedly in talks to lift blockade on AI agent Muse**（TechCrunch AI）
+- **The questions Jensen Huang and Nvidia will still have to answer about Megaspeed**（TechCrunch AI）
+- **Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion**（TechCrunch AI）
+- **Jensen Huang still thinks a succession plan creates unnecessary hierarchy**（TechCrunch AI）
+- **In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy**（TechCrunch AI）
+- **Even the best AI agents struggle with everyday life**（TechCrunch AI）
+- **Walmart teams up with Meta to bring Black Friday deals to AI agent Muse**（TechCrunch AI）
+- **Maple raises $5.3M to build AI products that protect your data, even from itself**（TechCrunch AI）
+- **Anthropic shares fall below IPO price, a worrying sign for AI startups**（TechCrunch AI）
+- **UK warns AI-driven cyberattacks are exposing years of weak security**（TechCrunch AI）
+- **Meta brings its Muse AI assistant directly into Instagram DMs**（TechCrunch AI）
+- **Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming**（TechCrunch AI）
+- **Why a Crusoe investor is betting on solar and batteries to power future AI data centers**（TechCrunch AI）
+- **AI may soon change what it means to be a theoretical physicist**（Ars Technica）
+- **What's going on with the Riemann hypothesis?**（Ars Technica）
+- **Amazon drone crashes on garage after delivering shampoo, draws FAA probe**（Ars Technica）
+- **Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can**（Ars Technica）
+- **How brewers can protect beers from smoke-tainted hops**（Ars Technica）
+- **Tidal announces ban on AI-generated music; 27 million tracks will be deleted**（Ars Technica）
 
 ---
-*生成：GitHub Actions + 免费模型 degraded · 条目数 40 · 零积分*
+*生成：GitHub Actions + 免费模型 degraded · 条目数 45 · 零积分*
