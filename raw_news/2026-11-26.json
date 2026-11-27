@@ -1,0 +1,325 @@
+{
+ "generated_at": "2026-11-27T17:28:58.960437+08:00",
+ "window": [
+  "2026-11-26T00:00:00+08:00",
+  "2026-11-27T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
+   "link": "https://www.qbitai.com/2026/11/513320.html",
+   "summary": "淡泊名利，实至名归🎉",
+   "published": "2026-11-27T15:39:18+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "DeepSeek APP突然更新账单，网友：要收费了？",
+   "link": "https://www.qbitai.com/2026/11/513305.html",
+   "summary": "网页App双端亮出聊天账单",
+   "published": "2026-11-27T15:29:10+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+   "link": "https://www.qbitai.com/2026/11/513227.html",
+   "summary": "地图能随时修，记忆能跨任务用",
+   "published": "2026-11-27T15:01:20+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+   "link": "https://www.qbitai.com/2026/11/513194.html",
+   "summary": "企业需要有用的 AI",
+   "published": "2026-11-27T12:05:56+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+   "link": "https://www.qbitai.com/2026/11/513211.html",
+   "summary": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
+   "published": "2026-11-27T12:05:18+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+   "link": "https://www.qbitai.com/2026/11/513163.html",
+   "summary": "Quickwit查询总耗时降31%，最高降87%",
+   "published": "2026-11-27T11:53:49+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
+   "link": "https://www.qbitai.com/2026/11/513155.html",
+   "summary": "3D生成的竞争重点正在从“能看”转向“能用”",
+   "published": "2026-11-27T11:45:19+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+   "link": "https://www.qbitai.com/2026/11/513125.html",
+   "summary": "",
+   "published": "2026-11-27T11:33:11+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "百亿具身独角兽破壁，玩家集体涌向它的牌桌",
+   "link": "https://www.qbitai.com/2026/11/513101.html",
+   "summary": "",
+   "published": "2026-11-27T11:23:25+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
+   "link": "https://www.qbitai.com/2026/11/513091.html",
+   "summary": "倒计时两周，报名从速！",
+   "published": "2026-11-27T10:56:03+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+   "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+   "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+   "published": "2026-11-26T06:44:32+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+   "published": "2026-11-26T04:03:27+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+   "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+   "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+   "published": "2026-11-26T03:54:57+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+   "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+   "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+   "published": "2026-11-26T03:44:24+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+   "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+   "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+   "published": "2026-11-26T02:11:46+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+   "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+   "published": "2026-11-26T01:35:58+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Draining peatlands is responsible for a few percent of our global warming",
+   "link": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+   "summary": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
+   "published": "2026-11-26T20:15:42+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "From minimalist to maximalist: Ars staffers show off their home offices",
+   "link": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+   "summary": "Our home offices range from tasteful to \"please explain yourself.\"",
+   "published": "2026-11-26T20:00:14+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Google search alternative Kagi launches Gmail rival",
+   "link": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+   "summary": "The pitch is an unusual combination of privacy promises and AI features.",
+   "published": "2026-11-26T04:57:09+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Backblaze explains why it's sharing customer information with advertisers",
+   "link": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+   "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+   "published": "2026-11-26T02:38:29+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Etsy clarifies AI terms after seller backlash",
+   "link": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+   "summary": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
+   "published": "2026-11-26T01:12:57+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+   "link": "https://sspai.com/post/116773",
+   "summary": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。 查看全文",
+   "published": "2026-11-26T17:30:00+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+   "link": "https://sspai.com/post/119563",
+   "summary": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。 查看全文",
+   "published": "2026-11-26T15:00:00+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "我用AI做了一张两千年的中国历史地图",
+   "link": "https://sspai.com/post/117510",
+   "summary": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。 查看全文",
+   "published": "2026-11-26T11:13:53+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
+   "link": "https://sspai.com/post/119560",
+   "summary": "阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。 查看全文",
+   "published": "2026-11-26T08:08:07+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Feels like AI model dumbed down purposefully",
+   "link": "https://news.ycombinator.com/item?id=50664618",
+   "summary": "",
+   "published": "2026-11-27T09:08:23Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI Watchdogs India: A Coordinated AI Agent Swarm Auditing the Government",
+   "link": "https://aiwatchdogs.in/",
+   "summary": "",
+   "published": "2026-11-27T09:06:51Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Critical Line – Levent Alpöge, Riemann, Claude – A Claudia Song [video]",
+   "link": "https://www.youtube.com/watch?v=NprdjBAITFI",
+   "summary": "",
+   "published": "2026-11-27T09:01:26Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Software Factories: Escape from Trash Mountain, Gas Town [video]",
+   "link": "https://www.youtube.com/watch?v=SRhXgeNluIk",
+   "summary": "",
+   "published": "2026-11-27T09:01:13Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Noninvasive decoding of typed sentences from human brain activity",
+   "link": "https://www.nature.com/articles/s41593-026-02303-2",
+   "summary": "",
+   "published": "2026-11-27T08:43:18Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Piton Lockfile and static supply-chain scanner for MCP/coding agent",
+   "link": "https://github.com/tony-stark2025/piton",
+   "summary": "",
+   "published": "2026-11-27T08:37:25Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Layby: Where should an idle session's KV cache wait?",
+   "link": "https://huggingface.co/Avifenesh/layby-dwell",
+   "summary": "",
+   "published": "2026-11-27T08:36:22Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Claude sabotaging SOTA ML research tasks",
+   "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+   "summary": "",
+   "published": "2026-11-27T08:28:08Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Use.GPU",
+   "link": "https://usegpu.live",
+   "summary": "",
+   "published": "2026-11-27T08:20:33Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Why Stripe is not what you need to charge for your AI product (kind of)",
+   "link": "https://news.ycombinator.com/item?id=50664246",
+   "summary": "",
+   "published": "2026-11-27T08:18:39Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Tierview – Claude code review that routes each hunk to a cheaper model",
+   "link": "https://github.com/moelsaka01/tierview",
+   "summary": "",
+   "published": "2026-11-27T08:07:30Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "A Shape Display Powered by Air: 3D Printed Fluidics [video]",
+   "link": "https://www.youtube.com/watch?v=F4ocuyiWmpM",
+   "summary": "",
+   "published": "2026-11-27T08:01:23Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Laser Shoots Down Russian Drone in World First, Says Ukraine",
+   "link": "https://www.newsweek.com/laser-shoots-down-russian-drone-in-world-first-says-ukraine-12769954",
+   "summary": "",
+   "published": "2026-11-27T07:58:56Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "GM to lift factory automation 20% by 2028, but nobody has said 20% of what",
+   "link": "https://bryancharles.org/2026/11/24/gm-factory-automation-20-percent-2028/",
+   "summary": "",
+   "published": "2026-11-27T07:53:52Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Benchmark of AI decision models on systematic-review screening",
+   "link": "https://github.com/SmartMobileHouse/clinical-trial-decision-lab",
+   "summary": "",
+   "published": "2026-11-27T07:51:35Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI's New Memory – Beyond HBM and SRAM, Without EUV",
+   "link": "https://keplercompute.com/act-one",
+   "summary": "",
+   "published": "2026-11-27T07:51:03Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "South Africa Launches $5.9M AI Startup Fund",
+   "link": "https://www.forbesafrica.com/current-affairs/2026/11/25/south-africa-launches-5-9-million-ai-start-up-initiative-professor-underlines-requirements",
+   "summary": "",
+   "published": "2026-11-27T07:46:45Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Disconnected and paid twice: Europe's costly fragmentation in space",
+   "link": "https://www.kielinstitut.de/media/news/disconnected-and-paid-twice-europes-costly-fragmentation-in-space/",
+   "summary": "",
+   "published": "2026-11-27T07:46:37Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI Coding Agents Shape Software Architecture",
+   "link": "https://arxiv.org/abs/2604.04990",
+   "summary": "",
+   "published": "2026-11-27T07:44:13Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI-Driven Terraform: Move Fast Without Losing Control",
+   "link": "https://newbmiao.github.io/what-matters-in-aiops.html",
+   "summary": "",
+   "published": "2026-11-27T07:39:13Z"
+  }
+ ],
+ "total": 45
+}

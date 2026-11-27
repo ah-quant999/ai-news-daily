@@ -1,37 +1,37 @@
-# 2026-11-25 AI 资讯日报（降级·标题清单版）
+# 2026-11-26 AI 资讯日报（降级·标题清单版）
 
 > 模型总结不可用：未配置 OPENROUTER_API_KEY。以下为原始条目，仅供参考。
 
-- **极客公园创新大会 2027 全议程公布！**（量子位）
-- **报名最后2天｜AI浪潮之中，来认识创造未来的人**（量子位）
-- **顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一**（量子位）
-- **任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习**（量子位）
-- **沈向洋刚讲了好多AI非共识啊**（量子位）
-- **AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了**（量子位）
-- **刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行**（量子位）
-- **我以为这是摄影作品，你告诉我这是最新的国产AI？！**（量子位）
-- **丢个故事就行！直出15分钟AI短片，家里二舅也能上手**（量子位）
-- **零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体**（量子位）
-- **AI data centers are becoming harder to build, and neoclouds are feeling it**（TechCrunch AI）
-- **Amazon and Meta reportedly in talks to lift blockade on AI agent Muse**（TechCrunch AI）
-- **The questions Jensen Huang and Nvidia will still have to answer about Megaspeed**（TechCrunch AI）
-- **Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion**（TechCrunch AI）
-- **Jensen Huang still thinks a succession plan creates unnecessary hierarchy**（TechCrunch AI）
-- **In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy**（TechCrunch AI）
-- **Even the best AI agents struggle with everyday life**（TechCrunch AI）
-- **Walmart teams up with Meta to bring Black Friday deals to AI agent Muse**（TechCrunch AI）
-- **Maple raises $5.3M to build AI products that protect your data, even from itself**（TechCrunch AI）
-- **Anthropic shares fall below IPO price, a worrying sign for AI startups**（TechCrunch AI）
-- **UK warns AI-driven cyberattacks are exposing years of weak security**（TechCrunch AI）
-- **Meta brings its Muse AI assistant directly into Instagram DMs**（TechCrunch AI）
-- **Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming**（TechCrunch AI）
-- **Why a Crusoe investor is betting on solar and batteries to power future AI data centers**（TechCrunch AI）
-- **AI may soon change what it means to be a theoretical physicist**（Ars Technica）
-- **What's going on with the Riemann hypothesis?**（Ars Technica）
-- **Amazon drone crashes on garage after delivering shampoo, draws FAA probe**（Ars Technica）
-- **Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can**（Ars Technica）
-- **How brewers can protect beers from smoke-tainted hops**（Ars Technica）
-- **Tidal announces ban on AI-generated music; 27 million tracks will be deleted**（Ars Technica）
+- **韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名**（量子位）
+- **DeepSeek APP突然更新账单，网友：要收费了？**（量子位）
+- **刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑**（量子位）
+- **钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间**（量子位）
+- **蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准**（量子位）
+- **20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩**（量子位）
+- **腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻**（量子位）
+- **具身公司抱团回应：通用大模型跨维打击？没那么简单**（量子位）
+- **百亿具身独角兽破壁，玩家集体涌向它的牌桌**（量子位）
+- **第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！**（量子位）
+- **S&P considers Nvidia credit downgrade over governance and ‘key man’ risks**（TechCrunch AI）
+- **OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work**（TechCrunch AI）
+- **Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it**（TechCrunch AI）
+- **Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’**（TechCrunch AI）
+- **Want to buy your kid an AI toy this Christmas? Not in New York**（TechCrunch AI）
+- **Character.AI’s plan to auction off users’ private chats challenged by state AGs**（TechCrunch AI）
+- **Draining peatlands is responsible for a few percent of our global warming**（Ars Technica）
+- **From minimalist to maximalist: Ars staffers show off their home offices**（Ars Technica）
+- **Google search alternative Kagi launches Gmail rival**（Ars Technica）
+- **Backblaze explains why it's sharing customer information with advertisers**（Ars Technica）
+- **Etsy clarifies AI terms after seller backlash**（Ars Technica）
+- **App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具**（少数派）
+- **论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图**（少数派）
+- **我用AI做了一张两千年的中国历史地图**（少数派）
+- **派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等**（少数派）
+- **Feels like AI model dumbed down purposefully**（Hacker News）
+- **AI Watchdogs India: A Coordinated AI Agent Swarm Auditing the Government**（Hacker News）
+- **Critical Line – Levent Alpöge, Riemann, Claude – A Claudia Song [video]**（Hacker News）
+- **Software Factories: Escape from Trash Mountain, Gas Town [video]**（Hacker News）
+- **Noninvasive decoding of typed sentences from human brain activity**（Hacker News）
 
 ---
 *生成：GitHub Actions + 免费模型 degraded · 条目数 45 · 零积分*
