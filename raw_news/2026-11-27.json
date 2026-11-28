@@ -1,0 +1,430 @@
+{
+ "generated_at": "2026-11-28T16:42:18.555529+08:00",
+ "window": [
+  "2026-11-27T00:00:00+08:00",
+  "2026-11-28T00:00:00+08:00"
+ ],
+ "items": [
+  {
+   "source": "量子位",
+   "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+   "link": "https://www.qbitai.com/2026/11/513352.html",
+   "summary": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
+   "published": "2026-11-27T22:07:33+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+   "link": "https://www.qbitai.com/2026/11/513346.html",
+   "summary": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
+   "published": "2026-11-27T19:18:24+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
+   "link": "https://www.qbitai.com/2026/11/513320.html",
+   "summary": "淡泊名利，实至名归🎉",
+   "published": "2026-11-27T15:39:18+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "DeepSeek APP突然更新账单，网友：要收费了？",
+   "link": "https://www.qbitai.com/2026/11/513305.html",
+   "summary": "网页App双端亮出聊天账单",
+   "published": "2026-11-27T15:29:10+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+   "link": "https://www.qbitai.com/2026/11/513227.html",
+   "summary": "地图能随时修，记忆能跨任务用",
+   "published": "2026-11-27T15:01:20+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+   "link": "https://www.qbitai.com/2026/11/513194.html",
+   "summary": "企业需要有用的 AI",
+   "published": "2026-11-27T12:05:56+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+   "link": "https://www.qbitai.com/2026/11/513211.html",
+   "summary": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
+   "published": "2026-11-27T12:05:18+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+   "link": "https://www.qbitai.com/2026/11/513163.html",
+   "summary": "Quickwit查询总耗时降31%，最高降87%",
+   "published": "2026-11-27T11:53:49+08:00"
+  },
+  {
+   "source": "量子位",
+   "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
+   "link": "https://www.qbitai.com/2026/11/513155.html",
+   "summary": "3D生成的竞争重点正在从“能看”转向“能用”",
+   "published": "2026-11-27T11:45:19+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+   "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+   "published": "2026-11-27T04:03:54+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+   "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+   "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+   "published": "2026-11-27T00:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+   "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+   "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+   "published": "2026-11-26T06:44:32+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+   "published": "2026-11-26T04:03:27+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+   "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+   "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+   "published": "2026-11-26T03:54:57+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+   "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+   "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+   "published": "2026-11-26T03:44:24+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+   "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+   "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+   "published": "2026-11-26T02:11:46+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+   "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+   "published": "2026-11-26T01:35:58+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+   "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+   "summary": "⁠Nvidia has made clear⁠ it won&#8217;t backstop an AI data center until it&#8217;s nearly ready to run, and that&#8217;s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck.",
+   "published": "2026-11-25T23:41:43+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+   "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+   "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+   "published": "2026-11-25T22:10:18+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+   "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+   "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
+   "published": "2026-11-25T21:00:00+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+   "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+   "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the",
+   "published": "2026-11-25T08:12:02+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+   "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+   "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+   "published": "2026-11-25T06:27:52+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+   "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+   "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+   "published": "2026-11-25T05:48:27+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Even the best AI agents struggle with everyday life",
+   "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+   "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+   "published": "2026-11-25T05:33:29+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+   "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+   "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+   "published": "2026-11-25T05:32:38+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+   "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+   "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+   "published": "2026-11-25T05:19:52+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+   "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+   "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+   "published": "2026-11-25T02:30:42+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+   "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+   "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+   "published": "2026-11-25T02:02:59+08:00"
+  },
+  {
+   "source": "TechCrunch AI",
+   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+   "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+   "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+   "published": "2026-11-25T01:00:00+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+   "link": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+   "summary": "Ford enters the World Endurance Championship in 2027 with the new prototype.",
+   "published": "2026-11-27T02:00:29+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Draining peatlands is responsible for a few percent of our global warming",
+   "link": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+   "summary": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
+   "published": "2026-11-26T20:15:42+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "From minimalist to maximalist: Ars staffers show off their home offices",
+   "link": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+   "summary": "Our home offices range from tasteful to \"please explain yourself.\"",
+   "published": "2026-11-26T20:00:14+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Google search alternative Kagi launches Gmail rival",
+   "link": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+   "summary": "The pitch is an unusual combination of privacy promises and AI features.",
+   "published": "2026-11-26T04:57:09+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Backblaze explains why it's sharing customer information with advertisers",
+   "link": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+   "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+   "published": "2026-11-26T02:38:29+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "Etsy clarifies AI terms after seller backlash",
+   "link": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+   "summary": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
+   "published": "2026-11-26T01:12:57+08:00"
+  },
+  {
+   "source": "Ars Technica",
+   "title": "AI may soon change what it means to be a theoretical physicist",
+   "link": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+   "summary": "Frontier AI is already solving problems that once took top physicists a full day.",
+   "published": "2026-11-25T20:00:28+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+   "link": "https://sspai.com/post/116773",
+   "summary": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。 查看全文",
+   "published": "2026-11-26T17:30:00+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+   "link": "https://sspai.com/post/119563",
+   "summary": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。 查看全文",
+   "published": "2026-11-26T15:00:00+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "我用AI做了一张两千年的中国历史地图",
+   "link": "https://sspai.com/post/117510",
+   "summary": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。 查看全文",
+   "published": "2026-11-26T11:13:53+08:00"
+  },
+  {
+   "source": "少数派",
+   "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
+   "link": "https://sspai.com/post/119560",
+   "summary": "阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。 查看全文",
+   "published": "2026-11-26T08:08:07+08:00"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+   "link": "https://fleetlayer.ai/",
+   "summary": "",
+   "published": "2026-11-28T08:37:09Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Stanford physicist proposes a quantum gravity theory built with GPT-6 Astra",
+   "link": "https://mlq.ai/news/stanford-physicist-proposes-a-quantum-gravity-theory-built-with-gpt-6-astra/",
+   "summary": "",
+   "published": "2026-11-28T08:29:50Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Is WPML Worth It? I Tested It Against an AI Plugin on a WooCommerce Shop [video]",
+   "link": "https://www.youtube.com/watch?v=mwNzLRrlWnw",
+   "summary": "",
+   "published": "2026-11-28T08:20:04Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Cowork – Self-hosted task queue and orchestration server for AI coding agents",
+   "link": "https://github.com/slashman413/cowork",
+   "summary": "",
+   "published": "2026-11-28T08:00:47Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Ask HN: Has AI started impacting hiring in your org?",
+   "link": "https://news.ycombinator.com/item?id=50675580",
+   "summary": "",
+   "published": "2026-11-28T07:40:34Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Gemini Subscription Lead deletes Black Friday deals announcement, locks replies",
+   "link": "https://twitter.com/vikaskansalHQ/status/2123833450297995624",
+   "summary": "",
+   "published": "2026-11-28T07:38:28Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Zero-egress ~0.04ms 6-layer deterministic firewall for AI agent payouts",
+   "link": "https://news.ycombinator.com/item?id=50675433",
+   "summary": "",
+   "published": "2026-11-28T07:08:42Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "To Think or Not to Think: AI tools and the loss of engineering fundamentals",
+   "link": "https://ristonthomas.com/essays/to_think_or_not_to_think/",
+   "summary": "",
+   "published": "2026-11-28T07:03:08Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Lock of George Washington's hair sold at auction for $4k",
+   "link": "https://www.cbsnews.com/news/george-washington-lock-of-hair-auction/",
+   "summary": "",
+   "published": "2026-11-28T06:59:01Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Cory Doctorow: Taylorism and AI's shared sales-pitch",
+   "link": "https://pluralistic.net/2026/11/27/taylor-made/",
+   "summary": "",
+   "published": "2026-11-28T06:57:51Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Wikipedia explainers lost a median 40% of views since 2022, biographies lost 9%",
+   "link": "https://growtika.com/blog/wikipedia-traffic-study",
+   "summary": "",
+   "published": "2026-11-28T06:51:04Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Changes to Word, Excel, and PowerPoint Agents in Microsoft Copilot",
+   "link": "https://mc.merill.net/message/MC1536062",
+   "summary": "",
+   "published": "2026-11-28T06:48:16Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "'The taste layer of the internet ': Reddit's COO on why AI needs humans",
+   "link": "https://www.euronews.com/2026/11/26/the-taste-layer-of-the-internet-reddits-coo-on-why-ai-needs-humans",
+   "summary": "",
+   "published": "2026-11-28T06:46:34Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "60,825 open problems. Point your agent at one",
+   "link": "https://lefttosolve.com/",
+   "summary": "",
+   "published": "2026-11-28T06:43:45Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "AI labs sitting on 'bombshell' revelations, experts warn",
+   "link": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
+   "summary": "",
+   "published": "2026-11-28T06:43:19Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Why AI is solving maths' hardest problems. Here's why you should care",
+   "link": "https://news.sky.com/video/why-ai-is-solving-maths-hardest-problems-heres-why-you-should-care-13617298",
+   "summary": "",
+   "published": "2026-11-28T06:28:03Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Nvidia and Kioxia 1.1PB SSD Memory Experiment Could Transform AI Infrastructure",
+   "link": "https://www.gizmoweek.com/gpu-memory-nvme-ssds/",
+   "summary": "",
+   "published": "2026-11-28T06:24:04Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: Locus – A fast Windows database client built with Rust and GPUI",
+   "link": "https://github.com/sao-coding/locus",
+   "summary": "",
+   "published": "2026-11-28T06:21:48Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Building a better Dependabot with AI agents",
+   "link": "https://cdm.dev/blog/better-dependabot/",
+   "summary": "",
+   "published": "2026-11-28T06:21:30Z"
+  },
+  {
+   "source": "Hacker News",
+   "title": "Show HN: A web scraper for your AI agents",
+   "link": "https://atlas-compiler.com/",
+   "summary": "",
+   "published": "2026-11-28T06:03:11Z"
+  }
+ ],
+ "total": 60
+}
